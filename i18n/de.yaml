@@ -174,7 +174,7 @@ SHADOWDARK.settings.track_light_sources.inactive_user.name: Track Inactive User 
 SHADOWDARK.settings.track_light_sources.interval.hint: How frequently tracked light sources will be updated in seconds.
 SHADOWDARK.settings.track_light_sources.interval.name: Light Tracking Interval (secs)
 SHADOWDARK.settings.track_light_sources.name: Track Light Sources
-0:
+0: SHADOWDARK.settings.track_light_sources.open_on_start.hint:	If checked the Light Tracking interface will open on startup (GM only).
 SHADOWDARK.settings.track_light_sources.open_on_start.name: Open Light Tracking UI on Startup
 1: SHADOWDARK.settings.track_light_sources.pause_with_game.hint:	If checked the Light Tracking will pause whenever Foundry is paused.
 SHADOWDARK.settings.track_light_sources.pause_with_game.name: Pause Light Tracking
