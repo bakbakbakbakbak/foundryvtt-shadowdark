@@ -30,6 +30,8 @@ SHADOWDARK.app.item_properties.weapon.title: Weapon Properties
 SHADOWDARK.app.light_tracker.minute_short: min
 SHADOWDARK.app.light_tracker.minutes_short: mins
 SHADOWDARK.app.light_tracker.title: Light Tracker
+SHADOWDARK.app.light-tracker.douse-light: Douse Light
+SHADOWDARK.app.light-tracker.turn-out-the-lights: Turn Out the Lights
 SHADOWDARK.armor.properties.disadvantage_stealth: Haitta/Hiipiminen
 SHADOWDARK.armor.properties.disadvantage_swimming: Haitta/Uiminen
 SHADOWDARK.armor.properties.no_swimming: Ei voi uida
@@ -181,8 +183,8 @@ SHADOWDARK.roll.success: Success! ({value})
 SHADOWDARK.settings.track_light_sources.hint: If checked the system will track and update the time remaining on any active light sources.
 SHADOWDARK.settings.track_light_sources.inactive_user.hint: If checked light sources belonging to inactive (not logged in) users will still be tracked.
 SHADOWDARK.settings.track_light_sources.inactive_user.name: Track Inactive User Light Sources
-SHADOWDARK.settings.track_light_sources.interval.hint: How frequently tracked light sources will be updated in seconds.
-SHADOWDARK.settings.track_light_sources.interval.name: Light Tracking Interval (secs)
+SHADOWDARK.settings.track_light_sources.interval.hint: How frequently tracked light sources will be updated, in minutes.
+SHADOWDARK.settings.track_light_sources.interval.name: Light Tracking Interval
 SHADOWDARK.settings.track_light_sources.name: Track Light Sources
 SHADOWDARK.settings.track_light_sources.open_on_start.hint: If checked the Light Tracking interface will open on startup (GM only).
 SHADOWDARK.settings.track_light_sources.open_on_start.name: Open Light Tracking UI on Startup
@@ -231,11 +233,14 @@ SHADOWDARK.sheet.player.title: Arvonimi
 SHADOWDARK.sheet.player.toggle_spell_lost: Toggle Spell Lost
 SHADOWDARK.sheet.player.tooltip.cast_spell: Cast Spell
 SHADOWDARK.sheet.player.xp: Kokemuspisteet
+SHADOWDARK.spellcasting_ability: Spellcasting Ability
 SHADOWDARK.spell_caster.priest: Priest
 SHADOWDARK.spell_caster.wizard: Wizard
 SHADOWDARK.spell_duration.focus: Keskittyessä
 SHADOWDARK.spell_duration.instant: Välitön
 SHADOWDARK.spell_duration.rounds: Kierrosta
+SHADOWDARK.spell_duration.days: Days
+SHADOWDARK.spell_duration.real_time: Real Time
 SHADOWDARK.spell_range.close: Vieressä
 SHADOWDARK.spell_range.far: Kaukana
 SHADOWDARK.spell_range.near: Lähellä
@@ -254,6 +259,7 @@ SHADOWDARK.talent.type.ranged_damage_bonus: Ranged Damage Roll Bonus
 SHADOWDARK.talent.type.spell_bonus: Spellcasting Bonus
 SHADOWDARK.talent.type.title: Talent Type(s)
 SHADOWDARK.talent.type.weapon_mastery: Weapon Mastery
+SHADOWDARK.talent.backstab: Backstab
 SHADOWDARK.weapon.properties.finesse: Hienovarainen
 SHADOWDARK.weapon.properties.loading: Ladattava
 SHADOWDARK.weapon.properties.thrown: Heitettävä
