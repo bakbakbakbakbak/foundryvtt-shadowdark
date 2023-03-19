@@ -30,6 +30,8 @@ SHADOWDARK.app.item_properties.weapon.title: Waffeneigenschaften
 SHADOWDARK.app.light_tracker.minute_short: min
 SHADOWDARK.app.light_tracker.minutes_short: mins
 SHADOWDARK.app.light_tracker.title: Light Tracker
+SHADOWDARK.app.light-tracker.douse-light: Douse Light
+SHADOWDARK.app.light-tracker.turn-out-the-lights: Turn Out the Lights
 SHADOWDARK.armor.properties.disadvantage_stealth: Nachteil/Heimlicheit
 SHADOWDARK.armor.properties.disadvantage_swimming: Nachteil/Schwimmen
 SHADOWDARK.armor.properties.no_swimming: Kein Schwimmen
@@ -181,8 +183,8 @@ SHADOWDARK.roll.success: Erfolg! ({value})
 SHADOWDARK.settings.track_light_sources.hint: If checked the system will track and update the time remaining on any active light sources.
 SHADOWDARK.settings.track_light_sources.inactive_user.hint: If checked light sources belonging to inactive (not logged in) users will still be tracked.
 SHADOWDARK.settings.track_light_sources.inactive_user.name: Track Inactive User Light Sources
-SHADOWDARK.settings.track_light_sources.interval.hint: How frequently tracked light sources will be updated in seconds.
-SHADOWDARK.settings.track_light_sources.interval.name: Light Tracking Interval (secs)
+SHADOWDARK.settings.track_light_sources.interval.hint: How frequently tracked light sources will be updated, in minutes.
+SHADOWDARK.settings.track_light_sources.interval.name: Light Tracking Interval
 SHADOWDARK.settings.track_light_sources.name: Track Light Sources
 SHADOWDARK.settings.track_light_sources.open_on_start.hint: If checked the Light Tracking interface will open on startup (GM only).
 SHADOWDARK.settings.track_light_sources.open_on_start.name: Open Light Tracking UI on Startup
@@ -231,11 +233,14 @@ SHADOWDARK.sheet.player.title: Titel
 SHADOWDARK.sheet.player.toggle_spell_lost: Zauber verloren
 SHADOWDARK.sheet.player.tooltip.cast_spell: Zauber wirken
 SHADOWDARK.sheet.player.xp: EP
+SHADOWDARK.spellcasting_ability: Spellcasting Ability
 SHADOWDARK.spell_caster.priest: Priester
 SHADOWDARK.spell_caster.wizard: Zauberer
 SHADOWDARK.spell_duration.focus: Fokus
 SHADOWDARK.spell_duration.instant: Unmittelbar
 SHADOWDARK.spell_duration.rounds: Runden
+SHADOWDARK.spell_duration.days: Days
+SHADOWDARK.spell_duration.real_time: Real Time
 SHADOWDARK.spell_range.close: Direkt
 SHADOWDARK.spell_range.far: Weit
 SHADOWDARK.spell_range.near: Nah
@@ -254,6 +259,7 @@ SHADOWDARK.talent.type.ranged_damage_bonus: Fernkampfschadenswurfbonus
 SHADOWDARK.talent.type.spell_bonus: Zauberbonus
 SHADOWDARK.talent.type.title: Talenttyp(en)
 SHADOWDARK.talent.type.weapon_mastery: Waffenmeisterung
+SHADOWDARK.talent.backstab: Backstab
 SHADOWDARK.weapon.properties.finesse: Finesse
 SHADOWDARK.weapon.properties.loading: laden
 SHADOWDARK.weapon.properties.thrown: Wurfwaffe
