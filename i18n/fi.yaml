@@ -180,8 +180,10 @@ SHADOWDARK.roll.failure: Failure! ({value})
 SHADOWDARK.roll.normal: Normal
 SHADOWDARK.roll.spell_casting_check: Spellcasting Check
 SHADOWDARK.roll.success: Success! ({value})
-SHADOWDARK.settings.track_light_sources.hint: If checked the system will track and update the time remaining on any active light sources.
-SHADOWDARK.settings.track_light_sources.inactive_user.hint: If checked light sources belonging to inactive (not logged in) users will still be tracked.
+SHADOWDARK.settings.track_light_sources.hint: >-
+  If checked the system will track and update the time remaining on any active light sources.
+SHADOWDARK.settings.track_light_sources.inactive_user.hint: >-
+  If checked light sources belonging to inactive (not logged in) users will still be tracked.
 SHADOWDARK.settings.track_light_sources.inactive_user.name: Track Inactive User Light Sources
 SHADOWDARK.settings.track_light_sources.interval.hint: How frequently tracked light sources will be updated, in minutes.
 SHADOWDARK.settings.track_light_sources.interval.name: Light Tracking Interval
@@ -208,6 +210,7 @@ SHADOWDARK.sheet.npc.dark-adapted: Dark-Adapted
 SHADOWDARK.sheet.npc.description_label: Description
 SHADOWDARK.sheet.npc.movement_short: Move
 SHADOWDARK.sheet.npc.movement: Movement
+SHADOWDARK.sheet.npc.special_label: Special
 SHADOWDARK.sheet.npc.tab.abilities: Abilities
 SHADOWDARK.sheet.npc.tab.description: Description
 SHADOWDARK.sheet.player.ancestry: Laji
@@ -233,17 +236,18 @@ SHADOWDARK.sheet.player.title: Arvonimi
 SHADOWDARK.sheet.player.toggle_spell_lost: Toggle Spell Lost
 SHADOWDARK.sheet.player.tooltip.cast_spell: Cast Spell
 SHADOWDARK.sheet.player.xp: Kokemuspisteet
-SHADOWDARK.spellcasting_ability: Spellcasting Ability
 SHADOWDARK.spell_caster.priest: Priest
 SHADOWDARK.spell_caster.wizard: Wizard
+SHADOWDARK.spell_duration.days: Days
 SHADOWDARK.spell_duration.focus: Keskittyessä
 SHADOWDARK.spell_duration.instant: Välitön
-SHADOWDARK.spell_duration.rounds: Kierrosta
-SHADOWDARK.spell_duration.days: Days
 SHADOWDARK.spell_duration.real_time: Real Time
+SHADOWDARK.spell_duration.rounds: Kierrosta
 SHADOWDARK.spell_range.close: Vieressä
 SHADOWDARK.spell_range.far: Kaukana
 SHADOWDARK.spell_range.near: Lähellä
+SHADOWDARK.spellcasting_ability: Spellcasting Ability
+SHADOWDARK.talent.backstab: Backstab
 SHADOWDARK.talent.type.ability_improvement: Ability Improvement
 SHADOWDARK.talent.type.advantage.hp: HP Roll Advantage
 SHADOWDARK.talent.type.advantage.initiative: Initiative Advantage
@@ -259,7 +263,6 @@ SHADOWDARK.talent.type.ranged_damage_bonus: Ranged Damage Roll Bonus
 SHADOWDARK.talent.type.spell_bonus: Spellcasting Bonus
 SHADOWDARK.talent.type.title: Talent Type(s)
 SHADOWDARK.talent.type.weapon_mastery: Weapon Mastery
-SHADOWDARK.talent.backstab: Backstab
 SHADOWDARK.weapon.properties.finesse: Hienovarainen
 SHADOWDARK.weapon.properties.loading: Ladattava
 SHADOWDARK.weapon.properties.thrown: Heitettävä
@@ -267,3 +270,16 @@ SHADOWDARK.weapon.properties.two_handed: Kaksikätinen
 SHADOWDARK.weapon.properties.versatile: Yhden tai kahden käden ase
 SHADOWDARK.weapon.type.melee: Lähitaistelu ase
 SHADOWDARK.weapon.type.ranged: Kantama-ase
+SHADOWDARK.item.magic_item.is_magic: Magic Item
+SHADOWDARK.item.magic_item.title: Magic Item Effect(s)
+SHADOWDARK.item.magic_item.type.critMultiplier: Critical Multiplier
+SHADOWDARK.item.magic_item.type.attackBonus: Attack Bonus
+SHADOWDARK.item.magic_item.type.damageBonus: Damage Bonus
+SHADOWDARK.item.magic_item.type.permanentAbility: Permanent Ability Change
+SHADOWDARK.item.magic_item.type.criticalSuccessThreshold: Lower Critical Success Threshold
+SHADOWDARK.item.magic_item.type.criticalFailureThreshold: Higher Critical Failure Threshold
+SHADOWDARK.item.magic_item.type.custom: Custom Effect
+SHADOWDARK.app.item_properties.magic_item.effects.title: Magic Item Effects
+SHADOWDARK.effect.custom: Custom Effects
+SHADOWDARK.app.active_effects.title: Active Effects
+SHADOWDARK.sheet.player.available_spells: Available Spells
