@@ -30,8 +30,8 @@ SHADOWDARK.app.item_properties.weapon.title: Vapenegenskaper
 SHADOWDARK.app.light_tracker.minute_short: min
 SHADOWDARK.app.light_tracker.minutes_short: min
 SHADOWDARK.app.light_tracker.title: Ljuskällespårare
-SHADOWDARK.app.light-tracker.douse-light: Douse Light
-SHADOWDARK.app.light-tracker.turn-out-the-lights: Turn Out the Lights
+SHADOWDARK.app.light-tracker.douse-light: Släck ljus
+SHADOWDARK.app.light-tracker.turn-out-the-lights: Släck ljusen
 SHADOWDARK.armor.properties.disadvantage_stealth: Nackdel/Smyga
 SHADOWDARK.armor.properties.disadvantage_swimming: Nackdel/Simma
 SHADOWDARK.armor.properties.no_swimming: Ingen Simma
@@ -183,8 +183,8 @@ SHADOWDARK.roll.success: Lyckades! ({value})
 SHADOWDARK.settings.track_light_sources.hint: Om markerad kommer systemet att spåra och uppdatera den tid som återstår på alla aktiva ljuskällor.
 SHADOWDARK.settings.track_light_sources.inactive_user.hint: Om markerade ljuskällor som tillhör inaktiva (inte inloggade) användare, kommer tiden fortfarande att spåras.
 SHADOWDARK.settings.track_light_sources.inactive_user.name: Spåra inaktiva användares ljuskällor
-SHADOWDARK.settings.track_light_sources.interval.hint: How frequently tracked light sources will be updated, in minutes.
-SHADOWDARK.settings.track_light_sources.interval.name: Light Tracking Interval
+SHADOWDARK.settings.track_light_sources.interval.hint: Hur ofta ljuskällor ska uppdateras, i minuter.
+SHADOWDARK.settings.track_light_sources.interval.name: Uppdateringsintervall för ljus
 SHADOWDARK.settings.track_light_sources.name: Spåra ljuskällor
 SHADOWDARK.settings.track_light_sources.open_on_start.hint: Om markerad kommer ljusspårning visas vid start (enbart SL).
 SHADOWDARK.settings.track_light_sources.open_on_start.name: Öppna ljusspåraren vid start
@@ -233,14 +233,14 @@ SHADOWDARK.sheet.player.title: Titel
 SHADOWDARK.sheet.player.toggle_spell_lost: Ange Förlorad
 SHADOWDARK.sheet.player.tooltip.cast_spell: Kasta besvärjelse
 SHADOWDARK.sheet.player.xp: XP
-SHADOWDARK.spellcasting_ability: Spellcasting Ability
+SHADOWDARK.spellcasting_ability: Besvärjelseförmåga
 SHADOWDARK.spell_caster.priest: Präst
 SHADOWDARK.spell_caster.wizard: Trollkarl
 SHADOWDARK.spell_duration.focus: Fokus
 SHADOWDARK.spell_duration.instant: Ögonblicklig
 SHADOWDARK.spell_duration.rounds: Rundor
-SHADOWDARK.spell_duration.days: Days
-SHADOWDARK.spell_duration.real_time: Real Time
+SHADOWDARK.spell_duration.days: Dagar
+SHADOWDARK.spell_duration.real_time: Realtid
 SHADOWDARK.spell_range.close: Kroppsnära
 SHADOWDARK.spell_range.far: Avstånd
 SHADOWDARK.spell_range.near: Nära
@@ -259,7 +259,7 @@ SHADOWDARK.talent.type.ranged_damage_bonus: Bonus för Avståndsskada
 SHADOWDARK.talent.type.spell_bonus: Bonus för Besvärjelsekast
 SHADOWDARK.talent.type.title: Talangtyp(er)
 SHADOWDARK.talent.type.weapon_mastery: Vapenmästeri
-SHADOWDARK.talent.backstab: Backstab
+SHADOWDARK.talent.backstab: Rygghugg
 SHADOWDARK.weapon.properties.finesse: Finess
 SHADOWDARK.weapon.properties.loading: Ladda
 SHADOWDARK.weapon.properties.thrown: Kasta
