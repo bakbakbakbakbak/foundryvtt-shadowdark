@@ -180,10 +180,8 @@ SHADOWDARK.roll.failure: Misslyckades! ({value})
 SHADOWDARK.roll.normal: Normal
 SHADOWDARK.roll.spell_casting_check: Besvärjelse Check
 SHADOWDARK.roll.success: Lyckades! ({value})
-SHADOWDARK.settings.track_light_sources.hint: >-
-  Om markerad kommer systemet att spåra och uppdatera den tid som återstår på alla aktiva ljuskällor.
-SHADOWDARK.settings.track_light_sources.inactive_user.hint: >-
-  Om markerade ljuskällor som tillhör inaktiva (inte inloggade) användare, kommer tiden fortfarande att spåras.
+SHADOWDARK.settings.track_light_sources.hint: Om markerad kommer systemet att spåra och uppdatera den tid som återstår på alla aktiva ljuskällor.
+SHADOWDARK.settings.track_light_sources.inactive_user.hint: Om markerade ljuskällor som tillhör inaktiva (inte inloggade) användare, kommer tiden fortfarande att spåras
 SHADOWDARK.settings.track_light_sources.inactive_user.name: Spåra inaktiva användares ljuskällor
 SHADOWDARK.settings.track_light_sources.interval.hint: Hur ofta ljuskällor ska uppdateras, i minuter.
 SHADOWDARK.settings.track_light_sources.interval.name: Uppdateringsintervall för ljus
@@ -270,16 +268,38 @@ SHADOWDARK.weapon.properties.two_handed: Två-handat
 SHADOWDARK.weapon.properties.versatile: Versatilt
 SHADOWDARK.weapon.type.melee: Närstrid
 SHADOWDARK.weapon.type.ranged: Avståndsstrid
-SHADOWDARK.item.magic_item.is_magic: Magic Item
-SHADOWDARK.item.magic_item.title: Magic Item Effect(s)
-SHADOWDARK.item.magic_item.type.critMultiplier: Critical Multiplier
-SHADOWDARK.item.magic_item.type.attackBonus: Attack Bonus
-SHADOWDARK.item.magic_item.type.damageBonus: Damage Bonus
-SHADOWDARK.item.magic_item.type.permanentAbility: Permanent Ability Change
-SHADOWDARK.item.magic_item.type.criticalSuccessThreshold: Lower Critical Success Threshold
-SHADOWDARK.item.magic_item.type.criticalFailureThreshold: Higher Critical Failure Threshold
-SHADOWDARK.item.magic_item.type.custom: Custom Effect
-SHADOWDARK.app.item_properties.magic_item.effects.title: Magic Item Effects
-SHADOWDARK.effect.custom: Custom Effects
-SHADOWDARK.app.active_effects.title: Active Effects
-SHADOWDARK.sheet.player.available_spells: Available Spells
+SHADOWDARK.item.magic_item.is_magic: Magiskt föremål
+SHADOWDARK.item.magic_item.title: Magiska Föremålseffekter
+SHADOWDARK.item.magic_item.type.critMultiplier: Multiplikator vid kritiskt träff
+SHADOWDARK.item.magic_item.type.attackBonus: Attackbonus
+SHADOWDARK.item.magic_item.type.damageBonus: Skadebonus
+SHADOWDARK.item.magic_item.type.permanentAbility: Permanent Förmågeförändring
+SHADOWDARK.item.magic_item.type.criticalSuccessThreshold: Lägre tröskel för kritisk träff
+SHADOWDARK.item.magic_item.type.criticalFailureThreshold: Högre tröskel för kritiskt misslyckande
+SHADOWDARK.item.magic_item.type.custom: Anpassad effekt
+SHADOWDARK.app.item_properties.magic_item.effects.title: Magiska Föremålseffekter
+SHADOWDARK.effect.custom: Anpassade effekter
+SHADOWDARK.app.active_effects.title: Aktiva effekter
+SHADOWDARK.sheet.player.available_spells: Tillgängliga besvärjelser
+SHADOWDARK.item.armor.base_armor.title: Grundrustning
+SHADOWDARK.item.armor.base_armor.chainmail: Ringbrynja
+SHADOWDARK.item.armor.base_armor.leather_armor: Läderrustning
+SHADOWDARK.item.armor.base_armor.plate_mail: Pansarrustning
+SHADOWDARK.item.armor.base_armor.shield: Sköld
+SHADOWDARK.item.armor.base_weapon.title: Grundvapen
+SHADOWDARK.item.weapon.base_weapon.bastard_sword: Bastardsvärd
+SHADOWDARK.item.weapon.base_weapon.club: Knölpåk
+SHADOWDARK.item.weapon.base_weapon.crossbow: Armborst
+SHADOWDARK.item.weapon.base_weapon.dagger: Dolk
+SHADOWDARK.item.weapon.base_weapon.greataxe: Storyxa
+SHADOWDARK.item.weapon.base_weapon.greatsword: Storsvärd
+SHADOWDARK.item.weapon.base_weapon.javelin: Kastspjut
+SHADOWDARK.item.weapon.base_weapon.longbow: Långbåge
+SHADOWDARK.item.weapon.base_weapon.longsword: Långsvärd
+SHADOWDARK.item.weapon.base_weapon.mace: Spikklubba
+SHADOWDARK.item.weapon.base_weapon.shortbow: Kortbåge
+SHADOWDARK.item.weapon.base_weapon.shortsword: Kortsvärd
+SHADOWDARK.item.weapon.base_weapon.spear: Spjut
+SHADOWDARK.item.weapon.base_weapon.staff: Stav
+SHADOWDARK.item.weapon.base_weapon.wand: Trollstav
+SHADOWDARK.item.weapon.base_weapon.warhammer: Stridshammare
