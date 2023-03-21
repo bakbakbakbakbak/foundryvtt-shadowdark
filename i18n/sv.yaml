@@ -42,12 +42,12 @@ SHADOWDARK.armor.properties.shield: Sköld
 SHADOWDARK.chat.item_roll.double_numerical: Dubbla valfritt numeriskt värde!
 SHADOWDARK.chat.item_roll.mishap: Rulla på lämplig felkast-tabell!
 SHADOWDARK.chat.item_roll.title: Attackerar med {name}
-SHADOWDARK.chat.light_source.expired: "{name}'s {lightSource} expired"
-SHADOWDARK.chat.light_source.remaining: minutes remaining
-SHADOWDARK.chat.light_source.source.all: All light sources went out
-SHADOWDARK.chat.light_source.source.toggle.off: was doused
-SHADOWDARK.chat.light_source.source.toggle.on: was lit
-SHADOWDARK.chat.light_source.went_out: "{name}'s {lightSource} went out"
+SHADOWDARK.chat.light_source.expired: "{name}s {lightSource} slocknade"
+SHADOWDARK.chat.light_source.remaining: minuter kvar
+SHADOWDARK.chat.light_source.source.all: Alla ljuskällor slocknade
+SHADOWDARK.chat.light_source.source.toggle.off: släcktes
+SHADOWDARK.chat.light_source.source.toggle.on: tändes
+SHADOWDARK.chat.light_source.went_out: "{name}s {lightSource} slocknade"
 SHADOWDARK.chat.spell_roll.title: Kastar {name} som grad {tier} med svårighetsgrad {spellDC}
 SHADOWDARK.chatcard.default: Rulla
 SHADOWDARK.class.fighter: Krigare
@@ -144,7 +144,7 @@ SHADOWDARK.item.level: Nivå
 SHADOWDARK.item.light.is_source: Ljuskälla
 SHADOWDARK.item.light.longevity: Livslängd (min)
 SHADOWDARK.item.light.remaining: Återstående (min)
-SHADOWDARK.item.light.template: Light Template
+SHADOWDARK.item.light.template: Ljusmall
 SHADOWDARK.item.magic_item.is_magic: Magiskt föremål
 SHADOWDARK.item.magic_item.title: Magiska Föremålseffekter
 SHADOWDARK.item.magic_item.type.attackBonus: Attackbonus
@@ -154,19 +154,19 @@ SHADOWDARK.item.magic_item.type.critMultiplier: Multiplikator vid kritiskt träf
 SHADOWDARK.item.magic_item.type.custom: Anpassad effekt
 SHADOWDARK.item.magic_item.type.damageBonus: Skadebonus
 SHADOWDARK.item.magic_item.type.permanentAbility: Permanent Förmågeförändring
-SHADOWDARK.item.npc_attack_bonus: Attack Bonus
-SHADOWDARK.item.npc_attack_count: Num. Attacks
-SHADOWDARK.item.npc_attack_damage_bonus: Damage Bonus
-SHADOWDARK.item.npc_attack_damage: Damage Die
+SHADOWDARK.item.npc_attack_bonus: Attackbonus
+SHADOWDARK.item.npc_attack_count: Antal Attacker
+SHADOWDARK.item.npc_attack_damage_bonus: Skadebonus
+SHADOWDARK.item.npc_attack_damage: Skadetärning
 SHADOWDARK.item.npc_attack_special: Special
-SHADOWDARK.item.npc_attack_type: Type
-SHADOWDARK.item.npc_attack.num_damage_dice: Num. Damage Dice
+SHADOWDARK.item.npc_attack_type: Typ
+SHADOWDARK.item.npc_attack.num_damage_dice: Antal skadetärningar
 SHADOWDARK.item.properties: Egenskaper
 SHADOWDARK.item.spell_caster_classes: Besvärjelseklasser
 SHADOWDARK.item.spell_duration: Varaktighet
 SHADOWDARK.item.spell_range: Räckvidd
 SHADOWDARK.item.spell_tier: Grad
-SHADOWDARK.item.talent_class: Talent Class
+SHADOWDARK.item.talent_class: Talangklass
 SHADOWDARK.item.treasure: Skatt
 SHADOWDARK.item.weapon_damage.oneHanded_short: 1H
 SHADOWDARK.item.weapon_damage.oneHanded: 1H Skada
@@ -204,17 +204,17 @@ SHADOWDARK.language.primordial: Primordial
 SHADOWDARK.language.reptilian: Reptiliska
 SHADOWDARK.language.sylvan: Sylvan
 SHADOWDARK.language.thanian: Thaniska
-SHADOWDARK.light_source.lantern: Lantern
-SHADOWDARK.light_source.torch: Torch
+SHADOWDARK.light_source.lantern: Lykta
+SHADOWDARK.light_source.torch: Fackla
 SHADOWDARK.light-tracker.active: Aktiv
 SHADOWDARK.light-tracker.paused: Pausad
 SHADOWDARK.light-tracker.status.label: Status
 SHADOWDARK.light-tracker.title.prefix: Ljus
 SHADOWDARK.light-tracker.title.suffix: Spårare
-SHADOWDARK.npc_attack.type.physical: Physical
+SHADOWDARK.npc_attack.type.physical: Fysisk
 SHADOWDARK.npc_attack.type.special: Special
-SHADOWDARK.npc_move.double_near: Double Near
-SHADOWDARK.npc_move.near: Near
+SHADOWDARK.npc_move.double_near: Dubbelnära
+SHADOWDARK.npc_move.near: Nära
 SHADOWDARK.range.close_short: K
 SHADOWDARK.range.close: Kroppsnära
 SHADOWDARK.range.far_short: A
@@ -257,14 +257,14 @@ SHADOWDARK.sheet.class.npc: Shadowdark NPC Ark
 SHADOWDARK.sheet.class.player: Shadowdark Spelarblad
 SHADOWDARK.sheet.general.item_delete.title: Ta bort föremål
 SHADOWDARK.sheet.general.item_edit.title: Förändra föremål
-SHADOWDARK.sheet.item.tab.description: Description
-SHADOWDARK.sheet.item.tab.details: Details
-SHADOWDARK.sheet.item.tab.light: Light
-SHADOWDARK.sheet.item.tab.magic: Magic
+SHADOWDARK.sheet.item.tab.description: Beskrivning
+SHADOWDARK.sheet.item.tab.details: Detaljer
+SHADOWDARK.sheet.item.tab.light: Ljus
+SHADOWDARK.sheet.item.tab.magic: Magi
 SHADOWDARK.sheet.npc.attacks_label: Attacker
 SHADOWDARK.sheet.npc.dark_adapted: Mörkanpassad
 SHADOWDARK.sheet.npc.description_label: Beskrivning
-SHADOWDARK.sheet.npc.features_label: Features
+SHADOWDARK.sheet.npc.features_label: Funktioner
 SHADOWDARK.sheet.npc.movement_short: Flytta
 SHADOWDARK.sheet.npc.movement: Förflyttning
 SHADOWDARK.sheet.npc.tab.abilities: Förmågor
@@ -305,9 +305,9 @@ SHADOWDARK.spell_range.far: Avstånd
 SHADOWDARK.spell_range.near: Nära
 SHADOWDARK.spellcasting_ability: Besvärjelseförmåga
 SHADOWDARK.talent.backstab: Rygghugg
-SHADOWDARK.talent.class.ancestry: Ancestry
-SHADOWDARK.talent.class.class: Class
-SHADOWDARK.talent.class.level: Level
+SHADOWDARK.talent.class.ancestry: Ursprung
+SHADOWDARK.talent.class.class: Klass
+SHADOWDARK.talent.class.level: Nivå
 SHADOWDARK.talent.type.ability_improvement: Förbättring av förmåga
 SHADOWDARK.talent.type.advantage.hp: Fördel KP Rullning
 SHADOWDARK.talent.type.advantage.initiative: Fördel på Initiativ
@@ -330,5 +330,5 @@ SHADOWDARK.weapon.properties.two_handed: Två-handat
 SHADOWDARK.weapon.properties.versatile: Versatilt
 SHADOWDARK.weapon.type.melee: Närstrid
 SHADOWDARK.weapon.type.ranged: Avståndsstrid
-SHADOWDARK.light_source.light_spell.double_near: Light Spell (Double Near)
-SHADOWDARK.light_source.light_spell.near: Light Spell (Near)
+SHADOWDARK.light_source.light_spell.double_near: Ljusmagi (Dubbelnära)
+SHADOWDARK.light_source.light_spell.near: Ljusmagi (Nära)
