@@ -34,6 +34,7 @@ SHADOWDARK.app.light_tracker.minutes_short: min
 SHADOWDARK.app.light_tracker.title: Ljuskällespårare
 SHADOWDARK.app.light-tracker.douse-light: Släck ljus
 SHADOWDARK.app.light-tracker.turn-out-the-lights: Släck ljusen
+SHADOWDARK.app.npc_attack_ranges.title: Attack Ranges
 SHADOWDARK.armor.properties.disadvantage_stealth: Nackdel/Smyga
 SHADOWDARK.armor.properties.disadvantage_swimming: Nackdel/Simma
 SHADOWDARK.armor.properties.no_swimming: Ingen Simma
@@ -80,7 +81,7 @@ SHADOWDARK.dialog.item.confirm_sale: Bekräfta försäljning
 SHADOWDARK.dialog.item.delete: Ta bort
 SHADOWDARK.dialog.item.sell_all: Sälj allt
 SHADOWDARK.dialog.item.sell: Sälj
-SHADOWDARK.dialog.roll_mode_label: Välj rullningsläge
+SHADOWDARK.dialog.roll_mode_label: Rolling mode
 SHADOWDARK.dialog.roll: Rulla
 SHADOWDARK.dialog.spell_roll.title: Rulla besvärjelse med
 SHADOWDARK.dialog.tooltip.talent_advantage: En talang ger dig fördel
@@ -205,6 +206,8 @@ SHADOWDARK.language.reptilian: Reptiliska
 SHADOWDARK.language.sylvan: Sylvan
 SHADOWDARK.language.thanian: Thaniska
 SHADOWDARK.light_source.lantern: Lykta
+SHADOWDARK.light_source.light_spell.double_near: Ljusmagi (Dubbelnära)
+SHADOWDARK.light_source.light_spell.near: Ljusmagi (Nära)
 SHADOWDARK.light_source.torch: Fackla
 SHADOWDARK.light-tracker.active: Aktiv
 SHADOWDARK.light-tracker.paused: Pausad
@@ -330,5 +333,3 @@ SHADOWDARK.weapon.properties.two_handed: Två-handat
 SHADOWDARK.weapon.properties.versatile: Versatilt
 SHADOWDARK.weapon.type.melee: Närstrid
 SHADOWDARK.weapon.type.ranged: Avståndsstrid
-SHADOWDARK.light_source.light_spell.double_near: Ljusmagi (Dubbelnära)
-SHADOWDARK.light_source.light_spell.near: Ljusmagi (Nära)
