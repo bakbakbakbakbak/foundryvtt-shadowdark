@@ -34,7 +34,7 @@ SHADOWDARK.app.light_tracker.minutes_short: min
 SHADOWDARK.app.light_tracker.title: Ljuskällespårare
 SHADOWDARK.app.light-tracker.douse-light: Släck ljus
 SHADOWDARK.app.light-tracker.turn-out-the-lights: Släck ljusen
-SHADOWDARK.app.npc_attack_ranges.title: Attack Ranges
+SHADOWDARK.app.npc_attack_ranges.title: Attackavstånd
 SHADOWDARK.armor.properties.disadvantage_stealth: Nackdel/Smyga
 SHADOWDARK.armor.properties.disadvantage_swimming: Nackdel/Simma
 SHADOWDARK.armor.properties.no_swimming: Ingen Simma
@@ -81,7 +81,7 @@ SHADOWDARK.dialog.item.confirm_sale: Bekräfta försäljning
 SHADOWDARK.dialog.item.delete: Ta bort
 SHADOWDARK.dialog.item.sell_all: Sälj allt
 SHADOWDARK.dialog.item.sell: Sälj
-SHADOWDARK.dialog.roll_mode_label: Rolling mode
+SHADOWDARK.dialog.roll_mode_label: Rull-läge
 SHADOWDARK.dialog.roll: Rulla
 SHADOWDARK.dialog.spell_roll.title: Rulla besvärjelse med
 SHADOWDARK.dialog.tooltip.talent_advantage: En talang ger dig fördel
