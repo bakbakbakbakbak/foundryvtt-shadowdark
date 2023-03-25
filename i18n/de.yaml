@@ -129,11 +129,11 @@ SHADOWDARK.item.armor_ac_modifier: Modifikator
 SHADOWDARK.item.armor_ac: RK
 SHADOWDARK.item.armor_bonus_attribute: Bonus Attribut
 SHADOWDARK.item.armor.base_armor.chainmail: Kettenrüstung
-SHADOWDARK.item.armor.base_armor.leather_armor: Leather Armor
-SHADOWDARK.item.armor.base_armor.plate_mail: Plate Mail
-SHADOWDARK.item.armor.base_armor.shield: Shield
-SHADOWDARK.item.armor.base_armor.title: Base Armor
-SHADOWDARK.item.armor.base_weapon.title: Base Weapon
+SHADOWDARK.item.armor.base_armor.leather_armor: Lederrüstung
+SHADOWDARK.item.armor.base_armor.plate_mail: Plattenrüstung
+SHADOWDARK.item.armor.base_armor.shield: Schild
+SHADOWDARK.item.armor.base_armor.title: Basisrüstung
+SHADOWDARK.item.armor.base_weapon.title: Basiswaffe
 SHADOWDARK.item.cost: Kosten
 SHADOWDARK.item.description: Beschreibung
 SHADOWDARK.item.equipped: Angelegt
@@ -141,33 +141,33 @@ SHADOWDARK.item.inventory_free_carry: Freies Tragen
 SHADOWDARK.item.inventory_per_slot: Max pro Platz
 SHADOWDARK.item.inventory_quantity: Menge
 SHADOWDARK.item.inventory_slots: Plätze pro Gegenstand
-SHADOWDARK.item.level: Level
-SHADOWDARK.item.light.is_source: Light Source
-SHADOWDARK.item.light.longevity: Longevity (Mins)
-SHADOWDARK.item.light.remaining: Remaining (Mins)
-SHADOWDARK.item.light.template: Light Template
-SHADOWDARK.item.magic_item.is_magic: Magic Item
-SHADOWDARK.item.magic_item.title: Magic Item Effect(s)
-SHADOWDARK.item.magic_item.type.attackBonus: Attack Bonus
-SHADOWDARK.item.magic_item.type.criticalFailureThreshold: Higher Critical Failure Threshold
-SHADOWDARK.item.magic_item.type.criticalSuccessThreshold: Lower Critical Success Threshold
-SHADOWDARK.item.magic_item.type.critMultiplier: Critical Multiplier
-SHADOWDARK.item.magic_item.type.custom: Custom Effect
-SHADOWDARK.item.magic_item.type.damageBonus: Damage Bonus
-SHADOWDARK.item.magic_item.type.permanentAbility: Permanent Ability Change
-SHADOWDARK.item.npc_attack_bonus: Attack Bonus
-SHADOWDARK.item.npc_attack_count: Num. Attacks
-SHADOWDARK.item.npc_attack_damage_bonus: Damage Bonus
-SHADOWDARK.item.npc_attack_damage: Damage Die
-SHADOWDARK.item.npc_attack_special: Special
-SHADOWDARK.item.npc_attack_type: Type
-SHADOWDARK.item.npc_attack.num_damage_dice: Num. Damage Dice
+SHADOWDARK.item.level: Stufe
+SHADOWDARK.item.light.is_source: Lichtquelle
+SHADOWDARK.item.light.longevity: Leuchtdauer (Min)
+SHADOWDARK.item.light.remaining: Verbleibend (Min)
+SHADOWDARK.item.light.template: Lichtvorlage
+SHADOWDARK.item.magic_item.is_magic: Magischer Gegenstand
+SHADOWDARK.item.magic_item.title: Magische Gegenstandseffekt(e)
+SHADOWDARK.item.magic_item.type.attackBonus: Angriffsbonus
+SHADOWDARK.item.magic_item.type.criticalFailureThreshold: Höherer Grenzwert für kritische Fehlschläge
+SHADOWDARK.item.magic_item.type.criticalSuccessThreshold: Niedrigerer Grenzwert für kritische Erfolge
+SHADOWDARK.item.magic_item.type.critMultiplier: Krit-Multiplikator
+SHADOWDARK.item.magic_item.type.custom: Benutzerdefinierter Effekt
+SHADOWDARK.item.magic_item.type.damageBonus: Schadensbonus
+SHADOWDARK.item.magic_item.type.permanentAbility: Permanente Fähigkeitsänderung
+SHADOWDARK.item.npc_attack_bonus: Angriffsbonus
+SHADOWDARK.item.npc_attack_count: Anzahl Angriffe
+SHADOWDARK.item.npc_attack_damage_bonus: Schadensbonus
+SHADOWDARK.item.npc_attack_damage: Schadenswürfel
+SHADOWDARK.item.npc_attack_special: Spezial
+SHADOWDARK.item.npc_attack_type: Typ
+SHADOWDARK.item.npc_attack.num_damage_dice: Anz. Schadenswürfel
 SHADOWDARK.item.properties: Eigenschaften
 SHADOWDARK.item.spell_caster_classes: Zauberwirkerklassen
 SHADOWDARK.item.spell_duration: Dauer
 SHADOWDARK.item.spell_range: Distanz
 SHADOWDARK.item.spell_tier: Stufe
-SHADOWDARK.item.talent_class: Talent Class
+SHADOWDARK.item.talent_class: Talentklasse
 SHADOWDARK.item.treasure: Schätze
 SHADOWDARK.item.weapon_damage.oneHanded_short: 1H
 SHADOWDARK.item.weapon_damage.oneHanded: 1H Schaden
@@ -175,23 +175,23 @@ SHADOWDARK.item.weapon_damage.twoHanded_short: 2H
 SHADOWDARK.item.weapon_damage.twoHanded: 2H Schaden
 SHADOWDARK.item.weapon_range: Distanz
 SHADOWDARK.item.weapon_type: Typ
-SHADOWDARK.item.weapon.base_weapon.bastard_sword: Bastard Sword
-SHADOWDARK.item.weapon.base_weapon.club: Club
-SHADOWDARK.item.weapon.base_weapon.crossbow: Crossbow
-SHADOWDARK.item.weapon.base_weapon.dagger: Dagger
-SHADOWDARK.item.weapon.base_weapon.greataxe: Greataxe
-SHADOWDARK.item.weapon.base_weapon.greatsword: Greatsword
-SHADOWDARK.item.weapon.base_weapon.javelin: Javelin
-SHADOWDARK.item.weapon.base_weapon.longbow: Longbow
-SHADOWDARK.item.weapon.base_weapon.longsword: Longsword
-SHADOWDARK.item.weapon.base_weapon.mace: Mace
-SHADOWDARK.item.weapon.base_weapon.shortbow: Shortbow
-SHADOWDARK.item.weapon.base_weapon.shortsword: Shortsword
-SHADOWDARK.item.weapon.base_weapon.spear: Spear
-SHADOWDARK.item.weapon.base_weapon.staff: Staff
-SHADOWDARK.item.weapon.base_weapon.wand: Wand
-SHADOWDARK.item.weapon.base_weapon.warhammer: Warhammer
-SHADOWDARK.language.celestial: Celestial
+SHADOWDARK.item.weapon.base_weapon.bastard_sword: Bastardschwert
+SHADOWDARK.item.weapon.base_weapon.club: Knüppel
+SHADOWDARK.item.weapon.base_weapon.crossbow: Armbrust
+SHADOWDARK.item.weapon.base_weapon.dagger: Dolch
+SHADOWDARK.item.weapon.base_weapon.greataxe: Streitaxt
+SHADOWDARK.item.weapon.base_weapon.greatsword: Zweihänder
+SHADOWDARK.item.weapon.base_weapon.javelin: Wurfspeer
+SHADOWDARK.item.weapon.base_weapon.longbow: Langbogen
+SHADOWDARK.item.weapon.base_weapon.longsword: Langschwert
+SHADOWDARK.item.weapon.base_weapon.mace: Streitkolben
+SHADOWDARK.item.weapon.base_weapon.shortbow: Kurzbogen
+SHADOWDARK.item.weapon.base_weapon.shortsword: Kurzschwert
+SHADOWDARK.item.weapon.base_weapon.spear: Speer
+SHADOWDARK.item.weapon.base_weapon.staff: Stab
+SHADOWDARK.item.weapon.base_weapon.wand: Zauberstab
+SHADOWDARK.item.weapon.base_weapon.warhammer: Kriegshammer
+SHADOWDARK.language.celestial: Himmlisch
 SHADOWDARK.language.common: Gemeinsprache
 SHADOWDARK.language.diabolic: Diabolisch
 SHADOWDARK.language.draconic: Drakonisch
@@ -205,19 +205,19 @@ SHADOWDARK.language.primordial: Urtümlich
 SHADOWDARK.language.reptilian: Reptilisch
 SHADOWDARK.language.sylvan: Sylvanisch
 SHADOWDARK.language.thanian: Thanisch
-SHADOWDARK.light_source.lantern: Lantern
-SHADOWDARK.light_source.light_spell.double_near: Light Spell (Double Near)
-SHADOWDARK.light_source.light_spell.near: Light Spell (Near)
-SHADOWDARK.light_source.torch: Torch
-SHADOWDARK.light-tracker.active: Active
-SHADOWDARK.light-tracker.paused: Paused
+SHADOWDARK.light_source.lantern: Laterne
+SHADOWDARK.light_source.light_spell.double_near: Lichtzauber (doppelt Nah)
+SHADOWDARK.light_source.light_spell.near: Lichtzauber (Nah)
+SHADOWDARK.light_source.torch: Fackel
+SHADOWDARK.light-tracker.active: Aktiv
+SHADOWDARK.light-tracker.paused: Pausiert
 SHADOWDARK.light-tracker.status.label: Status
-SHADOWDARK.light-tracker.title.prefix: Light
+SHADOWDARK.light-tracker.title.prefix: Licht
 SHADOWDARK.light-tracker.title.suffix: Tracker
-SHADOWDARK.npc_attack.type.physical: Physical
-SHADOWDARK.npc_attack.type.special: Special
-SHADOWDARK.npc_move.double_near: Double Near
-SHADOWDARK.npc_move.near: Near
+SHADOWDARK.npc_attack.type.physical: Physisch
+SHADOWDARK.npc_attack.type.special: Spezial
+SHADOWDARK.npc_move.double_near: Doppelt Nah
+SHADOWDARK.npc_move.near: Nah
 SHADOWDARK.range.close_short: D
 SHADOWDARK.range.close: Direkt
 SHADOWDARK.range.far_short: W
@@ -238,16 +238,16 @@ SHADOWDARK.roll.failure: Fehlschlag! ({value})
 SHADOWDARK.roll.normal: Normal
 SHADOWDARK.roll.spell_casting_check: Zauberwurf
 SHADOWDARK.roll.success: Erfolg! ({value})
-SHADOWDARK.settings.track_light_sources.hint: If checked the system will track and update the time remaining on any active light sources.
-SHADOWDARK.settings.track_light_sources.inactive_user.hint: If checked light sources belonging to inactive (not logged in) users will still be tracked
-SHADOWDARK.settings.track_light_sources.inactive_user.name: Track Inactive User Light Sources
-SHADOWDARK.settings.track_light_sources.interval.hint: How frequently tracked light sources will be updated, in minutes.
-SHADOWDARK.settings.track_light_sources.interval.name: Light Tracking Interval
-SHADOWDARK.settings.track_light_sources.name: Track Light Sources
-SHADOWDARK.settings.track_light_sources.open_on_start.hint: If checked the Light Tracking interface will open on startup (GM only).
-SHADOWDARK.settings.track_light_sources.open_on_start.name: Open Light Tracking UI on Startup
-SHADOWDARK.settings.track_light_sources.pause_with_game.hint: If checked the Light Tracking will pause whenever Foundry is paused.
-SHADOWDARK.settings.track_light_sources.pause_with_game.name: Pause Light Tracking
+SHADOWDARK.settings.track_light_sources.hint: Wenn aktiviert, wird das System die verbleibende Zeit auf allen aktiven Lichtquellen tracken und aktualisieren.
+SHADOWDARK.settings.track_light_sources.inactive_user.hint: Wenn aktiviert, werden Lichtquellen, die zu inaktiven (nicht angemeldeten) Benutzern gehören weiterhin getrackt
+SHADOWDARK.settings.track_light_sources.inactive_user.name: Lichtquellen inaktiver Benutzer tracken
+SHADOWDARK.settings.track_light_sources.interval.hint: Wie häufig erfasste Lichtquellen in Minuten aktualisiert werden.
+SHADOWDARK.settings.track_light_sources.interval.name: Licht-Tracking-Intervall
+SHADOWDARK.settings.track_light_sources.name: Lichtquellen tracken
+SHADOWDARK.settings.track_light_sources.open_on_start.hint: Wenn aktiviert, wird die Licht Tracking Schnittstelle beim Start geöffnet (nur GM).
+SHADOWDARK.settings.track_light_sources.open_on_start.name: Light Tracking UI beim Start öffnen
+SHADOWDARK.settings.track_light_sources.pause_with_game.hint: Wenn aktiviert, wird Licht Tracking pausiert, wann immer Foundry pausiert wird.
+SHADOWDARK.settings.track_light_sources.pause_with_game.name: Licht-Tracking pausieren
 SHADOWDARK.sheet.actor.ac: RK
 SHADOWDARK.sheet.actor.alignment_short: Gesinn
 SHADOWDARK.sheet.actor.alignment: Gesinnung
@@ -256,24 +256,24 @@ SHADOWDARK.sheet.actor.hp: TP
 SHADOWDARK.sheet.actor.level: Level
 SHADOWDARK.sheet.actor.placeholder.name: Neuer Charakter Name
 SHADOWDARK.sheet.class.item: Shadowdark Gegenstandsblatt
-SHADOWDARK.sheet.class.npc: Shadowdark NPC Sheet
+SHADOWDARK.sheet.class.npc: Shadowdark NPC-Blatt
 SHADOWDARK.sheet.class.player: Shadowdark Spielerblatt
 SHADOWDARK.sheet.general.item_delete.title: Gegenstand löschen
 SHADOWDARK.sheet.general.item_edit.title: Gegenstand bearbeiten
-SHADOWDARK.sheet.item.tab.description: Description
+SHADOWDARK.sheet.item.tab.description: Beschreibung
 SHADOWDARK.sheet.item.tab.details: Details
-SHADOWDARK.sheet.item.tab.light: Light
-SHADOWDARK.sheet.item.tab.magic: Magic
+SHADOWDARK.sheet.item.tab.light: Licht
+SHADOWDARK.sheet.item.tab.magic: Magie
 SHADOWDARK.sheet.npc.attacks_label: Angriffe
-SHADOWDARK.sheet.npc.dark_adapted: Dark-Adapted
+SHADOWDARK.sheet.npc.dark_adapted: Dunkelheitsangepasst
 SHADOWDARK.sheet.npc.description_label: Beschreibung
-SHADOWDARK.sheet.npc.features_label: Features
+SHADOWDARK.sheet.npc.features_label: Merkmale
 SHADOWDARK.sheet.npc.movement_short: Bew
 SHADOWDARK.sheet.npc.movement: Bewegung
 SHADOWDARK.sheet.npc.tab.abilities: Fähigkeiten
 SHADOWDARK.sheet.npc.tab.description: Beschreibung
 SHADOWDARK.sheet.player.ancestry: Abstammung
-SHADOWDARK.sheet.player.available_spells: Available Spells
+SHADOWDARK.sheet.player.available_spells: Verfügbare Zauber
 SHADOWDARK.sheet.player.background: Hintergrund
 SHADOWDARK.sheet.player.class: Klasse
 SHADOWDARK.sheet.player.deity: Gottheit
@@ -298,18 +298,18 @@ SHADOWDARK.sheet.player.tooltip.cast_spell: Zauber wirken
 SHADOWDARK.sheet.player.xp: EP
 SHADOWDARK.spell_caster.priest: Priester
 SHADOWDARK.spell_caster.wizard: Zauberer
-SHADOWDARK.spell_duration.days: Days
+SHADOWDARK.spell_duration.days: Tage
 SHADOWDARK.spell_duration.focus: Fokus
 SHADOWDARK.spell_duration.instant: Unmittelbar
-SHADOWDARK.spell_duration.real_time: Real Time
+SHADOWDARK.spell_duration.real_time: Echtzeit
 SHADOWDARK.spell_duration.rounds: Runden
 SHADOWDARK.spell_range.close: Direkt
 SHADOWDARK.spell_range.far: Weit
 SHADOWDARK.spell_range.near: Nah
-SHADOWDARK.spellcasting_ability: Spellcasting Ability
-SHADOWDARK.talent.backstab: Backstab
-SHADOWDARK.talent.class.ancestry: Ancestry
-SHADOWDARK.talent.class.class: Class
+SHADOWDARK.spellcasting_ability: Zauber-Fähigkeit
+SHADOWDARK.talent.backstab: Rückenschlag
+SHADOWDARK.talent.class.ancestry: Abstammung
+SHADOWDARK.talent.class.class: Klasse
 SHADOWDARK.talent.class.level: Level
 SHADOWDARK.talent.type.ability_improvement: Fähigkeitsverbesserung
 SHADOWDARK.talent.type.advantage.hp: TP Wurfvorteil
