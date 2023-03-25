@@ -43,34 +43,34 @@ SHADOWDARK.armor.properties.shield: Kilpi
 SHADOWDARK.chat.item_roll.double_numerical: Tuplaa yksi numeerinen arvo!
 SHADOWDARK.chat.item_roll.mishap: Heitä noppaa sopivaa loihtimisen tapahturmataulua vasten!
 SHADOWDARK.chat.item_roll.title: Hyökkäysheitto käyttäen {name}
-SHADOWDARK.chat.light_source.expired: "Hahmon {name} {lightSource} sammui"
+SHADOWDARK.chat.light_source.expired: "Hahmon {name} {lightSource} valonlähde paloi loppuun tai vanhentui"
 SHADOWDARK.chat.light_source.remaining: minuuttia jäljellä
 SHADOWDARK.chat.light_source.source.all: Kaikki valonlähteet sammuivat
 SHADOWDARK.chat.light_source.source.toggle.off: valonlähde sammui
 SHADOWDARK.chat.light_source.source.toggle.on: valonlähde syttyi
 SHADOWDARK.chat.light_source.went_out: "Hahmon {name} {lightSource} valonlähde sammui"
-SHADOWDARK.chat.spell_roll.title: Casting {name} at tier {tier} with spell DC {spellDC}
-SHADOWDARK.chatcard.default: Roll
-SHADOWDARK.class.fighter: Fighter
-SHADOWDARK.class.priest: Priest
-SHADOWDARK.class.thief: Thief
-SHADOWDARK.class.wizard: Wizard
+SHADOWDARK.chat.spell_roll.title: Loihditaan {name} tasolla {tier} jolloin vaikeusaste on {spellDC}
+SHADOWDARK.chatcard.default: Heitä noppaa
+SHADOWDARK.class.fighter: Taistelija
+SHADOWDARK.class.priest: Pappi
+SHADOWDARK.class.thief: Varas
+SHADOWDARK.class.wizard: Velho
 SHADOWDARK.coins.cp: Kupari
 SHADOWDARK.coins.gp: Kulta
 SHADOWDARK.coins.sp: Hopea
-SHADOWDARK.damage.one_handed: "One-Handed Damage:"
-SHADOWDARK.damage.two_handed: "Two-Handed Damage:"
-SHADOWDARK.dialog.ability_check.cha: Charisma Check
-SHADOWDARK.dialog.ability_check.con: Constitution Check
-SHADOWDARK.dialog.ability_check.dex: Dexterity Check
-SHADOWDARK.dialog.ability_check.int: Intelligence Check
-SHADOWDARK.dialog.ability_check.str: Strength Check
-SHADOWDARK.dialog.ability_check.title: Ability Check
-SHADOWDARK.dialog.ability_check.wis: Wisdom Check
+SHADOWDARK.damage.one_handed: "Yksikätinen vahinko:"
+SHADOWDARK.damage.two_handed: "Kaksikätinen vahinko:"
+SHADOWDARK.dialog.ability_check.cha: Karismaheitto
+SHADOWDARK.dialog.ability_check.con: Sitkeysheitto
+SHADOWDARK.dialog.ability_check.dex: Ketteryysheitto
+SHADOWDARK.dialog.ability_check.int: Älykkyysheitto
+SHADOWDARK.dialog.ability_check.str: Voimakkuusheitto
+SHADOWDARK.dialog.ability_check.title: Kyvykkyysheitto
+SHADOWDARK.dialog.ability_check.wis: Viisausheitto
 SHADOWDARK.dialog.general.are_you_sure: Oletko varma?
-SHADOWDARK.dialog.general.cancel: Cancel
-SHADOWDARK.dialog.general.no: "No"
-SHADOWDARK.dialog.general.yes: "Yes"
+SHADOWDARK.dialog.general.cancel: Peruuta
+SHADOWDARK.dialog.general.no: "Ei"
+SHADOWDARK.dialog.general.yes: "Kyllä"
 SHADOWDARK.dialog.hp_roll: HP Roll
 SHADOWDARK.dialog.item_roll.ability_bonus: Ability Bonus
 SHADOWDARK.dialog.item_roll.item_bonus: Item Bonus
@@ -153,59 +153,59 @@ SHADOWDARK.item.magic_item.type.criticalFailureThreshold: Higher Critical Failur
 SHADOWDARK.item.magic_item.type.criticalSuccessThreshold: Lower Critical Success Threshold
 SHADOWDARK.item.magic_item.type.critMultiplier: Critical Multiplier
 SHADOWDARK.item.magic_item.type.custom: Custom Effect
-SHADOWDARK.item.magic_item.type.damageBonus: Damage Bonus
-SHADOWDARK.item.magic_item.type.permanentAbility: Permanent Ability Change
-SHADOWDARK.item.npc_attack_bonus: Attack Bonus
-SHADOWDARK.item.npc_attack_count: Num. Attacks
-SHADOWDARK.item.npc_attack_damage_bonus: Damage Bonus
-SHADOWDARK.item.npc_attack_damage: Damage Die
-SHADOWDARK.item.npc_attack_special: Special
-SHADOWDARK.item.npc_attack_type: Type
-SHADOWDARK.item.npc_attack.num_damage_dice: Num. Damage Dice
+SHADOWDARK.item.magic_item.type.damageBonus: Vahinkobonus
+SHADOWDARK.item.magic_item.type.permanentAbility: Pysyvä muutos kykyyn
+SHADOWDARK.item.npc_attack_bonus: Hyökkäysbonus
+SHADOWDARK.item.npc_attack_count: Hyökkäyksien lukumäärä
+SHADOWDARK.item.npc_attack_damage_bonus: Vahinkobonus
+SHADOWDARK.item.npc_attack_damage: Vahinkonoppa
+SHADOWDARK.item.npc_attack_special: Erikoiskyky
+SHADOWDARK.item.npc_attack_type: Tyyppi
+SHADOWDARK.item.npc_attack.num_damage_dice: Vahinkonoppien määrä
 SHADOWDARK.item.properties: Asetukset
-SHADOWDARK.item.spell_caster_classes: Caster Classes
-SHADOWDARK.item.spell_duration: Duration
-SHADOWDARK.item.spell_range: Range
-SHADOWDARK.item.spell_tier: Tier
-SHADOWDARK.item.talent_class: Talent Class
-SHADOWDARK.item.treasure: Treasure
+SHADOWDARK.item.spell_caster_classes: Loihtimisluokat
+SHADOWDARK.item.spell_duration: Kestoaika
+SHADOWDARK.item.spell_range: Kantama
+SHADOWDARK.item.spell_tier: Loihtimistaso
+SHADOWDARK.item.talent_class: Lahjakkuusluokka
+SHADOWDARK.item.treasure: Aarre
 SHADOWDARK.item.weapon_damage.oneHanded_short: 1H
 SHADOWDARK.item.weapon_damage.oneHanded: Vahinkoa yhdellä kädellä
 SHADOWDARK.item.weapon_damage.twoHanded_short: 2H
 SHADOWDARK.item.weapon_damage.twoHanded: Vahinkoa kahdella kädellä
 SHADOWDARK.item.weapon_range: Kantama
 SHADOWDARK.item.weapon_type: Aseen tyyppi
-SHADOWDARK.item.weapon.base_weapon.bastard_sword: Bastard Sword
-SHADOWDARK.item.weapon.base_weapon.club: Club
-SHADOWDARK.item.weapon.base_weapon.crossbow: Crossbow
-SHADOWDARK.item.weapon.base_weapon.dagger: Dagger
-SHADOWDARK.item.weapon.base_weapon.greataxe: Greataxe
-SHADOWDARK.item.weapon.base_weapon.greatsword: Greatsword
-SHADOWDARK.item.weapon.base_weapon.javelin: Javelin
-SHADOWDARK.item.weapon.base_weapon.longbow: Longbow
-SHADOWDARK.item.weapon.base_weapon.longsword: Longsword
-SHADOWDARK.item.weapon.base_weapon.mace: Mace
-SHADOWDARK.item.weapon.base_weapon.shortbow: Shortbow
-SHADOWDARK.item.weapon.base_weapon.shortsword: Shortsword
-SHADOWDARK.item.weapon.base_weapon.spear: Spear
-SHADOWDARK.item.weapon.base_weapon.staff: Staff
-SHADOWDARK.item.weapon.base_weapon.wand: Wand
-SHADOWDARK.item.weapon.base_weapon.warhammer: Warhammer
-SHADOWDARK.language.celestial: Celestial
-SHADOWDARK.language.common: Common
-SHADOWDARK.language.diabolic: Diabolic
-SHADOWDARK.language.draconic: Draconic
-SHADOWDARK.language.dwarvish: Dwarvish
-SHADOWDARK.language.elvish: Elvish
-SHADOWDARK.language.giant: Giant
-SHADOWDARK.language.goblin: Goblin
-SHADOWDARK.language.merran: Merran
-SHADOWDARK.language.orcish: Orcish
-SHADOWDARK.language.primordial: Primordial
-SHADOWDARK.language.reptilian: Reptilian
-SHADOWDARK.language.sylvan: Sylvan
-SHADOWDARK.language.thanian: Thanian
-SHADOWDARK.light_source.lantern: Lantern
+SHADOWDARK.item.weapon.base_weapon.bastard_sword: Äpärämiekka
+SHADOWDARK.item.weapon.base_weapon.club: Nuija
+SHADOWDARK.item.weapon.base_weapon.crossbow: Varsijousi
+SHADOWDARK.item.weapon.base_weapon.dagger: Tikari
+SHADOWDARK.item.weapon.base_weapon.greataxe: Suurkirves
+SHADOWDARK.item.weapon.base_weapon.greatsword: Suurmiekka
+SHADOWDARK.item.weapon.base_weapon.javelin: Heittokeihäs
+SHADOWDARK.item.weapon.base_weapon.longbow: Pitkäjousi
+SHADOWDARK.item.weapon.base_weapon.longsword: Pitkämiekka
+SHADOWDARK.item.weapon.base_weapon.mace: Rautanuija
+SHADOWDARK.item.weapon.base_weapon.shortbow: Lyhytjousi
+SHADOWDARK.item.weapon.base_weapon.shortsword: Lyhytmiekka
+SHADOWDARK.item.weapon.base_weapon.spear: Keihäs
+SHADOWDARK.item.weapon.base_weapon.staff: Sauva
+SHADOWDARK.item.weapon.base_weapon.wand: Taikasauva
+SHADOWDARK.item.weapon.base_weapon.warhammer: Sotavasara
+SHADOWDARK.language.celestial: Valonkieli
+SHADOWDARK.language.common: Yleiskieli
+SHADOWDARK.language.diabolic: Pimeydenpuhe
+SHADOWDARK.language.draconic: Lohikäärme
+SHADOWDARK.language.dwarvish: Kääpiö
+SHADOWDARK.language.elvish: Haltia
+SHADOWDARK.language.giant: Jätti
+SHADOWDARK.language.goblin: Peikkolaiskieli
+SHADOWDARK.language.merran: Meripuhe
+SHADOWDARK.language.orcish: Örkki
+SHADOWDARK.language.primordial: Alkukieli
+SHADOWDARK.language.reptilian: Reptiliaani
+SHADOWDARK.language.sylvan: Salokieli
+SHADOWDARK.language.thanian: Petopuhe
+SHADOWDARK.light_source.lantern: Lyhty
 SHADOWDARK.light_source.light_spell.double_near: Light Spell (Double Near)
 SHADOWDARK.light_source.light_spell.near: Light Spell (Near)
 SHADOWDARK.light_source.torch: Torch
