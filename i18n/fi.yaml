@@ -10,45 +10,45 @@ SHADOWDARK.ability_str: Voi
 SHADOWDARK.ability_strength: Voimakkuus
 SHADOWDARK.ability_wis: Vii
 SHADOWDARK.ability_wisdom: Viisaus
-SHADOWDARK.alignment.chaotic_short: C
-SHADOWDARK.alignment.chaotic: Chaotic
+SHADOWDARK.alignment.chaotic_short: K
+SHADOWDARK.alignment.chaotic: Kaoottinen
 SHADOWDARK.alignment.lawful_short: L
-SHADOWDARK.alignment.lawful: Lawful
+SHADOWDARK.alignment.lawful: Lainkuuliainen
 SHADOWDARK.alignment.neutral_short: "N"
-SHADOWDARK.alignment.neutral: Neutral
-SHADOWDARK.app.active_effects.title: Active Effects
-SHADOWDARK.app.gem_bag.sell_all: Sell All Gems
-SHADOWDARK.app.gem_bag.title: Gem Bag
-SHADOWDARK.app.gem_bag.tooltip.sell_gem: Sell Gem
-SHADOWDARK.app.gem_bag.total_value: Total Value
-SHADOWDARK.app.item_properties.armor.title: Armor Properties
-SHADOWDARK.app.item_properties.caster_classes.title: Caster Classes
-SHADOWDARK.app.item_properties.languages.title: Languages
-SHADOWDARK.app.item_properties.magic_item.effects.title: Magic Item Effects
+SHADOWDARK.alignment.neutral: Neutraali
+SHADOWDARK.app.active_effects.title: Aktiiviset Efektit
+SHADOWDARK.app.gem_bag.sell_all: Myy kaikki jalokivet
+SHADOWDARK.app.gem_bag.title: Jalokivipussi
+SHADOWDARK.app.gem_bag.tooltip.sell_gem: Myy jalokivi
+SHADOWDARK.app.gem_bag.total_value: Yhteisarvo
+SHADOWDARK.app.item_properties.armor.title: Panssarin ominaisuudet
+SHADOWDARK.app.item_properties.caster_classes.title: Loihtimisluokat
+SHADOWDARK.app.item_properties.languages.title: Kielet
+SHADOWDARK.app.item_properties.magic_item.effects.title: Taikaesineiden efektit
 SHADOWDARK.app.item_properties.save: Tallenna
-SHADOWDARK.app.item_properties.talent.effects.title: Talent Effect Types
+SHADOWDARK.app.item_properties.talent.effects.title: Lahjakkuusefektien Tyypit
 SHADOWDARK.app.item_properties.title: Asetukset
-SHADOWDARK.app.item_properties.weapon.title: Weapon Properties
+SHADOWDARK.app.item_properties.weapon.title: Aseiden ominaisuudet
 SHADOWDARK.app.light_tracker.minute_short: min
-SHADOWDARK.app.light_tracker.minutes_short: mins
-SHADOWDARK.app.light_tracker.title: Light Tracker
-SHADOWDARK.app.light-tracker.douse-light: Douse Light
-SHADOWDARK.app.light-tracker.turn-out-the-lights: Turn Out the Lights
-SHADOWDARK.app.npc_attack_ranges.title: Attack Ranges
+SHADOWDARK.app.light_tracker.minutes_short: min
+SHADOWDARK.app.light_tracker.title: Valonlähteen seuranta
+SHADOWDARK.app.light-tracker.douse-light: Sammuta valonlähde
+SHADOWDARK.app.light-tracker.turn-out-the-lights: Sammuta kaikki valonlähteet
+SHADOWDARK.app.npc_attack_ranges.title: Kantamat
 SHADOWDARK.armor.properties.disadvantage_stealth: Haitta/Hiipiminen
 SHADOWDARK.armor.properties.disadvantage_swimming: Haitta/Uiminen
 SHADOWDARK.armor.properties.no_swimming: Ei voi uida
 SHADOWDARK.armor.properties.one_handed: Varaa yhden käden
 SHADOWDARK.armor.properties.shield: Kilpi
-SHADOWDARK.chat.item_roll.double_numerical: Double any one numerical value!
-SHADOWDARK.chat.item_roll.mishap: Roll on the appropriate Mishap table!
-SHADOWDARK.chat.item_roll.title: Attack roll with {name}
-SHADOWDARK.chat.light_source.expired: "{name}'s {lightSource} expired"
-SHADOWDARK.chat.light_source.remaining: minutes remaining
-SHADOWDARK.chat.light_source.source.all: All light sources went out
-SHADOWDARK.chat.light_source.source.toggle.off: was doused
-SHADOWDARK.chat.light_source.source.toggle.on: was lit
-SHADOWDARK.chat.light_source.went_out: "{name}'s {lightSource} went out"
+SHADOWDARK.chat.item_roll.double_numerical: Tuplaa yksi numeerinen arvo!
+SHADOWDARK.chat.item_roll.mishap: Heitä noppaa sopivaa loihtimisen tapahturmataulua vasten!
+SHADOWDARK.chat.item_roll.title: Hyökkäysheitto käyttäen {name}
+SHADOWDARK.chat.light_source.expired: "Hahmon {name} {lightSource} sammui"
+SHADOWDARK.chat.light_source.remaining: minuuttia jäljellä
+SHADOWDARK.chat.light_source.source.all: Kaikki valonlähteet sammuivat
+SHADOWDARK.chat.light_source.source.toggle.off: valonlähde sammui
+SHADOWDARK.chat.light_source.source.toggle.on: valonlähde syttyi
+SHADOWDARK.chat.light_source.went_out: "Hahmon {name} {lightSource} valonlähde sammui"
 SHADOWDARK.chat.spell_roll.title: Casting {name} at tier {tier} with spell DC {spellDC}
 SHADOWDARK.chatcard.default: Roll
 SHADOWDARK.class.fighter: Fighter
