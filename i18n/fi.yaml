@@ -226,45 +226,45 @@ SHADOWDARK.range.near_short: "L"
 SHADOWDARK.range.near: Lähellä
 SHADOWDARK.range.self_short: I
 SHADOWDARK.range.self: Itse
-SHADOWDARK.roll.advantage_title: "{title} with Advantage"
-SHADOWDARK.roll.advantage: Advantage
-SHADOWDARK.roll.critical.failure: Critical Failure! ({value})
-SHADOWDARK.roll.critical.success: Critical Success! ({value})
-SHADOWDARK.roll.D20: Roll D20
-SHADOWDARK.roll.damage: "Damage Roll:"
-SHADOWDARK.roll.disadvantage_title: "{title} with Disadvantage"
-SHADOWDARK.roll.disadvantage: Disadvantage
-SHADOWDARK.roll.failure: Failure! ({value})
-SHADOWDARK.roll.normal: Normal
-SHADOWDARK.roll.spell_casting_check: Spellcasting Check
-SHADOWDARK.roll.success: Success! ({value})
-SHADOWDARK.settings.track_light_sources.hint: If checked the system will track and update the time remaining on any active light sources.
-SHADOWDARK.settings.track_light_sources.inactive_user.hint: If checked light sources belonging to inactive (not logged in) users will still be tracked
-SHADOWDARK.settings.track_light_sources.inactive_user.name: Track Inactive User Light Sources
-SHADOWDARK.settings.track_light_sources.interval.hint: How frequently tracked light sources will be updated, in minutes.
-SHADOWDARK.settings.track_light_sources.interval.name: Light Tracking Interval
-SHADOWDARK.settings.track_light_sources.name: Track Light Sources
-SHADOWDARK.settings.track_light_sources.open_on_start.hint: If checked the Light Tracking interface will open on startup (GM only).
-SHADOWDARK.settings.track_light_sources.open_on_start.name: Open Light Tracking UI on Startup
-SHADOWDARK.settings.track_light_sources.pause_with_game.hint: If checked the Light Tracking will pause whenever Foundry is paused.
-SHADOWDARK.settings.track_light_sources.pause_with_game.name: Pause Light Tracking
-SHADOWDARK.sheet.actor.ac: AC
-SHADOWDARK.sheet.actor.alignment_short: Align
-SHADOWDARK.sheet.actor.alignment: Alignment
+SHADOWDARK.roll.advantage_title: "{title} edun kanssa"
+SHADOWDARK.roll.advantage: Etu
+SHADOWDARK.roll.critical.failure: Kriittinen epäonnistuminen! ({value})
+SHADOWDARK.roll.critical.success: Kriittinen onnistuminen! ({value})
+SHADOWDARK.roll.D20: Heitä n20
+SHADOWDARK.roll.damage: "Vahinkoheitto:"
+SHADOWDARK.roll.disadvantage_title: "{title} haitan kanssa"
+SHADOWDARK.roll.disadvantage: Haitta
+SHADOWDARK.roll.failure: Epäonnistui! ({value})
+SHADOWDARK.roll.normal: Normaali
+SHADOWDARK.roll.spell_casting_check: Loihtimisheitto
+SHADOWDARK.roll.success: Onnistui! ({value})
+SHADOWDARK.settings.track_light_sources.hint: Jos valitset tämän, järjestelmä seuraa ja päivittää aktiivisten valonlähteiden jäljellä olevaa aikaa.
+SHADOWDARK.settings.track_light_sources.inactive_user.hint: Jos valitset tämän, järjestelmä seuraa epäaktiivisten (uloskirjautuneiden) käyttäjien valonlähteitä
+SHADOWDARK.settings.track_light_sources.inactive_user.name: Seuraa epäaktiivisten käyttäjien valonlähteitä
+SHADOWDARK.settings.track_light_sources.interval.hint: Kuinka usein seurattuja valonlähteitä päivitetään (minuuteissa).
+SHADOWDARK.settings.track_light_sources.interval.name: Valonlähteiden seurannan intervalli
+SHADOWDARK.settings.track_light_sources.name: Seuraa valonlähteiden aikaa
+SHADOWDARK.settings.track_light_sources.open_on_start.hint: Jos valitset tämän, valonlähteiden seurannan ikkuna avautuu järjestelmän käynnistyksen yhteydessä (vain pelimestarille).
+SHADOWDARK.settings.track_light_sources.open_on_start.name: Avaa valonlähteiden seurannan ikkuna käynnistyksen yhteydessä
+SHADOWDARK.settings.track_light_sources.pause_with_game.hint: Jos valitset tämän, valonlähteiden seurannan ajastimet eivät tikitä Foundryn ollessa pausella.
+SHADOWDARK.settings.track_light_sources.pause_with_game.name: Pauseta valonlähteiden seuranta
+SHADOWDARK.sheet.actor.ac: Puolustuspisteet
+SHADOWDARK.sheet.actor.alignment_short: Vakaus
+SHADOWDARK.sheet.actor.alignment: Vakaumus
 SHADOWDARK.sheet.actor.hp_max: Max
-SHADOWDARK.sheet.actor.hp: HP
-SHADOWDARK.sheet.actor.level: Level
-SHADOWDARK.sheet.actor.placeholder.name: New Actor Name
+SHADOWDARK.sheet.actor.hp: Osumapisteet
+SHADOWDARK.sheet.actor.level: Taso
+SHADOWDARK.sheet.actor.placeholder.name: Uusi nimi
 SHADOWDARK.sheet.class.item: Shadowdark esineikkuna
-SHADOWDARK.sheet.class.npc: Shadowdark NPC Sheet
+SHADOWDARK.sheet.class.npc: Shadowdark NPC ikkuna
 SHADOWDARK.sheet.class.player: Shadowdark hahmoikkuna
 SHADOWDARK.sheet.general.item_delete.title: Poista esine
 SHADOWDARK.sheet.general.item_edit.title: Muokkaa esinettä
-SHADOWDARK.sheet.item.tab.description: Description
-SHADOWDARK.sheet.item.tab.details: Details
-SHADOWDARK.sheet.item.tab.light: Light
-SHADOWDARK.sheet.item.tab.magic: Magic
-SHADOWDARK.sheet.npc.attacks_label: Attacks
+SHADOWDARK.sheet.item.tab.description: Kuvaus
+SHADOWDARK.sheet.item.tab.details: Yksityiskohdat
+SHADOWDARK.sheet.item.tab.light: Valonlähde
+SHADOWDARK.sheet.item.tab.magic: Taikuus
+SHADOWDARK.sheet.npc.attacks_label: Hyökkäykset
 SHADOWDARK.sheet.npc.dark_adapted: Sopeutunut pimeään
 SHADOWDARK.sheet.npc.description_label: Kuvaus
 SHADOWDARK.sheet.npc.features_label: Ominaisuudet
