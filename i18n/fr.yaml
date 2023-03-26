@@ -23,9 +23,9 @@ SHADOWDARK.app.gem_bag.tooltip.sell_gem: Vendre des Gemmes
 SHADOWDARK.app.gem_bag.total_value: Valeur Totale
 SHADOWDARK.app.item_properties.armor.title: Armor Properties
 SHADOWDARK.app.item_properties.caster_classes.title: Caster Classes
-SHADOWDARK.app.item_properties.languages.title: Languages
+SHADOWDARK.app.item_properties.languages.title: Langues
 SHADOWDARK.app.item_properties.magic_item.effects.title: Magic Item Effects
-SHADOWDARK.app.item_properties.save: Save
+SHADOWDARK.app.item_properties.save: Sauvegarde
 SHADOWDARK.app.item_properties.talent.effects.title: Talent Effect Types
 SHADOWDARK.app.item_properties.title: Properties
 SHADOWDARK.app.item_properties.weapon.title: Weapon Properties
@@ -34,17 +34,17 @@ SHADOWDARK.app.light_tracker.minutes_short: mins
 SHADOWDARK.app.light_tracker.title: Light Tracker
 SHADOWDARK.app.light-tracker.douse-light: Douse Light
 SHADOWDARK.app.light-tracker.turn-out-the-lights: Turn Out the Lights
-SHADOWDARK.app.npc_attack_ranges.title: Attack Ranges
-SHADOWDARK.armor.properties.disadvantage_stealth: Disadvantage/Stealth
-SHADOWDARK.armor.properties.disadvantage_swimming: Disadvantage/Swim
-SHADOWDARK.armor.properties.no_swimming: No Swim
+SHADOWDARK.app.npc_attack_ranges.title: Portées d'Attaque
+SHADOWDARK.armor.properties.disadvantage_stealth: Désavantage/Discrétion
+SHADOWDARK.armor.properties.disadvantage_swimming: Désavantage/Natation
+SHADOWDARK.armor.properties.no_swimming: Natation Impossible
 SHADOWDARK.armor.properties.one_handed: Occupies One Hand
-SHADOWDARK.armor.properties.shield: Shield
+SHADOWDARK.armor.properties.shield: Bouclier
 SHADOWDARK.chat.item_roll.double_numerical: Double any one numerical value!
 SHADOWDARK.chat.item_roll.mishap: Roll on the appropriate Mishap table!
 SHADOWDARK.chat.item_roll.title: Attack roll with {name}
 SHADOWDARK.chat.light_source.expired: "{name}'s {lightSource} expired"
-SHADOWDARK.chat.light_source.remaining: minutes remaining
+SHADOWDARK.chat.light_source.remaining: minutes restantes
 SHADOWDARK.chat.light_source.source.all: All light sources went out
 SHADOWDARK.chat.light_source.source.toggle.off: was doused
 SHADOWDARK.chat.light_source.source.toggle.on: was lit
@@ -79,18 +79,18 @@ SHADOWDARK.dialog.item_roll.title: Roll Attack with
 SHADOWDARK.dialog.item.confirm_delete: Confirm Deletion
 SHADOWDARK.dialog.item.confirm_sale: Confirm Sale
 SHADOWDARK.dialog.item.delete: Delete
-SHADOWDARK.dialog.item.sell_all: Sell All
-SHADOWDARK.dialog.item.sell: Sell
+SHADOWDARK.dialog.item.sell_all: Tout Vendre
+SHADOWDARK.dialog.item.sell: Vendre
 SHADOWDARK.dialog.roll_mode_label: Rolling mode
 SHADOWDARK.dialog.roll: Roll
 SHADOWDARK.dialog.spell_roll.title: Roll Spell with
 SHADOWDARK.dialog.tooltip.talent_advantage: A talent is giving you advantage to this roll
 SHADOWDARK.effect.custom: Custom Effects
 SHADOWDARK.effect.footer.add_custom: Add Custom Effect
-SHADOWDARK.effect.header.active: Active
-SHADOWDARK.effect.header.delete: Delete
-SHADOWDARK.effect.header.edit: Edit
-SHADOWDARK.effect.header.name: Effect
+SHADOWDARK.effect.header.active: Actif
+SHADOWDARK.effect.header.delete: Supprimer
+SHADOWDARK.effect.header.edit: Éditer
+SHADOWDARK.effect.header.name: Effet
 SHADOWDARK.effect.header.options: Options
 SHADOWDARK.effect.item: Item Effects
 SHADOWDARK.effect.new: New Effect
@@ -102,15 +102,15 @@ SHADOWDARK.error.general.gm_required: You must have the Game Master role to do t
 SHADOWDARK.inventory.coins: Coins
 SHADOWDARK.inventory.item.light_remaining: "{timeRemaining} Mins Remaining"
 SHADOWDARK.inventory.item.light_used: (partially used)
-SHADOWDARK.inventory.label.quantity: Qty
-SHADOWDARK.inventory.label.slots: Slots
-SHADOWDARK.inventory.section.armor: Armor
-SHADOWDARK.inventory.section.basic: Basic Equipment
-SHADOWDARK.inventory.section.treasure: Treasure
-SHADOWDARK.inventory.section.weapon: Weapons
+SHADOWDARK.inventory.label.quantity: Qté
+SHADOWDARK.inventory.label.slots: Emplacements
+SHADOWDARK.inventory.section.armor: Armure
+SHADOWDARK.inventory.section.basic: Équipement de Base
+SHADOWDARK.inventory.section.treasure: Trésor
+SHADOWDARK.inventory.section.weapon: Armes
 SHADOWDARK.inventory.slots_max: Max
-SHADOWDARK.inventory.slots_used: Used
-SHADOWDARK.inventory.slots: Slots
+SHADOWDARK.inventory.slots_used: Utilisé
+SHADOWDARK.inventory.slots: Emplacements
 SHADOWDARK.inventory.tooltip.gem_bag: Open Gem Bag
 SHADOWDARK.inventory.tooltip.item_decrement: Decrease Quantity
 SHADOWDARK.inventory.tooltip.item_increment: Increase Quantity
