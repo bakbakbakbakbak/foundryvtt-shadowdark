@@ -71,7 +71,13 @@ SHADOWDARK.dialog.general.are_you_sure: Är du säker?
 SHADOWDARK.dialog.general.cancel: Avbryt
 SHADOWDARK.dialog.general.no: "Nej"
 SHADOWDARK.dialog.general.yes: "Ja"
-SHADOWDARK.dialog.hp_roll: Rulla KP
+SHADOWDARK.dialog.hp_roll.per_level: Roll HP for level {level}
+SHADOWDARK.dialog.hp_roll.previous_hp: "HP before rolling: {hp}"
+SHADOWDARK.dialog.hp_roll.roll_per_level: Rolled {hp} hp for level {level}
+SHADOWDARK.dialog.hp_roll.roll_level_1: Rolled {hp} hp for level 1 (incl. con mod)
+SHADOWDARK.dialog.hp_roll.sum_total: For a new max HP of {total} hp
+SHADOWDARK.dialog.hp_roll.summary: HP Rolling Summary
+SHADOWDARK.dialog.hp_roll.title: HD Roll
 SHADOWDARK.dialog.item_roll.ability_bonus: Förmågebonus
 SHADOWDARK.dialog.item_roll.item_bonus: Föremålsbonus
 SHADOWDARK.dialog.item_roll.talent_bonus: Talangbonus
@@ -333,3 +339,6 @@ SHADOWDARK.weapon.properties.two_handed: Två-handat
 SHADOWDARK.weapon.properties.versatile: Versatilt
 SHADOWDARK.weapon.type.melee: Närstrid
 SHADOWDARK.weapon.type.ranged: Avståndsstrid
+SHADOWDARK.migration.begin: Beginning migration for Shadowdark RPG version {version}
+SHADOWDARK.migration.complete: Completed migrating to Shadowdark RPG version {version}
+SHADOWDARK.migration.too_old_version: Shadowdark RPG version is too old to migrate.
