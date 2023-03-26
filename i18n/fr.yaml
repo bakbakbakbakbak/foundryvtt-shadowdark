@@ -293,29 +293,29 @@ SHADOWDARK.sheet.player.spells: Sorts
 SHADOWDARK.sheet.player.tab.abilities: Capacités
 SHADOWDARK.sheet.player.tab.background: Historique
 SHADOWDARK.sheet.player.tab.inventory: Inventaire
-SHADOWDARK.sheet.player.tab.spells: Spells
+SHADOWDARK.sheet.player.tab.spells: Sorts
 SHADOWDARK.sheet.player.tab.talents: Talents
-SHADOWDARK.sheet.player.talents_level: Level
-SHADOWDARK.sheet.player.talents_name: Name
+SHADOWDARK.sheet.player.talents_level: Niveau
+SHADOWDARK.sheet.player.talents_name: Nom
 SHADOWDARK.sheet.player.talents: Talents
-SHADOWDARK.sheet.player.title: Title
+SHADOWDARK.sheet.player.title: Titre
 SHADOWDARK.sheet.player.toggle_spell_lost: Toggle Spell Lost
 SHADOWDARK.sheet.player.tooltip.cast_spell: Cast Spell
-SHADOWDARK.sheet.player.xp: XP
-SHADOWDARK.spell_caster.priest: Priest
-SHADOWDARK.spell_caster.wizard: Wizard
-SHADOWDARK.spell_duration.days: Days
-SHADOWDARK.spell_duration.focus: Focus
-SHADOWDARK.spell_duration.instant: Instant
-SHADOWDARK.spell_duration.real_time: Real Time
+SHADOWDARK.sheet.player.xp: EXP
+SHADOWDARK.spell_caster.priest: Prêtre
+SHADOWDARK.spell_caster.wizard: Magicien
+SHADOWDARK.spell_duration.days: Jours
+SHADOWDARK.spell_duration.focus: Concentration
+SHADOWDARK.spell_duration.instant: Instantané
+SHADOWDARK.spell_duration.real_time: Temps Réel
 SHADOWDARK.spell_duration.rounds: Rounds
-SHADOWDARK.spell_range.close: Close
-SHADOWDARK.spell_range.far: Far
-SHADOWDARK.spell_range.near: Near
+SHADOWDARK.spell_range.close: Proche
+SHADOWDARK.spell_range.far: Loin
+SHADOWDARK.spell_range.near: Près
 SHADOWDARK.spellcasting_ability: Spellcasting Ability
-SHADOWDARK.talent.backstab: Backstab
+SHADOWDARK.talent.backstab: Attaque Sournoise
 SHADOWDARK.talent.class.ancestry: Ascendance
-SHADOWDARK.talent.class.class: Class
+SHADOWDARK.talent.class.class: Classe
 SHADOWDARK.talent.class.level: Level
 SHADOWDARK.talent.type.ability_improvement: Ability Improvement
 SHADOWDARK.talent.type.advantage.hp: HP Roll Advantage
