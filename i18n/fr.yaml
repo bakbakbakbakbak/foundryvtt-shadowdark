@@ -125,9 +125,9 @@ SHADOWDARK.inventory.tooltip.toggle_equipped: Afficher les Objets Équipés
 SHADOWDARK.inventory.tooltip.toggle_light_source: Toggle Light Source
 SHADOWDARK.inventory.total_coins: Total Coins
 SHADOWDARK.inventory.total_gems: Total Gems
-SHADOWDARK.item_type.armor: Armor
+SHADOWDARK.item_type.armor: Armure
 SHADOWDARK.item_type.basic: Basic
-SHADOWDARK.item_type.gem: Gem
+SHADOWDARK.item_type.gem: Gemme
 SHADOWDARK.item_type.spell: Sort
 SHADOWDARK.item_type.talent: Talent
 SHADOWDARK.item_type.weapon: Arme
@@ -165,10 +165,10 @@ SHADOWDARK.item.npc_attack_bonus: Bonus d'Attaque
 SHADOWDARK.item.npc_attack_count: Nombre d'Attaques
 SHADOWDARK.item.npc_attack_damage_bonus: Bonus aux Dégâts
 SHADOWDARK.item.npc_attack_damage: Dé de Dégâts
-SHADOWDARK.item.npc_attack_special: Special
+SHADOWDARK.item.npc_attack_special: Spécial
 SHADOWDARK.item.npc_attack_type: Type
 SHADOWDARK.item.npc_attack.num_damage_dice: Nombre de Dés de Dégâts
-SHADOWDARK.item.properties: Properties
+SHADOWDARK.item.properties: Propriétés
 SHADOWDARK.item.spell_caster_classes: Caster Classes
 SHADOWDARK.item.spell_duration: Durée
 SHADOWDARK.item.spell_range: Portée
