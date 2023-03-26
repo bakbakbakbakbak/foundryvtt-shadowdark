@@ -71,7 +71,13 @@ SHADOWDARK.dialog.general.are_you_sure: Oletko varma?
 SHADOWDARK.dialog.general.cancel: Peruuta
 SHADOWDARK.dialog.general.no: "Ei"
 SHADOWDARK.dialog.general.yes: "Kyllä"
-SHADOWDARK.dialog.hp_roll: Osumapisteheitto
+SHADOWDARK.dialog.hp_roll.per_level: Roll HP for level {level}
+SHADOWDARK.dialog.hp_roll.previous_hp: "HP before rolling: {hp}"
+SHADOWDARK.dialog.hp_roll.roll_per_level: Rolled {hp} hp for level {level}
+SHADOWDARK.dialog.hp_roll.roll_level_1: Rolled {hp} hp for level 1 (incl. con mod)
+SHADOWDARK.dialog.hp_roll.sum_total: For a new max HP of {total} hp
+SHADOWDARK.dialog.hp_roll.summary: HP Rolling Summary
+SHADOWDARK.dialog.hp_roll.title: HD Roll
 SHADOWDARK.dialog.item_roll.ability_bonus: Kykybonus
 SHADOWDARK.dialog.item_roll.item_bonus: Esinebonus
 SHADOWDARK.dialog.item_roll.talent_bonus: Lahjakkuusbonus
@@ -333,3 +339,6 @@ SHADOWDARK.weapon.properties.two_handed: Kaksikätinen
 SHADOWDARK.weapon.properties.versatile: Yhden tai kahden käden ase
 SHADOWDARK.weapon.type.melee: Lähitaistelu ase
 SHADOWDARK.weapon.type.ranged: Kantama-ase
+SHADOWDARK.migration.begin: Beginning migration for Shadowdark RPG version {version}
+SHADOWDARK.migration.complete: Completed migrating to Shadowdark RPG version {version}
+SHADOWDARK.migration.too_old_version: Shadowdark RPG version is too old to migrate.
