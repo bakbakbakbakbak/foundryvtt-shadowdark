@@ -73,8 +73,8 @@ SHADOWDARK.dialog.general.no: "Ei"
 SHADOWDARK.dialog.general.yes: "Kyllä"
 SHADOWDARK.dialog.hp_roll.per_level: Roll HP for level {level}
 SHADOWDARK.dialog.hp_roll.previous_hp: "HP before rolling: {hp}"
-SHADOWDARK.dialog.hp_roll.roll_per_level: Rolled {hp} hp for level {level}
 SHADOWDARK.dialog.hp_roll.roll_level_1: Rolled {hp} hp for level 1 (incl. con mod)
+SHADOWDARK.dialog.hp_roll.roll_per_level: Rolled {hp} hp for level {level}
 SHADOWDARK.dialog.hp_roll.sum_total: For a new max HP of {total} hp
 SHADOWDARK.dialog.hp_roll.summary: HP Rolling Summary
 SHADOWDARK.dialog.hp_roll.title: HD Roll
@@ -220,6 +220,10 @@ SHADOWDARK.light-tracker.paused: Pausetettu
 SHADOWDARK.light-tracker.status.label: Statut
 SHADOWDARK.light-tracker.title.prefix: Valonlähteiden
 SHADOWDARK.light-tracker.title.suffix: seuranta
+SHADOWDARK.migration.begin_migration: Performing data upgrades for Shadowdark RPG
+SHADOWDARK.migration.begin_schema: Applying updates for Shadowdark RPG schema v{version}
+SHADOWDARK.migration.completed_migration: Completed data updgrades for Shadowdark RPG
+SHADOWDARK.migration.completed_schema: Completed applying updates for Shadowdark RPG schema v{version}
 SHADOWDARK.npc_attack.type.physical: Fyysinen
 SHADOWDARK.npc_attack.type.special: Erikoishyökkäys
 SHADOWDARK.npc_move.double_near: '"Lähellä" etäisyys tuplana'
@@ -339,6 +343,3 @@ SHADOWDARK.weapon.properties.two_handed: Kaksikätinen
 SHADOWDARK.weapon.properties.versatile: Yhden tai kahden käden ase
 SHADOWDARK.weapon.type.melee: Lähitaistelu ase
 SHADOWDARK.weapon.type.ranged: Kantama-ase
-SHADOWDARK.migration.begin: Beginning migration for Shadowdark RPG version {version}
-SHADOWDARK.migration.complete: Completed migrating to Shadowdark RPG version {version}
-SHADOWDARK.migration.too_old_version: Shadowdark RPG version is too old to migrate.
