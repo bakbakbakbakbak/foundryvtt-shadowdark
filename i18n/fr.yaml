@@ -42,14 +42,14 @@ SHADOWDARK.armor.properties.one_handed: Occupies One Hand
 SHADOWDARK.armor.properties.shield: Bouclier
 SHADOWDARK.chat.item_roll.double_numerical: Double any one numerical value!
 SHADOWDARK.chat.item_roll.mishap: Roll on the appropriate Mishap table!
-SHADOWDARK.chat.item_roll.title: Attack roll with {name}
+SHADOWDARK.chat.item_roll.title: Jet d'Attaque avec {name}
 SHADOWDARK.chat.light_source.expired: "{name}'s {lightSource} expired"
 SHADOWDARK.chat.light_source.remaining: minutes restantes
-SHADOWDARK.chat.light_source.source.all: All light sources went out
+SHADOWDARK.chat.light_source.source.all: Toutes les sources de lumière se sont éteintes
 SHADOWDARK.chat.light_source.source.toggle.off: was doused
-SHADOWDARK.chat.light_source.source.toggle.on: was lit
-SHADOWDARK.chat.light_source.went_out: "{name}'s {lightSource} went out"
-SHADOWDARK.chat.spell_roll.title: Casting {name} at tier {tier} with spell DC {spellDC}
+SHADOWDARK.chat.light_source.source.toggle.on: a été allumé
+SHADOWDARK.chat.light_source.went_out: "Les {name} de{lightSource} s'éteint"
+SHADOWDARK.chat.spell_roll.title: Lancement de {name} au rang {tier} avec DD de sort {spellDC}
 SHADOWDARK.chatcard.default: Roll
 SHADOWDARK.class.fighter: Guerrier
 SHADOWDARK.class.priest: Prêtre
