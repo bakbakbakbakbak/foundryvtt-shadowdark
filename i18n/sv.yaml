@@ -106,6 +106,7 @@ SHADOWDARK.effect.talent: Talangeffekter
 SHADOWDARK.effect.temporary: Temporära effekter
 SHADOWDARK.effect.unavailable: Inaktiverade effekter
 SHADOWDARK.error.general.gm_required: Du måste vara spelledare för att göra det där.
+SHADOWDARK.error.general.no_character_class: No character class has been selected
 SHADOWDARK.inventory.coins: Mynt
 SHADOWDARK.inventory.item.light_remaining: "{timeRemaining} Minutes Remaining"
 SHADOWDARK.inventory.item.light_seconds_remaining: Less than 1 Minute Remaining
