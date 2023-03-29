@@ -339,6 +339,7 @@ SHADOWDARK.talent.type.ranged_damage_bonus: Bonus för Avståndsskada
 SHADOWDARK.talent.type.spell_bonus: Bonus för Besvärjelsekast
 SHADOWDARK.talent.type.title: Talangtyp(er)
 SHADOWDARK.talent.type.weapon_mastery: Vapenmästeri
+SHADOWDARK.tours.lightsource.notification.not_enabled: You need to enable the Lightsource Tracker in settings to be able to run the Tour
 SHADOWDARK.weapon.properties.finesse: Finess
 SHADOWDARK.weapon.properties.loading: Ladda
 SHADOWDARK.weapon.properties.thrown: Kasta
