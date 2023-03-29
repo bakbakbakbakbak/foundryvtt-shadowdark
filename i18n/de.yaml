@@ -106,6 +106,7 @@ SHADOWDARK.effect.talent: Talenteffekte
 SHADOWDARK.effect.temporary: Temporäre Effekte
 SHADOWDARK.effect.unavailable: Deaktivierter Effekt
 SHADOWDARK.error.general.gm_required: Dazu musst du die Rolle des Game Master haben.
+SHADOWDARK.error.general.no_character_class: No character class has been selected
 SHADOWDARK.inventory.coins: Münzen
 SHADOWDARK.inventory.item.light_remaining: "{timeRemaining} Minutes Remaining"
 SHADOWDARK.inventory.item.light_seconds_remaining: Less than 1 Minute Remaining
