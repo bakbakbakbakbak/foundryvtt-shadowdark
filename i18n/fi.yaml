@@ -339,6 +339,7 @@ SHADOWDARK.talent.type.ranged_damage_bonus: Kantama-aseiden vahinkoheittoihin bo
 SHADOWDARK.talent.type.spell_bonus: Loihtimisbonus
 SHADOWDARK.talent.type.title: Lahjakkuustyypit
 SHADOWDARK.talent.type.weapon_mastery: Asemestaruus
+SHADOWDARK.tours.lightsource.notification.not_enabled: You need to enable the Lightsource Tracker in settings to be able to run the Tour
 SHADOWDARK.weapon.properties.finesse: Hienovarainen
 SHADOWDARK.weapon.properties.loading: Ladattava
 SHADOWDARK.weapon.properties.thrown: Heitettävä
