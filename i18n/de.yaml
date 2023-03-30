@@ -40,6 +40,7 @@ SHADOWDARK.armor.properties.disadvantage_swimming: Nachteil/Schwimmen
 SHADOWDARK.armor.properties.no_swimming: Kein Schwimmen
 SHADOWDARK.armor.properties.one_handed: Benötigt eine Hand
 SHADOWDARK.armor.properties.shield: Schild
+SHADOWDARK.chat.hp_roll.apply_to_max: Add to Max HP
 SHADOWDARK.chat.item_roll.double_numerical: Verdoppele einen beliebigen numerischen Wert!
 SHADOWDARK.chat.item_roll.mishap: Würfle auf die entsprechenden Ungeschickstabelle!
 SHADOWDARK.chat.item_roll.title: Angirffswurf mit {name}
