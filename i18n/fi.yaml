@@ -40,6 +40,7 @@ SHADOWDARK.armor.properties.disadvantage_swimming: Haitta/Uiminen
 SHADOWDARK.armor.properties.no_swimming: Ei voi uida
 SHADOWDARK.armor.properties.one_handed: Varaa yhden käden
 SHADOWDARK.armor.properties.shield: Kilpi
+SHADOWDARK.chat.hp_roll.apply_to_max: Add to Max HP
 SHADOWDARK.chat.item_roll.double_numerical: Tuplaa yksi numeerinen arvo!
 SHADOWDARK.chat.item_roll.mishap: Heitä noppaa sopivaa loihtimisen tapahturmataulua vasten!
 SHADOWDARK.chat.item_roll.title: Hyökkäysheitto käyttäen {name}
