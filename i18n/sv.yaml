@@ -40,7 +40,7 @@ SHADOWDARK.armor.properties.disadvantage_swimming: Nackdel/Simma
 SHADOWDARK.armor.properties.no_swimming: Ingen Simma
 SHADOWDARK.armor.properties.one_handed: Upptar en hand
 SHADOWDARK.armor.properties.shield: Sköld
-SHADOWDARK.chat.hp_roll.apply_to_max: Add to Max HP
+SHADOWDARK.chat.hp_roll.apply_to_max: Lägg till på max KP
 SHADOWDARK.chat.item_roll.double_numerical: Dubbla valfritt numeriskt värde!
 SHADOWDARK.chat.item_roll.mishap: Rulla på lämplig felkast-tabell!
 SHADOWDARK.chat.item_roll.title: Attackerar med {name}
