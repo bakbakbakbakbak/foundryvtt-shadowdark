@@ -286,6 +286,7 @@ SHADOWDARK.sheet.actor.placeholder.name: Neuer Charakter Name
 SHADOWDARK.sheet.class.item: Shadowdark Gegenstandsblatt
 SHADOWDARK.sheet.class.npc: Shadowdark NPC-Blatt
 SHADOWDARK.sheet.class.player: Shadowdark Spielerblatt
+SHADOWDARK.sheet.general.item_create.tooltip: Create {type} Item
 SHADOWDARK.sheet.general.item_delete.title: Gegenstand löschen
 SHADOWDARK.sheet.general.item_edit.title: Gegenstand bearbeiten
 SHADOWDARK.sheet.item.tab.description: Beschreibung
@@ -345,6 +346,7 @@ SHADOWDARK.talent.type.advantage.initiative: Initiativvorteil
 SHADOWDARK.talent.type.advantage.spell: Zaubervorteil
 SHADOWDARK.talent.type.advantage.title: Vorteilsbonus
 SHADOWDARK.talent.type.armor_bonus: Rüstungs-RK-Bonus
+SHADOWDARK.talent.type.armor_mastery: Armor Mastery
 SHADOWDARK.talent.type.backstab_die: Zusätzlicher Meuchelwürfel
 SHADOWDARK.talent.type.custom: Eigenes Talent
 SHADOWDARK.talent.type.melee_attack_bonus: Nahkampfangriffswurfbonus
