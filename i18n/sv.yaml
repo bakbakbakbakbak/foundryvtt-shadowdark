@@ -35,9 +35,9 @@ SHADOWDARK.app.light_tracker.title: Ljuskällespårare
 SHADOWDARK.app.light-tracker.douse-light: Släck ljus
 SHADOWDARK.app.light-tracker.turn-out-the-lights: Släck ljusen
 SHADOWDARK.app.npc_attack_ranges.title: Attackavstånd
-SHADOWDARK.apps.shadowdarkling-importer.import_button: Import Shadowdarkling
-SHADOWDARK.apps.shadowdarkling-importer.instruction: Visit shadowdarklings.net and save as JSON. Copy the content of file into this box and click import
-SHADOWDARK.apps.shadowdarkling-importer.title: Import Shadowdarkling
+SHADOWDARK.apps.shadowdarkling-importer.import_button: Importera Shadowdarkling
+SHADOWDARK.apps.shadowdarkling-importer.instruction: Besök shadowdarklings.net och spara som JSON. Kopiera innehållet i filen till den här rutan och klicka på importera
+SHADOWDARK.apps.shadowdarkling-importer.title: Importera Shadowdarkling
 SHADOWDARK.armor.properties.disadvantage_stealth: Nackdel/Smyga
 SHADOWDARK.armor.properties.disadvantage_swimming: Nackdel/Simma
 SHADOWDARK.armor.properties.no_swimming: Ingen Simma
@@ -55,11 +55,11 @@ SHADOWDARK.chat.light_source.source.toggle.off: släcktes
 SHADOWDARK.chat.light_source.source.toggle.on: tändes
 SHADOWDARK.chat.light_source.went_out: "{name}s {lightSource} slocknade"
 SHADOWDARK.chat.spell_roll.title: Kastar {name} som grad {tier} med svårighetsgrad {spellDC}
-SHADOWDARK.chat.welcome_message.intro: "To quickly get familiar with the system, check out the provided guided tours by clicking on the following button:"
-SHADOWDARK.chat.welcome_message.issue_tracker_button: Issue Tracker
-SHADOWDARK.chat.welcome_message.issues: "If you find any issues or have ideas for new features for the system. Check out our issue tracker:"
-SHADOWDARK.chat.welcome_message.title: Shadowdark RPG for Foundry
-SHADOWDARK.chat.welcome_message.tour_button: Shadowdark RPG Tours
+SHADOWDARK.chat.welcome_message.intro: "För att snabbt bekanta dig med systemet, kolla in de guidade turer genom att klicka på följande knapp:"
+SHADOWDARK.chat.welcome_message.issue_tracker_button: Ärendehanteringssystem
+SHADOWDARK.chat.welcome_message.issues: "Om du hittar några problem eller har idéer för nya funktioner för systemet. Kolla in vår ärendehanterare:"
+SHADOWDARK.chat.welcome_message.title: Shadowdark RPG för Foundry
+SHADOWDARK.chat.welcome_message.tour_button: Guidade turer för Shadowdark RPG
 SHADOWDARK.chatcard.default: Rulla
 SHADOWDARK.class.fighter: Krigare
 SHADOWDARK.class.priest: Präst
@@ -236,7 +236,7 @@ SHADOWDARK.migration.begin_migration: Utför uppgraderingar för Shadowdark RPG
 SHADOWDARK.migration.begin_schema: Applicerar uppdateringar för Shadowdark RPG v{version} schemat
 SHADOWDARK.migration.completed_migration: Uppgraderingar till Shadowdark RPG utförda
 SHADOWDARK.migration.completed_schema: Uppgraderingar till Shadowdark RPG v{version} schemat utförda
-SHADOWDARK.module_art_config.portraits: Portraits
+SHADOWDARK.module_art_config.portraits: Porträtt
 SHADOWDARK.module_art_config.tokens: Tokens
 SHADOWDARK.npc_attack.type.physical: Fysisk
 SHADOWDARK.npc_attack.type.special: Special
@@ -262,10 +262,10 @@ SHADOWDARK.roll.failure: Misslyckades! ({value})
 SHADOWDARK.roll.normal: Normal
 SHADOWDARK.roll.spell_casting_check: Besvärjelse Check
 SHADOWDARK.roll.success: Lyckades! ({value})
-SHADOWDARK.settings.module_art.hint: Configure which module-provided art should be used
-SHADOWDARK.settings.module_art.label: Configure Art
-SHADOWDARK.settings.module_art.name: Module-provided Art
-SHADOWDARK.settings.module_art.save: Save Changes
+SHADOWDARK.settings.module_art.hint: Konfigurera vilken moduls konst ska användas
+SHADOWDARK.settings.module_art.label: Konfigurera konst
+SHADOWDARK.settings.module_art.name: Modulkonst
+SHADOWDARK.settings.module_art.save: Spara Ändringar
 SHADOWDARK.settings.track_light_sources.hint: Om markerad kommer systemet att spåra och uppdatera den tid som återstår på alla aktiva ljuskällor.
 SHADOWDARK.settings.track_light_sources.inactive_user.hint: Om markerade ljuskällor som tillhör inaktiva (inte inloggade) användare, kommer tiden fortfarande att spåras
 SHADOWDARK.settings.track_light_sources.inactive_user.name: Spåra inaktiva användares ljuskällor
@@ -286,6 +286,7 @@ SHADOWDARK.sheet.actor.placeholder.name: Nytt aktörsnamn
 SHADOWDARK.sheet.class.item: Shadowdark Föremålsblad
 SHADOWDARK.sheet.class.npc: Shadowdark NPC Ark
 SHADOWDARK.sheet.class.player: Shadowdark Spelarblad
+SHADOWDARK.sheet.general.item_create.tooltip: Create {type} Item
 SHADOWDARK.sheet.general.item_delete.title: Ta bort föremål
 SHADOWDARK.sheet.general.item_edit.title: Förändra föremål
 SHADOWDARK.sheet.item.tab.description: Beskrivning
@@ -345,6 +346,7 @@ SHADOWDARK.talent.type.advantage.initiative: Fördel på Initiativ
 SHADOWDARK.talent.type.advantage.spell: Fördel vid Besvärjelsekast
 SHADOWDARK.talent.type.advantage.title: Fördelsbonus
 SHADOWDARK.talent.type.armor_bonus: Bonus för Armor Class
+SHADOWDARK.talent.type.armor_mastery: Armor Mastery
 SHADOWDARK.talent.type.backstab_die: Extra tärning bakhåll
 SHADOWDARK.talent.type.custom: Egen Talang
 SHADOWDARK.talent.type.melee_attack_bonus: Bonus för Närstridsattack
