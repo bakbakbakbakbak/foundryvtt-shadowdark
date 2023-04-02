@@ -35,6 +35,9 @@ SHADOWDARK.app.light_tracker.title: Ljuskällespårare
 SHADOWDARK.app.light-tracker.douse-light: Släck ljus
 SHADOWDARK.app.light-tracker.turn-out-the-lights: Släck ljusen
 SHADOWDARK.app.npc_attack_ranges.title: Attackavstånd
+SHADOWDARK.apps.shadowdarkling-importer.import_button: Import Shadowdarkling
+SHADOWDARK.apps.shadowdarkling-importer.instruction: Visit shadowdarklings.net and save as JSON. Copy the content of file into this box and click import
+SHADOWDARK.apps.shadowdarkling-importer.title: Import Shadowdarkling
 SHADOWDARK.armor.properties.disadvantage_stealth: Nackdel/Smyga
 SHADOWDARK.armor.properties.disadvantage_swimming: Nackdel/Simma
 SHADOWDARK.armor.properties.no_swimming: Ingen Simma
@@ -228,6 +231,8 @@ SHADOWDARK.migration.begin_migration: Utför uppgraderingar för Shadowdark RPG
 SHADOWDARK.migration.begin_schema: Applicerar uppdateringar för Shadowdark RPG v{version} schemat
 SHADOWDARK.migration.completed_migration: Uppgraderingar till Shadowdark RPG utförda
 SHADOWDARK.migration.completed_schema: Uppgraderingar till Shadowdark RPG v{version} schemat utförda
+SHADOWDARK.module_art_config.portraits: Portraits
+SHADOWDARK.module_art_config.tokens: Tokens
 SHADOWDARK.npc_attack.type.physical: Fysisk
 SHADOWDARK.npc_attack.type.special: Special
 SHADOWDARK.npc_move.double_near: Dubbelnära
@@ -252,6 +257,10 @@ SHADOWDARK.roll.failure: Misslyckades! ({value})
 SHADOWDARK.roll.normal: Normal
 SHADOWDARK.roll.spell_casting_check: Besvärjelse Check
 SHADOWDARK.roll.success: Lyckades! ({value})
+SHADOWDARK.settings.module_art.hint: Configure which module-provided art should be used
+SHADOWDARK.settings.module_art.label: Configure Art
+SHADOWDARK.settings.module_art.name: Module-provided Art
+SHADOWDARK.settings.module_art.save: Save Changes
 SHADOWDARK.settings.track_light_sources.hint: Om markerad kommer systemet att spåra och uppdatera den tid som återstår på alla aktiva ljuskällor.
 SHADOWDARK.settings.track_light_sources.inactive_user.hint: Om markerade ljuskällor som tillhör inaktiva (inte inloggade) användare, kommer tiden fortfarande att spåras
 SHADOWDARK.settings.track_light_sources.inactive_user.name: Spåra inaktiva användares ljuskällor
