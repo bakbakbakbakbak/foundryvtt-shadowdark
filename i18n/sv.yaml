@@ -55,6 +55,11 @@ SHADOWDARK.chat.light_source.source.toggle.off: släcktes
 SHADOWDARK.chat.light_source.source.toggle.on: tändes
 SHADOWDARK.chat.light_source.went_out: "{name}s {lightSource} slocknade"
 SHADOWDARK.chat.spell_roll.title: Kastar {name} som grad {tier} med svårighetsgrad {spellDC}
+SHADOWDARK.chat.welcome_message.intro: "To quickly get familiar with the system, check out the provided guided tours by clicking on the following button:"
+SHADOWDARK.chat.welcome_message.issue_tracker_button: Issue Tracker
+SHADOWDARK.chat.welcome_message.issues: "If you find any issues or have ideas for new features for the system. Check out our issue tracker:"
+SHADOWDARK.chat.welcome_message.title: Shadowdark RPG for Foundry
+SHADOWDARK.chat.welcome_message.tour_button: Shadowdark RPG Tours
 SHADOWDARK.chatcard.default: Rulla
 SHADOWDARK.class.fighter: Krigare
 SHADOWDARK.class.priest: Präst
