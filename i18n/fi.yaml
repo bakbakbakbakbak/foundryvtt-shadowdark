@@ -286,6 +286,7 @@ SHADOWDARK.sheet.actor.placeholder.name: Uusi nimi
 SHADOWDARK.sheet.class.item: Shadowdark esineikkuna
 SHADOWDARK.sheet.class.npc: Shadowdark NPC ikkuna
 SHADOWDARK.sheet.class.player: Shadowdark hahmoikkuna
+SHADOWDARK.sheet.general.item_create.tooltip: Create {type} Item
 SHADOWDARK.sheet.general.item_delete.title: Poista esine
 SHADOWDARK.sheet.general.item_edit.title: Muokkaa esinettä
 SHADOWDARK.sheet.item.tab.description: Kuvaus
@@ -345,6 +346,7 @@ SHADOWDARK.talent.type.advantage.initiative: Aloiteheitot edun kanssa
 SHADOWDARK.talent.type.advantage.spell: Loihtiminen edun kanssa
 SHADOWDARK.talent.type.advantage.title: Etubonus
 SHADOWDARK.talent.type.armor_bonus: Puolustuspistebonus panssarista
+SHADOWDARK.talent.type.armor_mastery: Armor Mastery
 SHADOWDARK.talent.type.backstab_die: Lisänoppa yllätyshyökkäykseen
 SHADOWDARK.talent.type.custom: Mukautettu lahjakkuus
 SHADOWDARK.talent.type.melee_attack_bonus: Lähitaistelun hyökkäysheittoihin bonus
