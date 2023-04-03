@@ -286,7 +286,7 @@ SHADOWDARK.sheet.actor.placeholder.name: Nytt aktörsnamn
 SHADOWDARK.sheet.class.item: Shadowdark Föremålsblad
 SHADOWDARK.sheet.class.npc: Shadowdark NPC Ark
 SHADOWDARK.sheet.class.player: Shadowdark Spelarblad
-SHADOWDARK.sheet.general.item_create.tooltip: Create {type} Item
+SHADOWDARK.sheet.general.item_create.tooltip: Skapa {type} objekt
 SHADOWDARK.sheet.general.item_delete.title: Ta bort föremål
 SHADOWDARK.sheet.general.item_edit.title: Förändra föremål
 SHADOWDARK.sheet.item.tab.description: Beskrivning
@@ -346,7 +346,7 @@ SHADOWDARK.talent.type.advantage.initiative: Fördel på Initiativ
 SHADOWDARK.talent.type.advantage.spell: Fördel vid Besvärjelsekast
 SHADOWDARK.talent.type.advantage.title: Fördelsbonus
 SHADOWDARK.talent.type.armor_bonus: Bonus för Armor Class
-SHADOWDARK.talent.type.armor_mastery: Armor Mastery
+SHADOWDARK.talent.type.armor_mastery: Rustningsmästare
 SHADOWDARK.talent.type.backstab_die: Extra tärning bakhåll
 SHADOWDARK.talent.type.custom: Egen Talang
 SHADOWDARK.talent.type.melee_attack_bonus: Bonus för Närstridsattack
