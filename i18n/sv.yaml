@@ -266,6 +266,8 @@ SHADOWDARK.settings.module_art.hint: Konfigurera vilken moduls konst ska använd
 SHADOWDARK.settings.module_art.label: Konfigurera konst
 SHADOWDARK.settings.module_art.name: Modulkonst
 SHADOWDARK.settings.module_art.save: Spara Ändringar
+SHADOWDARK.settings.roll_npc_hp.hint: Automatically roll NPC Hit Points when they are added to a scene
+SHADOWDARK.settings.roll_npc_hp.name: Auto Roll NPC Hit Points
 SHADOWDARK.settings.track_light_sources.hint: Om markerad kommer systemet att spåra och uppdatera den tid som återstår på alla aktiva ljuskällor.
 SHADOWDARK.settings.track_light_sources.inactive_user.hint: Om markerade ljuskällor som tillhör inaktiva (inte inloggade) användare, kommer tiden fortfarande att spåras
 SHADOWDARK.settings.track_light_sources.inactive_user.name: Spåra inaktiva användares ljuskällor
@@ -289,6 +291,7 @@ SHADOWDARK.sheet.class.player: Shadowdark Spelarblad
 SHADOWDARK.sheet.general.item_create.tooltip: Skapa {type} objekt
 SHADOWDARK.sheet.general.item_delete.title: Ta bort föremål
 SHADOWDARK.sheet.general.item_edit.title: Förändra föremål
+SHADOWDARK.sheet.general.roll_hp: Roll HP
 SHADOWDARK.sheet.item.tab.description: Beskrivning
 SHADOWDARK.sheet.item.tab.details: Detaljer
 SHADOWDARK.sheet.item.tab.light: Ljus
@@ -301,6 +304,7 @@ SHADOWDARK.sheet.npc.movement_short: Flytta
 SHADOWDARK.sheet.npc.movement: Förflyttning
 SHADOWDARK.sheet.npc.tab.abilities: Förmågor
 SHADOWDARK.sheet.npc.tab.description: Beskrivning
+SHADOWDARK.sheet.player.active_effect_override: This value is being modified by an Active Effect and cannot be edited. Disable the effect to edit it.
 SHADOWDARK.sheet.player.ancestry: Ursprung
 SHADOWDARK.sheet.player.available_spells: Tillgängliga besvärjelser
 SHADOWDARK.sheet.player.background: Bakgrund
