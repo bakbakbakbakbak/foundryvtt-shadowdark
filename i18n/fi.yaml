@@ -266,6 +266,8 @@ SHADOWDARK.settings.module_art.hint: Configure which module-provided art should 
 SHADOWDARK.settings.module_art.label: Configure Art
 SHADOWDARK.settings.module_art.name: Module-provided Art
 SHADOWDARK.settings.module_art.save: Save Changes
+SHADOWDARK.settings.roll_npc_hp.hint: Automatically roll NPC Hit Points when they are added to a scene
+SHADOWDARK.settings.roll_npc_hp.name: Auto Roll NPC Hit Points
 SHADOWDARK.settings.track_light_sources.hint: Jos valitset tämän, järjestelmä seuraa ja päivittää aktiivisten valonlähteiden jäljellä olevaa aikaa.
 SHADOWDARK.settings.track_light_sources.inactive_user.hint: Jos valitset tämän, järjestelmä seuraa epäaktiivisten (uloskirjautuneiden) käyttäjien valonlähteitä
 SHADOWDARK.settings.track_light_sources.inactive_user.name: Seuraa epäaktiivisten käyttäjien valonlähteitä
@@ -289,6 +291,7 @@ SHADOWDARK.sheet.class.player: Shadowdark hahmoikkuna
 SHADOWDARK.sheet.general.item_create.tooltip: Create {type} Item
 SHADOWDARK.sheet.general.item_delete.title: Poista esine
 SHADOWDARK.sheet.general.item_edit.title: Muokkaa esinettä
+SHADOWDARK.sheet.general.roll_hp: Roll HP
 SHADOWDARK.sheet.item.tab.description: Kuvaus
 SHADOWDARK.sheet.item.tab.details: Yksityiskohdat
 SHADOWDARK.sheet.item.tab.light: Valonlähde
@@ -301,6 +304,7 @@ SHADOWDARK.sheet.npc.movement_short: Liike
 SHADOWDARK.sheet.npc.movement: Liikkumisnopeus
 SHADOWDARK.sheet.npc.tab.abilities: Kyvyt
 SHADOWDARK.sheet.npc.tab.description: Kuvaus
+SHADOWDARK.sheet.player.active_effect_override: This value is being modified by an Active Effect and cannot be edited. Disable the effect to edit it.
 SHADOWDARK.sheet.player.ancestry: Laji
 SHADOWDARK.sheet.player.available_spells: Saatavilla olevat loitsut
 SHADOWDARK.sheet.player.background: Tausta
