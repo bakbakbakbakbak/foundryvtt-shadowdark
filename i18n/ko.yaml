@@ -68,10 +68,15 @@ SHADOWDARK.armor.properties.one_handed: 한 손 사용
 SHADOWDARK.armor.properties.shield: 방패
 SHADOWDARK.chat_card.button.attack: 명중 굴림
 SHADOWDARK.chat_card.button.cast_spell: 주문 시전
+SHADOWDARK.chat_card.button.learn_spell: Learn Spell
+SHADOWDARK.chat_card.button.use_potion: Use Potion
+SHADOWDARK.chat_card.button.use_scroll: Use Scroll
+SHADOWDARK.chat_card.button.use_wand: Use Wand
 SHADOWDARK.chat.hp_roll.apply_to_max: 최대 HP에 추가
 SHADOWDARK.chat.item_roll.double_numerical: 숫자로 된 값 하나에 2를 곱하세요!
 SHADOWDARK.chat.item_roll.mishap: 적절한 사고 표를 보고 주사위를 굴리세요!
 SHADOWDARK.chat.item_roll.title: '{name} 에게 명중 굴림'
+SHADOWDARK.chat.item_roll.wand_mishap: The wand breaks and permanently ceases to work
 SHADOWDARK.chat.light_source.expired: "{name} 의 {lightSource} 가 다 됐습니다"
 SHADOWDARK.chat.light_source.remaining: 분 남았습니다
 SHADOWDARK.chat.light_source.seconds_remaining: 1분 미만 남았습니다
@@ -79,7 +84,11 @@ SHADOWDARK.chat.light_source.source.all: 모든 광원이 사라졌습니다
 SHADOWDARK.chat.light_source.source.toggle.off: 꺼졌습니다.
 SHADOWDARK.chat.light_source.source.toggle.on: 켜졌습니다
 SHADOWDARK.chat.light_source.went_out: "{name} 의 {lightSource} 가 꺼졌습니다"
-SHADOWDARK.chat.spell_roll.title: '{tier} 등급 {name} 을 주문 DC {spellDC} 로 시전합니다.'
+SHADOWDARK.chat.potion_used: "{name} used a Potion"
+SHADOWDARK.chat.spell_learn.failure: "{name} failed to learn anything from the scroll"
+SHADOWDARK.chat.spell_learn.success: "{name} successfully learnt the {spellName} spell"
+SHADOWDARK.chat.spell_learn.title: Learning Spell
+SHADOWDARK.chat.spell_roll.title: "{tier} 등급 {name} 을 주문 DC {spellDC} 로 시전합니다."
 SHADOWDARK.chat.welcome_message.intro: "본 시스템에서 제공하는 길잡이 투어를 따라 버튼을 누르다 보면, 빠르게 적응할 수 있습니다:"
 SHADOWDARK.chat.welcome_message.issue_tracker_button: 문제 트래커
 SHADOWDARK.chat.welcome_message.issues: "시스템에 문제가 발생하거나 제안하고 싶은 새 기능이 있다면, 문제 트래커를 활용해주세요:"
@@ -122,9 +131,11 @@ SHADOWDARK.dialog.item_roll.talent_bonus: 재능 보너스
 SHADOWDARK.dialog.item_roll.title: 명중 굴림
 SHADOWDARK.dialog.item.confirm_delete: 삭제 요청 확인
 SHADOWDARK.dialog.item.confirm_sale: 판매 요청 확인
+SHADOWDARK.dialog.item.create_from_spell: Create Item from {spellName}
 SHADOWDARK.dialog.item.delete: 삭제
 SHADOWDARK.dialog.item.sell_all: 모두 팔기
 SHADOWDARK.dialog.item.sell: 팔기
+SHADOWDARK.dialog.item.use: Use
 SHADOWDARK.dialog.roll_mode_label: 굴림 모드
 SHADOWDARK.dialog.roll: 굴림
 SHADOWDARK.dialog.spell_roll.title: 주문시전 굴림
@@ -163,7 +174,10 @@ SHADOWDARK.inventory.label.quantity: 수량
 SHADOWDARK.inventory.label.slots: 슬롯
 SHADOWDARK.inventory.section.armor: 방어구
 SHADOWDARK.inventory.section.basic: 기본 장비
+SHADOWDARK.inventory.section.potions: Potions
+SHADOWDARK.inventory.section.scrolls: Scrolls
 SHADOWDARK.inventory.section.treasure: 보물
+SHADOWDARK.inventory.section.wands: Wands
 SHADOWDARK.inventory.section.weapon: 무기
 SHADOWDARK.inventory.slots_max: 최대
 SHADOWDARK.inventory.slots_used: 사용중
@@ -231,8 +245,8 @@ SHADOWDARK.item.effect.predefined_effect.weaponMastery: 무기 숙련
 SHADOWDARK.item.effect.show-on-panel: 패널에서 보기
 SHADOWDARK.item.effect.show-token-icon: 토큰 아이콘 보기
 SHADOWDARK.item.effect.source.title: 물건 출처
-SHADOWDARK.item.effect.warning.add_round_item_outside_combat: 전투가 아닐 때 라운드 단위로 지속시간을 세는 효과를 추가할 수 없습니다
 SHADOWDARK.item.effect.warning.add_effect_without_value: 값을 지정하지 않은 효과를 추가할 수 없습니다
+SHADOWDARK.item.effect.warning.add_round_item_outside_combat: 전투가 아닐 때 라운드 단위로 지속시간을 세는 효과를 추가할 수 없습니다
 SHADOWDARK.item.equipped: 장착 중
 SHADOWDARK.item.inventory_free_carry: 슬롯 소모 안 함
 SHADOWDARK.item.inventory_per_slot: 슬롯 당 최대값
@@ -252,6 +266,9 @@ SHADOWDARK.item.magic_item.type.critMultiplier: 극단적인 굴림에 곱하는
 SHADOWDARK.item.magic_item.type.custom: 사용자지정 효과
 SHADOWDARK.item.magic_item.type.damageBonus: 피해 보너스
 SHADOWDARK.item.magic_item.type.permanentAbility: 영구적인 능력 변화
+SHADOWDARK.item.name_from_spell.Potion: Potion of {spellName}
+SHADOWDARK.item.name_from_spell.Scroll: Scroll of {spellName}
+SHADOWDARK.item.name_from_spell.Wand: Wand of {spellName}
 SHADOWDARK.item.npc_attack_bonus: 명중 보너스
 SHADOWDARK.item.npc_attack_count: 공격 숫자
 SHADOWDARK.item.npc_attack_damage_bonus: 피해 보너스
@@ -259,14 +276,19 @@ SHADOWDARK.item.npc_attack_damage: 피해 주사위
 SHADOWDARK.item.npc_attack_special: 특수
 SHADOWDARK.item.npc_attack_type: 유형
 SHADOWDARK.item.npc_attack.num_damage_dice: 피해 주사위
+SHADOWDARK.item.potion.label: Potion
 SHADOWDARK.item.properties: 속성
+SHADOWDARK.item.scroll.label: Scroll
 SHADOWDARK.item.spell_caster_classes: 주문시전 클래스
 SHADOWDARK.item.spell_class: 주문 클래스
 SHADOWDARK.item.spell_duration: 지속시간
+SHADOWDARK.item.spell_name: Spell Name
 SHADOWDARK.item.spell_range: 범위
 SHADOWDARK.item.spell_tier: 등급
+SHADOWDARK.item.spell.label: Spell
 SHADOWDARK.item.talent_class: 재능 클래스
 SHADOWDARK.item.treasure: 보물
+SHADOWDARK.item.wand.label: Wand
 SHADOWDARK.item.weapon_damage.oneHanded_short: 한손
 SHADOWDARK.item.weapon_damage.oneHanded: 한손 피해
 SHADOWDARK.item.weapon_damage.twoHanded_short: 두손
@@ -322,24 +344,24 @@ SHADOWDARK.module_art_config.tokens: 토큰
 SHADOWDARK.npc_attack.type.physical: 물리
 SHADOWDARK.npc_attack.type.special: 특수
 SHADOWDARK.npc_move.double_near: 단거리 2배
-SHADOWDARK.npc_move.triple_near: 단거리 3배
 SHADOWDARK.npc_move.near: 단거리
+SHADOWDARK.npc_move.triple_near: 단거리 3배
 SHADOWDARK.range.close_short: 인접
 SHADOWDARK.range.close: 인접
 SHADOWDARK.range.far_short: 장거리
 SHADOWDARK.range.far: 장거리
 SHADOWDARK.range.near_short: "단거리"
 SHADOWDARK.range.near: 단거리
-SHADOWDARK.range.self_short: 자신
-SHADOWDARK.range.self: 자신
-SHADOWDARK.range.unlimited_short: 무
-SHADOWDARK.range.unlimited: 무제한
-SHADOWDARK.range.touch_short: 접
-SHADOWDARK.range.touch: 접촉
+SHADOWDARK.range.nearLine_short: 직선
+SHADOWDARK.range.nearLine: 단거리 직선
 SHADOWDARK.range.samePlane_short: 차원
 SHADOWDARK.range.samePlane: 같은 차원 내
-SHADOWDARK.range.nearLine: 단거리 직선
-SHADOWDARK.range.nearLine_short: 직선
+SHADOWDARK.range.self_short: 자신
+SHADOWDARK.range.self: 자신
+SHADOWDARK.range.touch_short: 접
+SHADOWDARK.range.touch: 접촉
+SHADOWDARK.range.unlimited_short: 무
+SHADOWDARK.range.unlimited: 무제한
 SHADOWDARK.roll.advantage_title: "유리함으로 {title}"
 SHADOWDARK.roll.advantage: 유리함
 SHADOWDARK.roll.critical.failure: 극단적인 실패! ({value})
@@ -423,15 +445,19 @@ SHADOWDARK.sheet.player.talents: 재능
 SHADOWDARK.sheet.player.title: 칭호
 SHADOWDARK.sheet.player.toggle_spell_lost: 주문 불능 표시
 SHADOWDARK.sheet.player.tooltip.cast_spell: 주문 시전
+SHADOWDARK.sheet.player.tooltip.learn_spell: Learn Spell
+SHADOWDARK.sheet.player.tooltip.use_potion: Use Potion
+SHADOWDARK.sheet.player.tooltip.use_scroll: Use Scroll
+SHADOWDARK.sheet.player.tooltip.use_wand: Use Wand
 SHADOWDARK.sheet.player.xp: XP
 SHADOWDARK.spell_caster.priest: 성직자
 SHADOWDARK.spell_caster.wizard: 마법사
 SHADOWDARK.spell_duration.days: 일
 SHADOWDARK.spell_duration.focus: 집중
 SHADOWDARK.spell_duration.instant: 즉시
+SHADOWDARK.spell_duration.permanent: 영구
 SHADOWDARK.spell_duration.real_time: 실시간
 SHADOWDARK.spell_duration.rounds: 라운드
-SHADOWDARK.spell_duration.permanent: 영구
 SHADOWDARK.spell_range.close: 인접
 SHADOWDARK.spell_range.far: 장거리
 SHADOWDARK.spell_range.near: 단거리
