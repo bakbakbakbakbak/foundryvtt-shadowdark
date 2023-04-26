@@ -114,6 +114,7 @@ SHADOWDARK.dialog.ability_check.wis: Vishet Check
 SHADOWDARK.dialog.effect.choice.armor: Välj rustningstyp
 SHADOWDARK.dialog.effect.choice.spell: Välj besvärjelse
 SHADOWDARK.dialog.effect.choice.weapon: Välj vapentyp
+SHADOWDARK.dialog.effect.choice.lightSource: Choose Light Source
 SHADOWDARK.dialog.general.are_you_sure: Är du säker?
 SHADOWDARK.dialog.general.cancel: Avbryt
 SHADOWDARK.dialog.general.no: "Nej"
@@ -211,6 +212,12 @@ SHADOWDARK.item.effect.category.condition: Tillstånd
 SHADOWDARK.item.effect.category.effect: Effekt
 SHADOWDARK.item.effect.category.title: Effektkategori
 SHADOWDARK.item.effect.pre-defined.title: Fördefinerad effekter
+SHADOWDARK.item.effect.lightSource.lantern: Lantern
+SHADOWDARK.item.effect.lightSource.lightSpellDouble: Light (Double Range)
+SHADOWDARK.item.effect.lightSource.lightSpellNear: Light
+SHADOWDARK.item.effect.lightSource.torch: Torch
+SHADOWDARK.item.effect.lightSource.purpleGlow: Purple Glow
+SHADOWDARK.item.effect.lightSource.lightSuppression: Light Suppression
 SHADOWDARK.item.effect.predefined_effect.abilityImprovement: Förbättring av förmåga
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementCha: Förbättring av förmåga (Kar)
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementCon: Förbättring av förmåga (Fys)
@@ -227,6 +234,7 @@ SHADOWDARK.item.effect.predefined_effect.criticalSuccessThreshold: Lägre trösk
 SHADOWDARK.item.effect.predefined_effect.critMultiplier: Multiplikator vid kritiskt träff
 SHADOWDARK.item.effect.predefined_effect.hpAdvantage: Fördel KP Rullning
 SHADOWDARK.item.effect.predefined_effect.initAdvantage: Fördel på initiativ
+SHADOWDARK.item.effect.predefined_effect.lightSource: Light Source
 SHADOWDARK.item.effect.predefined_effect.meleeAttackBonus: Bonus för Närstridsattack
 SHADOWDARK.item.effect.predefined_effect.meleeDamageBonus: Bonus för Närstridsskada
 SHADOWDARK.item.effect.predefined_effect.permanentAbilityCha: Permanent förmåga (Kar)
@@ -335,6 +343,7 @@ SHADOWDARK.light-tracker.paused: Pausad
 SHADOWDARK.light-tracker.status.label: Status
 SHADOWDARK.light-tracker.title.prefix: Ljus
 SHADOWDARK.light-tracker.title.suffix: Spårare
+SHADOWDARK.light-tracker.user_warning: One or more users have not selected a character
 SHADOWDARK.migration.begin_migration: Utför uppgraderingar för Shadowdark RPG
 SHADOWDARK.migration.begin_schema: Applicerar uppdateringar för Shadowdark RPG v{version} schemat
 SHADOWDARK.migration.completed_migration: Uppgraderingar till Shadowdark RPG utförda
