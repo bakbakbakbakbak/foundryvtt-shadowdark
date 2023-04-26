@@ -114,6 +114,7 @@ SHADOWDARK.dialog.ability_check.wis: 지혜 판정
 SHADOWDARK.dialog.effect.choice.armor: 방어구 유형 선택
 SHADOWDARK.dialog.effect.choice.spell: 주문 선택
 SHADOWDARK.dialog.effect.choice.weapon: 무기 유형 선택
+SHADOWDARK.dialog.effect.choice.lightSource: Choose Light Source
 SHADOWDARK.dialog.general.are_you_sure: 정말 진행하실 건가요?
 SHADOWDARK.dialog.general.cancel: 취소
 SHADOWDARK.dialog.general.no: "아니오"
@@ -211,6 +212,12 @@ SHADOWDARK.item.effect.category.condition: 상태
 SHADOWDARK.item.effect.category.effect: 효과
 SHADOWDARK.item.effect.category.title: 효과 종류
 SHADOWDARK.item.effect.pre-defined.title: 사전 지정된 효과
+SHADOWDARK.item.effect.lightSource.lantern: Lantern
+SHADOWDARK.item.effect.lightSource.lightSpellDouble: Light (Double Range)
+SHADOWDARK.item.effect.lightSource.lightSpellNear: Light
+SHADOWDARK.item.effect.lightSource.torch: Torch
+SHADOWDARK.item.effect.lightSource.purpleGlow: Purple Glow
+SHADOWDARK.item.effect.lightSource.lightSuppression: Light Suppression
 SHADOWDARK.item.effect.predefined_effect.abilityImprovement: 능력 점수 향상
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementCha: 능력 점수 향상 (매력)
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementCon: 능력 점수 향상 (건강)
@@ -227,6 +234,7 @@ SHADOWDARK.item.effect.predefined_effect.criticalSuccessThreshold: 극단적인 
 SHADOWDARK.item.effect.predefined_effect.critMultiplier: 극단적인 굴림에 곱하는 값
 SHADOWDARK.item.effect.predefined_effect.hpAdvantage: HP 굴림 유리함
 SHADOWDARK.item.effect.predefined_effect.initAdvantage: 우선권 유리함
+SHADOWDARK.item.effect.predefined_effect.lightSource: Light Source
 SHADOWDARK.item.effect.predefined_effect.meleeAttackBonus: 근접 명중 굴림 보너스
 SHADOWDARK.item.effect.predefined_effect.meleeDamageBonus: 근접 피해 보너스
 SHADOWDARK.item.effect.predefined_effect.permanentAbilityCha: 영구 능력 (매력)
@@ -335,6 +343,7 @@ SHADOWDARK.light-tracker.paused: 멈춤
 SHADOWDARK.light-tracker.status.label: 상태
 SHADOWDARK.light-tracker.title.prefix: 빛
 SHADOWDARK.light-tracker.title.suffix: 트래커
+SHADOWDARK.light-tracker.user_warning: One or more users have not selected a character
 SHADOWDARK.migration.begin_migration: 섀도우다크 RPG 데이터를 업그레이드하고 있습니다.
 SHADOWDARK.migration.begin_schema: 섀도우다크 RPG v{version} 를 업데이트하고 있습니다.
 SHADOWDARK.migration.completed_migration: 섀도우다크 RPG 데이터 업그레이드가 완료되었습니다.
