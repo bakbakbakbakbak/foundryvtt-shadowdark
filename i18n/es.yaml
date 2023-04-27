@@ -147,22 +147,22 @@ SHADOWDARK.effect_duration.minutes: Minutos
 SHADOWDARK.effect_duration.seconds: Segundos
 SHADOWDARK.effect_duration.unlimited: Ilimitado
 SHADOWDARK.effect.custom: Efectos personalizados
-SHADOWDARK.effect.footer.add_custom: Add Custom Effect
-SHADOWDARK.effect.header.active: Active
-SHADOWDARK.effect.header.changes: Changes
-SHADOWDARK.effect.header.delete: Delete
-SHADOWDARK.effect.header.edit: Edit
-SHADOWDARK.effect.header.inactive: Inactive
-SHADOWDARK.effect.header.name: Name
-SHADOWDARK.effect.header.options: Options
-SHADOWDARK.effect.header.transfer: Transfer
-SHADOWDARK.effect.item: Item Effects
-SHADOWDARK.effect.new: New Effect
-SHADOWDARK.effect.spell: Spell Effects
-SHADOWDARK.effect.talent: Talent Effects
-SHADOWDARK.effect.temporary: Temporary Effects
-SHADOWDARK.effect.tooltip.transfer.do_not: Does not transfer
-SHADOWDARK.effect.tooltip.transfer.do: Does transfer
+SHADOWDARK.effect.footer.add_custom: Añadir efecto personalizado
+SHADOWDARK.effect.header.active: Activo
+SHADOWDARK.effect.header.changes: Cambios
+SHADOWDARK.effect.header.delete: Eliminar
+SHADOWDARK.effect.header.edit: Editar
+SHADOWDARK.effect.header.inactive: Inactivo
+SHADOWDARK.effect.header.name: Nombre
+SHADOWDARK.effect.header.options: Opciones
+SHADOWDARK.effect.header.transfer: Transferir
+SHADOWDARK.effect.item: Efectos de objeto
+SHADOWDARK.effect.new: Nuevo efecto
+SHADOWDARK.effect.spell: Efecto del hechizo
+SHADOWDARK.effect.talent: Efectos del talento
+SHADOWDARK.effect.temporary: Efectos temporales
+SHADOWDARK.effect.tooltip.transfer.do_not: No transfiere
+SHADOWDARK.effect.tooltip.transfer.do: Transfiere
 SHADOWDARK.effect.tooltip.transfer.header: Transfer effect to actor when item is added
 SHADOWDARK.effect.unavailable: Disabled Effects
 SHADOWDARK.error.general.gm_required: You must have the Game Master role to do that.
