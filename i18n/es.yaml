@@ -22,32 +22,32 @@ SHADOWDARK.app.gem_bag.title: Bolsa de gemas
 SHADOWDARK.app.gem_bag.tooltip.sell_gem: Vender Gema
 SHADOWDARK.app.gem_bag.total_value: Valor total
 SHADOWDARK.app.item_properties.armor.title: Propiedades de armadura
-SHADOWDARK.app.item_properties.caster_classes.title: Caster Classes
-SHADOWDARK.app.item_properties.languages.title: Languages
-SHADOWDARK.app.item_properties.magic_item.effects.title: Magic Item Effects
+SHADOWDARK.app.item_properties.caster_classes.title: Clases de hechicero
+SHADOWDARK.app.item_properties.languages.title: Idiomas
+SHADOWDARK.app.item_properties.magic_item.effects.title: Efectos de objetos mágicos
 SHADOWDARK.app.item_properties.save: Save
-SHADOWDARK.app.item_properties.talent.effects.title: Talent Effect Types
-SHADOWDARK.app.item_properties.title: Properties
-SHADOWDARK.app.item_properties.weapon.title: Weapon Properties
+SHADOWDARK.app.item_properties.talent.effects.title: Tipos de efecto de talento
+SHADOWDARK.app.item_properties.title: Propiedades
+SHADOWDARK.app.item_properties.weapon.title: Propiedades del arma
 SHADOWDARK.app.light_tracker.minute_short: min
 SHADOWDARK.app.light_tracker.minutes_short: mins
-SHADOWDARK.app.light_tracker.title: Light Tracker
-SHADOWDARK.app.light-tracker.douse-light: Douse Light
-SHADOWDARK.app.light-tracker.turn-out-the-lights: Turn Out the Lights
-SHADOWDARK.app.npc_attack_ranges.title: Attack Ranges
-SHADOWDARK.apps.effect_panel.dialog.delete_effect.content: Do you want to delete the {effectName} effect?
-SHADOWDARK.apps.effect_panel.dialog.delete_effect.title: Delete Effect?
-SHADOWDARK.apps.effect_panel.duration_label.expired: Expired
-SHADOWDARK.apps.effect_panel.duration_label.one_day: 1 Day Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_hour: 1 Hour Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_minute: 1 Minute Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_round: 1 Round Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_second: 1 Second Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_week: 1 Week Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_year: 1 Year Remaining
-SHADOWDARK.apps.effect_panel.duration_label.unlimited: Unlimited Duration
-SHADOWDARK.apps.effect_panel.duration_label.x_days: "{days} Days Remaining"
-SHADOWDARK.apps.effect_panel.duration_label.x_hours: "{hours} Hours Remaining"
+SHADOWDARK.app.light_tracker.title: Seguimiento de la luz
+SHADOWDARK.app.light-tracker.douse-light: Apagar la luz
+SHADOWDARK.app.light-tracker.turn-out-the-lights: Apagar las luces
+SHADOWDARK.app.npc_attack_ranges.title: Rangos de ataque
+SHADOWDARK.apps.effect_panel.dialog.delete_effect.content: '¿Quieres eliminar el efecto {effectName}?'
+SHADOWDARK.apps.effect_panel.dialog.delete_effect.title: '¿Eliminar efecto?'
+SHADOWDARK.apps.effect_panel.duration_label.expired: Expirado
+SHADOWDARK.apps.effect_panel.duration_label.one_day: 1 Día restante
+SHADOWDARK.apps.effect_panel.duration_label.one_hour: 1 Hora restante
+SHADOWDARK.apps.effect_panel.duration_label.one_minute: 1 Minuto restante
+SHADOWDARK.apps.effect_panel.duration_label.one_round: 1 Ronda restante
+SHADOWDARK.apps.effect_panel.duration_label.one_second: 1 Segundo restante
+SHADOWDARK.apps.effect_panel.duration_label.one_week: 1 Semana restante
+SHADOWDARK.apps.effect_panel.duration_label.one_year: 1 Año restante
+SHADOWDARK.apps.effect_panel.duration_label.unlimited: Duración ilimitada
+SHADOWDARK.apps.effect_panel.duration_label.x_days: "{days} Días restantes"
+SHADOWDARK.apps.effect_panel.duration_label.x_hours: "{hours} Horas restantes"
 SHADOWDARK.apps.effect_panel.duration_label.x_minutes: "{minutes} Minutes Remaining"
 SHADOWDARK.apps.effect_panel.duration_label.x_rounds: "{rounds} Rounds Remaining"
 SHADOWDARK.apps.effect_panel.duration_label.x_seconds: "{seconds} Seconds Remaining"
@@ -97,30 +97,30 @@ SHADOWDARK.chat.welcome_message.tour_button: Shadowdark RPG Tours
 SHADOWDARK.chatcard.default: Roll
 SHADOWDARK.class.fighter: Fighter
 SHADOWDARK.class.priest: Priest
-SHADOWDARK.class.thief: Thief
-SHADOWDARK.class.wizard: Wizard
-SHADOWDARK.coins.cp: CP
-SHADOWDARK.coins.gp: GP
-SHADOWDARK.coins.sp: SP
-SHADOWDARK.damage.one_handed: "One-Handed Damage:"
-SHADOWDARK.damage.two_handed: "Two-Handed Damage:"
-SHADOWDARK.dialog.ability_check.cha: Charisma Check
-SHADOWDARK.dialog.ability_check.con: Constitution Check
-SHADOWDARK.dialog.ability_check.dex: Dexterity Check
-SHADOWDARK.dialog.ability_check.int: Intelligence Check
-SHADOWDARK.dialog.ability_check.str: Strength Check
-SHADOWDARK.dialog.ability_check.title: Ability Check
-SHADOWDARK.dialog.ability_check.wis: Wisdom Check
-SHADOWDARK.dialog.effect.choice.armor: Choose Armor Type
-SHADOWDARK.dialog.effect.choice.spell: Choose Spell
-SHADOWDARK.dialog.effect.choice.weapon: Choose Weapon Type
-SHADOWDARK.dialog.effect.choice.lightSource: Choose Light Source
-SHADOWDARK.dialog.general.are_you_sure: Are you sure?
-SHADOWDARK.dialog.general.cancel: Cancel
+SHADOWDARK.class.thief: Ladrón
+SHADOWDARK.class.wizard: Mago
+SHADOWDARK.coins.cp: PC
+SHADOWDARK.coins.gp: PO
+SHADOWDARK.coins.sp: PP
+SHADOWDARK.damage.one_handed: "Daño a una mano:"
+SHADOWDARK.damage.two_handed: "Daño a dos manos:"
+SHADOWDARK.dialog.ability_check.cha: Prueba de carisma
+SHADOWDARK.dialog.ability_check.con: Prueba de Constitución
+SHADOWDARK.dialog.ability_check.dex: Chequeo de destreza
+SHADOWDARK.dialog.ability_check.int: Prueba de inteligencia
+SHADOWDARK.dialog.ability_check.str: Chequeo de fuerza
+SHADOWDARK.dialog.ability_check.title: Prueba de habilidad
+SHADOWDARK.dialog.ability_check.wis: Prueba de sabiduría
+SHADOWDARK.dialog.effect.choice.armor: Elige el tipo de armadura
+SHADOWDARK.dialog.effect.choice.spell: Elige hechizo
+SHADOWDARK.dialog.effect.choice.weapon: Elige el tipo de arma
+SHADOWDARK.dialog.effect.choice.lightSource: Elige la fuente de luz
+SHADOWDARK.dialog.general.are_you_sure: '¿Estás seguro?'
+SHADOWDARK.dialog.general.cancel: Cancelar
 SHADOWDARK.dialog.general.no: "No"
-SHADOWDARK.dialog.general.yes: "Yes"
-SHADOWDARK.dialog.hp_roll.per_level: Roll HP for level {level}
-SHADOWDARK.dialog.hp_roll.previous_hp: "HP before rolling: {hp}"
+SHADOWDARK.dialog.general.yes: "Sí"
+SHADOWDARK.dialog.hp_roll.per_level: Tirar PV por nivel {level}
+SHADOWDARK.dialog.hp_roll.previous_hp: "PV antes de tirar: {hp}"
 SHADOWDARK.dialog.hp_roll.roll_level_1: Rolled {hp} hp for level 1 (incl. con mod)
 SHADOWDARK.dialog.hp_roll.roll_per_level: Rolled {hp} hp for level {level}
 SHADOWDARK.dialog.hp_roll.sum_total: For a new max HP of {total} hp
