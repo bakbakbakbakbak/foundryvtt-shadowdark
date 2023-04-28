@@ -1,5 +1,5 @@
 SHADOWDARK.ability_cha: Cha
-SHADOWDARK.ability_charisma: Charisma
+SHADOWDARK.ability_charisma: Charisme
 SHADOWDARK.ability_con: Con
 SHADOWDARK.ability_constitution: Constitution
 SHADOWDARK.ability_dex: Dex
@@ -21,7 +21,7 @@ SHADOWDARK.app.gem_bag.sell_all: Vendre toutes les gemmes
 SHADOWDARK.app.gem_bag.title: Sac de gemmes
 SHADOWDARK.app.gem_bag.tooltip.sell_gem: Vendre des Gemmes
 SHADOWDARK.app.gem_bag.total_value: Valeur Totale
-SHADOWDARK.app.item_properties.armor.title: Armor Properties
+SHADOWDARK.app.item_properties.armor.title: Propriétés de l'armure
 SHADOWDARK.app.item_properties.caster_classes.title: Caster Classes
 SHADOWDARK.app.item_properties.languages.title: Langues
 SHADOWDARK.app.item_properties.magic_item.effects.title: Magic Item Effects
