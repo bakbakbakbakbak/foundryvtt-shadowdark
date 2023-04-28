@@ -454,10 +454,10 @@ SHADOWDARK.sheet.player.talents: Talanger
 SHADOWDARK.sheet.player.title: Titel
 SHADOWDARK.sheet.player.toggle_spell_lost: Ange Förlorad
 SHADOWDARK.sheet.player.tooltip.cast_spell: Kasta besvärjelse
-SHADOWDARK.sheet.player.tooltip.learn_spell: Learn Spell
-SHADOWDARK.sheet.player.tooltip.use_potion: Use Potion
-SHADOWDARK.sheet.player.tooltip.use_scroll: Use Scroll
-SHADOWDARK.sheet.player.tooltip.use_wand: Use Wand
+SHADOWDARK.sheet.player.tooltip.learn_spell: Lär dig besvärjelse
+SHADOWDARK.sheet.player.tooltip.use_potion: Använd brygd
+SHADOWDARK.sheet.player.tooltip.use_scroll: Använd scroll
+SHADOWDARK.sheet.player.tooltip.use_wand: Använd trollspö
 SHADOWDARK.sheet.player.xp: XP
 SHADOWDARK.spell_caster.priest: Präst
 SHADOWDARK.spell_caster.wizard: Trollkarl
