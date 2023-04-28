@@ -76,7 +76,7 @@ SHADOWDARK.chat.hp_roll.apply_to_max: Añadir a PV máximos
 SHADOWDARK.chat.item_roll.double_numerical: '¡Duplica cualquier valor numérico!'
 SHADOWDARK.chat.item_roll.mishap: '¡Tira en la tabla de pifias apropiada!'
 SHADOWDARK.chat.item_roll.title: Tirada de ataque con {name}
-SHADOWDARK.chat.item_roll.wand_mishap: La varita se rompe y deja permanentemente de funcionar
+SHADOWDARK.chat.item_roll.wand_mishap: La varita se rompe y deja de funcionar permanentemente
 SHADOWDARK.chat.light_source.expired: "{name} de {lightSource} ha expirado"
 SHADOWDARK.chat.light_source.remaining: minutos restantes
 SHADOWDARK.chat.light_source.seconds_remaining: Menos de 1 minuto restante
@@ -106,9 +106,9 @@ SHADOWDARK.damage.one_handed: "Daño a una mano:"
 SHADOWDARK.damage.two_handed: "Daño a dos manos:"
 SHADOWDARK.dialog.ability_check.cha: Prueba de carisma
 SHADOWDARK.dialog.ability_check.con: Prueba de Constitución
-SHADOWDARK.dialog.ability_check.dex: Chequeo de destreza
+SHADOWDARK.dialog.ability_check.dex: Prueba de destreza
 SHADOWDARK.dialog.ability_check.int: Prueba de inteligencia
-SHADOWDARK.dialog.ability_check.str: Chequeo de fuerza
+SHADOWDARK.dialog.ability_check.str: Prueba de fuerza
 SHADOWDARK.dialog.ability_check.title: Prueba de habilidad
 SHADOWDARK.dialog.ability_check.wis: Prueba de sabiduría
 SHADOWDARK.dialog.effect.choice.armor: Elige el tipo de armadura
@@ -172,7 +172,7 @@ SHADOWDARK.inventory.item.light_remaining: "{timeRemaining} Minutos restantes"
 SHADOWDARK.inventory.item.light_seconds_remaining: Menos de 1 minuto restante
 SHADOWDARK.inventory.item.light_used: (parcialmente utilizado)
 SHADOWDARK.inventory.label.quantity: Cant.
-SHADOWDARK.inventory.label.slots: Espacios
+SHADOWDARK.inventory.label.slots: Huecos
 SHADOWDARK.inventory.section.armor: Armadura
 SHADOWDARK.inventory.section.basic: Equipo básico
 SHADOWDARK.inventory.section.potions: Pociones
@@ -182,7 +182,7 @@ SHADOWDARK.inventory.section.wands: Varitas
 SHADOWDARK.inventory.section.weapon: Armas
 SHADOWDARK.inventory.slots_max: Max
 SHADOWDARK.inventory.slots_used: Usado
-SHADOWDARK.inventory.slots: Espacios
+SHADOWDARK.inventory.slots: Huecos
 SHADOWDARK.inventory.tooltip.gem_bag: Abrir bolsa de gemas
 SHADOWDARK.inventory.tooltip.item_decrement: Reducir cantidad
 SHADOWDARK.inventory.tooltip.item_increment: Aumentar cantidad
@@ -226,7 +226,7 @@ SHADOWDARK.item.effect.predefined_effect.abilityImprovementInt: Mejora de la pun
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementStr: Mejora de la puntuación de habilidad (Fue)
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementWis: Mejora de la puntuación de habilidad (Sab)
 SHADOWDARK.item.effect.predefined_effect.acBonus: Bonus CA
-SHADOWDARK.item.effect.predefined_effect.additionalGearSlots: Espacios de equipo adicionales
+SHADOWDARK.item.effect.predefined_effect.additionalGearSlots: Huecos de equipo adicionales
 SHADOWDARK.item.effect.predefined_effect.armorMastery: Maestría de armaduras
 SHADOWDARK.item.effect.predefined_effect.backstabDie: Dado de apuñalamiento adicional
 SHADOWDARK.item.effect.predefined_effect.criticalFailureThreshold: Umbral de fallo crítico
@@ -259,7 +259,7 @@ SHADOWDARK.item.equipped: Equipado
 SHADOWDARK.item.inventory_free_carry: Llevar libremente
 SHADOWDARK.item.inventory_per_slot: Máximo por espacio
 SHADOWDARK.item.inventory_quantity: Cantidad
-SHADOWDARK.item.inventory_slots: Espacios por ítem
+SHADOWDARK.item.inventory_slots: Huecos por ítem
 SHADOWDARK.item.level: Nivel
 SHADOWDARK.item.light.is_source: Fuente de luz
 SHADOWDARK.item.light.longevity: Longevidad (minutos)
