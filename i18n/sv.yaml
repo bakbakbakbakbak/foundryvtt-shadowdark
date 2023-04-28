@@ -68,15 +68,15 @@ SHADOWDARK.armor.properties.one_handed: Upptar en hand
 SHADOWDARK.armor.properties.shield: Sköld
 SHADOWDARK.chat_card.button.attack: Rulla attack
 SHADOWDARK.chat_card.button.cast_spell: Kasta besvärjelse
-SHADOWDARK.chat_card.button.learn_spell: Learn Spell
-SHADOWDARK.chat_card.button.use_potion: Use Potion
-SHADOWDARK.chat_card.button.use_scroll: Use Scroll
-SHADOWDARK.chat_card.button.use_wand: Use Wand
+SHADOWDARK.chat_card.button.learn_spell: Lär dig besvärjelse
+SHADOWDARK.chat_card.button.use_potion: Använd brygd
+SHADOWDARK.chat_card.button.use_scroll: Använd scroll
+SHADOWDARK.chat_card.button.use_wand: Använd trollspö
 SHADOWDARK.chat.hp_roll.apply_to_max: Lägg till på max KP
 SHADOWDARK.chat.item_roll.double_numerical: Dubbla valfritt numeriskt värde!
 SHADOWDARK.chat.item_roll.mishap: Rulla på lämplig felkast-tabell!
 SHADOWDARK.chat.item_roll.title: Attackerar med {name}
-SHADOWDARK.chat.item_roll.wand_mishap: The wand breaks and permanently ceases to work
+SHADOWDARK.chat.item_roll.wand_mishap: Trollstaven bryts och upphör att fungera permanent
 SHADOWDARK.chat.light_source.expired: "{name}s {lightSource} slocknade"
 SHADOWDARK.chat.light_source.remaining: minuter kvar
 SHADOWDARK.chat.light_source.seconds_remaining: Mindre än en minut återstår
@@ -84,10 +84,10 @@ SHADOWDARK.chat.light_source.source.all: Alla ljuskällor slocknade
 SHADOWDARK.chat.light_source.source.toggle.off: släcktes
 SHADOWDARK.chat.light_source.source.toggle.on: tändes
 SHADOWDARK.chat.light_source.went_out: "{name}s {lightSource} slocknade"
-SHADOWDARK.chat.potion_used: "{name} used a Potion"
-SHADOWDARK.chat.spell_learn.failure: "{name} failed to learn anything from the scroll"
-SHADOWDARK.chat.spell_learn.success: "{name} successfully learnt the {spellName} spell"
-SHADOWDARK.chat.spell_learn.title: Learning Spell
+SHADOWDARK.chat.potion_used: "{name} använde en brygd"
+SHADOWDARK.chat.spell_learn.failure: "{name} misslyckades lära sig något från scrollen"
+SHADOWDARK.chat.spell_learn.success: "{name} lärde sig besvärjelsen {spellName}"
+SHADOWDARK.chat.spell_learn.title: Lär sig besvärjelse
 SHADOWDARK.chat.spell_roll.title: "Kastar {name} som grad {tier} med svårighetsgrad {spellDC}"
 SHADOWDARK.chat.welcome_message.intro: "För att snabbt bekanta dig med systemet, kolla in de guidade turer genom att klicka på följande knapp:"
 SHADOWDARK.chat.welcome_message.issue_tracker_button: Ärendehanteringssystem
@@ -114,7 +114,7 @@ SHADOWDARK.dialog.ability_check.wis: Vishet Check
 SHADOWDARK.dialog.effect.choice.armor: Välj rustningstyp
 SHADOWDARK.dialog.effect.choice.spell: Välj besvärjelse
 SHADOWDARK.dialog.effect.choice.weapon: Välj vapentyp
-SHADOWDARK.dialog.effect.choice.lightSource: Choose Light Source
+SHADOWDARK.dialog.effect.choice.lightSource: Välj ljuskälla
 SHADOWDARK.dialog.general.are_you_sure: Är du säker?
 SHADOWDARK.dialog.general.cancel: Avbryt
 SHADOWDARK.dialog.general.no: "Nej"
@@ -132,11 +132,11 @@ SHADOWDARK.dialog.item_roll.talent_bonus: Talangbonus
 SHADOWDARK.dialog.item_roll.title: Attackera med
 SHADOWDARK.dialog.item.confirm_delete: Bekräfta borttagning
 SHADOWDARK.dialog.item.confirm_sale: Bekräfta försäljning
-SHADOWDARK.dialog.item.create_from_spell: Create Item from {spellName}
+SHADOWDARK.dialog.item.create_from_spell: Skapa föremål från {spellName}
 SHADOWDARK.dialog.item.delete: Ta bort
 SHADOWDARK.dialog.item.sell_all: Sälj allt
 SHADOWDARK.dialog.item.sell: Sälj
-SHADOWDARK.dialog.item.use: Use
+SHADOWDARK.dialog.item.use: Användning
 SHADOWDARK.dialog.roll_mode_label: Rull-läge
 SHADOWDARK.dialog.roll: Rulla
 SHADOWDARK.dialog.spell_roll.title: Rulla besvärjelse med
@@ -175,10 +175,10 @@ SHADOWDARK.inventory.label.quantity: Kvantitet
 SHADOWDARK.inventory.label.slots: Platser
 SHADOWDARK.inventory.section.armor: Rustning
 SHADOWDARK.inventory.section.basic: Grundläggande Utrustning
-SHADOWDARK.inventory.section.potions: Potions
+SHADOWDARK.inventory.section.potions: Brygder
 SHADOWDARK.inventory.section.scrolls: Scrolls
 SHADOWDARK.inventory.section.treasure: Skatter
-SHADOWDARK.inventory.section.wands: Wands
+SHADOWDARK.inventory.section.wands: Trollspön
 SHADOWDARK.inventory.section.weapon: Vapen
 SHADOWDARK.inventory.slots_max: Max
 SHADOWDARK.inventory.slots_used: Använda
@@ -212,12 +212,12 @@ SHADOWDARK.item.effect.category.condition: Tillstånd
 SHADOWDARK.item.effect.category.effect: Effekt
 SHADOWDARK.item.effect.category.title: Effektkategori
 SHADOWDARK.item.effect.pre-defined.title: Fördefinerad effekter
-SHADOWDARK.item.effect.lightSource.lantern: Lantern
-SHADOWDARK.item.effect.lightSource.lightSpellDouble: Light (Double Range)
-SHADOWDARK.item.effect.lightSource.lightSpellNear: Light
-SHADOWDARK.item.effect.lightSource.torch: Torch
-SHADOWDARK.item.effect.lightSource.purpleGlow: Purple Glow
-SHADOWDARK.item.effect.lightSource.lightSuppression: Light Suppression
+SHADOWDARK.item.effect.lightSource.lantern: Lykta
+SHADOWDARK.item.effect.lightSource.lightSpellDouble: Ljust (dubbel räckvidd)
+SHADOWDARK.item.effect.lightSource.lightSpellNear: Ljus
+SHADOWDARK.item.effect.lightSource.torch: Fackla
+SHADOWDARK.item.effect.lightSource.purpleGlow: Lila glöd
+SHADOWDARK.item.effect.lightSource.lightSuppression: Ljusdämpning
 SHADOWDARK.item.effect.predefined_effect.abilityImprovement: Förbättring av förmåga
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementCha: Förbättring av förmåga (Kar)
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementCon: Förbättring av förmåga (Fys)
@@ -234,7 +234,7 @@ SHADOWDARK.item.effect.predefined_effect.criticalSuccessThreshold: Lägre trösk
 SHADOWDARK.item.effect.predefined_effect.critMultiplier: Multiplikator vid kritiskt träff
 SHADOWDARK.item.effect.predefined_effect.hpAdvantage: Fördel KP Rullning
 SHADOWDARK.item.effect.predefined_effect.initAdvantage: Fördel på initiativ
-SHADOWDARK.item.effect.predefined_effect.lightSource: Light Source
+SHADOWDARK.item.effect.predefined_effect.lightSource: Ljuskälla
 SHADOWDARK.item.effect.predefined_effect.meleeAttackBonus: Bonus för Närstridsattack
 SHADOWDARK.item.effect.predefined_effect.meleeDamageBonus: Bonus för Närstridsskada
 SHADOWDARK.item.effect.predefined_effect.permanentAbilityCha: Permanent förmåga (Kar)
@@ -274,9 +274,9 @@ SHADOWDARK.item.magic_item.type.critMultiplier: Multiplikator vid kritiskt träf
 SHADOWDARK.item.magic_item.type.custom: Anpassad effekt
 SHADOWDARK.item.magic_item.type.damageBonus: Skadebonus
 SHADOWDARK.item.magic_item.type.permanentAbility: Permanent Förmågeförändring
-SHADOWDARK.item.name_from_spell.Potion: Potion of {spellName}
-SHADOWDARK.item.name_from_spell.Scroll: Scroll of {spellName}
-SHADOWDARK.item.name_from_spell.Wand: Wand of {spellName}
+SHADOWDARK.item.name_from_spell.Potion: Brygd av {spellName}
+SHADOWDARK.item.name_from_spell.Scroll: Scroll av {spellName}
+SHADOWDARK.item.name_from_spell.Wand: Trollstav från {spellName}
 SHADOWDARK.item.npc_attack_bonus: Attackbonus
 SHADOWDARK.item.npc_attack_count: Antal Attacker
 SHADOWDARK.item.npc_attack_damage_bonus: Skadebonus
@@ -284,19 +284,19 @@ SHADOWDARK.item.npc_attack_damage: Skadetärning
 SHADOWDARK.item.npc_attack_special: Special
 SHADOWDARK.item.npc_attack_type: Typ
 SHADOWDARK.item.npc_attack.num_damage_dice: Antal skadetärningar
-SHADOWDARK.item.potion.label: Potion
+SHADOWDARK.item.potion.label: Brygd
 SHADOWDARK.item.properties: Egenskaper
 SHADOWDARK.item.scroll.label: Scroll
 SHADOWDARK.item.spell_caster_classes: Besvärjelseklasser
 SHADOWDARK.item.spell_class: Besvärjelseklass
 SHADOWDARK.item.spell_duration: Varaktighet
-SHADOWDARK.item.spell_name: Spell Name
+SHADOWDARK.item.spell_name: Besvärjelsenamn
 SHADOWDARK.item.spell_range: Räckvidd
 SHADOWDARK.item.spell_tier: Grad
-SHADOWDARK.item.spell.label: Spell
+SHADOWDARK.item.spell.label: Besvärjelse
 SHADOWDARK.item.talent_class: Talangklass
 SHADOWDARK.item.treasure: Skatt
-SHADOWDARK.item.wand.label: Wand
+SHADOWDARK.item.wand.label: Trollspö
 SHADOWDARK.item.weapon_damage.oneHanded_short: 1H
 SHADOWDARK.item.weapon_damage.oneHanded: 1H Skada
 SHADOWDARK.item.weapon_damage.twoHanded_short: 2H
@@ -343,7 +343,7 @@ SHADOWDARK.light-tracker.paused: Pausad
 SHADOWDARK.light-tracker.status.label: Status
 SHADOWDARK.light-tracker.title.prefix: Ljus
 SHADOWDARK.light-tracker.title.suffix: Spårare
-SHADOWDARK.light-tracker.user_warning: One or more users have not selected a character
+SHADOWDARK.light-tracker.user_warning: En eller flera användare har inte valt en karaktär
 SHADOWDARK.migration.begin_migration: Utför uppgraderingar för Shadowdark RPG
 SHADOWDARK.migration.begin_schema: Applicerar uppdateringar för Shadowdark RPG v{version} schemat
 SHADOWDARK.migration.completed_migration: Uppgraderingar till Shadowdark RPG utförda
@@ -365,7 +365,7 @@ SHADOWDARK.range.nearLine_short: NL
 SHADOWDARK.range.nearLine: Nära Linje
 SHADOWDARK.range.samePlane_short: SM
 SHADOWDARK.range.samePlane: På samma plan
-SHADOWDARK.range.self_short: S
+SHADOWDARK.range.self_short: K
 SHADOWDARK.range.self: Själv
 SHADOWDARK.range.touch_short: B
 SHADOWDARK.range.touch: Beröring
