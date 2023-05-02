@@ -112,9 +112,9 @@ SHADOWDARK.dialog.ability_check.str: Styrke Check
 SHADOWDARK.dialog.ability_check.title: Förmåge Check
 SHADOWDARK.dialog.ability_check.wis: Vishet Check
 SHADOWDARK.dialog.effect.choice.armor: Välj rustningstyp
+SHADOWDARK.dialog.effect.choice.lightSource: Välj ljuskälla
 SHADOWDARK.dialog.effect.choice.spell: Välj besvärjelse
 SHADOWDARK.dialog.effect.choice.weapon: Välj vapentyp
-SHADOWDARK.dialog.effect.choice.lightSource: Välj ljuskälla
 SHADOWDARK.dialog.general.are_you_sure: Är du säker?
 SHADOWDARK.dialog.general.cancel: Avbryt
 SHADOWDARK.dialog.general.no: "Nej"
@@ -211,13 +211,13 @@ SHADOWDARK.item.description: Beskrivning
 SHADOWDARK.item.effect.category.condition: Tillstånd
 SHADOWDARK.item.effect.category.effect: Effekt
 SHADOWDARK.item.effect.category.title: Effektkategori
-SHADOWDARK.item.effect.pre-defined.title: Fördefinerad effekter
 SHADOWDARK.item.effect.lightSource.lantern: Lykta
 SHADOWDARK.item.effect.lightSource.lightSpellDouble: Ljust (dubbel räckvidd)
 SHADOWDARK.item.effect.lightSource.lightSpellNear: Ljus
-SHADOWDARK.item.effect.lightSource.torch: Fackla
-SHADOWDARK.item.effect.lightSource.purpleGlow: Lila glöd
 SHADOWDARK.item.effect.lightSource.lightSuppression: Ljusdämpning
+SHADOWDARK.item.effect.lightSource.purpleGlow: Lila glöd
+SHADOWDARK.item.effect.lightSource.torch: Fackla
+SHADOWDARK.item.effect.pre-defined.title: Fördefinerad effekter
 SHADOWDARK.item.effect.predefined_effect.abilityImprovement: Förbättring av förmåga
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementCha: Förbättring av förmåga (Kar)
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementCon: Förbättring av förmåga (Fys)
@@ -232,6 +232,7 @@ SHADOWDARK.item.effect.predefined_effect.backstabDie: Ytterliggare rygghuggstär
 SHADOWDARK.item.effect.predefined_effect.criticalFailureThreshold: Högre tröskel för kritiskt misslyckande
 SHADOWDARK.item.effect.predefined_effect.criticalSuccessThreshold: Lägre tröskel för kritisk träff
 SHADOWDARK.item.effect.predefined_effect.critMultiplier: Multiplikator vid kritiskt träff
+SHADOWDARK.item.effect.predefined_effect.damageMultiplier: Damage Multiplier
 SHADOWDARK.item.effect.predefined_effect.hpAdvantage: Fördel KP Rullning
 SHADOWDARK.item.effect.predefined_effect.initAdvantage: Fördel på initiativ
 SHADOWDARK.item.effect.predefined_effect.lightSource: Ljuskälla
@@ -247,8 +248,9 @@ SHADOWDARK.item.effect.predefined_effect.rangedAttackBonus: Bonus för Avstånds
 SHADOWDARK.item.effect.predefined_effect.rangedDamageBonus: Bonus för Avståndsskada
 SHADOWDARK.item.effect.predefined_effect.spellAdvantage: Fördel vid Besvärjelsekast
 SHADOWDARK.item.effect.predefined_effect.spellCastingBonus: Bonus för Besvärjelsekast
-SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: Bonus för Närstridsattack
-SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: Bonus för Närstridsskada
+SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: Weapon Attack Roll Bonus
+SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: Weapon Attack Damage Bonus
+SHADOWDARK.item.effect.predefined_effect.weaponDamageMultiplier: Weapon Damage Multiplier
 SHADOWDARK.item.effect.predefined_effect.weaponMastery: Vapenmästeri
 SHADOWDARK.item.effect.show-on-panel: Visa på sidopanelen
 SHADOWDARK.item.effect.show-token-icon: Visa token-ikon
