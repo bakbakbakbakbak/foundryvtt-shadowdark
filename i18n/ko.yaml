@@ -112,9 +112,9 @@ SHADOWDARK.dialog.ability_check.str: 근력 판정
 SHADOWDARK.dialog.ability_check.title: 능력 판정
 SHADOWDARK.dialog.ability_check.wis: 지혜 판정
 SHADOWDARK.dialog.effect.choice.armor: 방어구 유형 선택
+SHADOWDARK.dialog.effect.choice.lightSource: Choose Light Source
 SHADOWDARK.dialog.effect.choice.spell: 주문 선택
 SHADOWDARK.dialog.effect.choice.weapon: 무기 유형 선택
-SHADOWDARK.dialog.effect.choice.lightSource: Choose Light Source
 SHADOWDARK.dialog.general.are_you_sure: 정말 진행하실 건가요?
 SHADOWDARK.dialog.general.cancel: 취소
 SHADOWDARK.dialog.general.no: "아니오"
@@ -211,13 +211,13 @@ SHADOWDARK.item.description: 설명
 SHADOWDARK.item.effect.category.condition: 상태
 SHADOWDARK.item.effect.category.effect: 효과
 SHADOWDARK.item.effect.category.title: 효과 종류
-SHADOWDARK.item.effect.pre-defined.title: 사전 지정된 효과
 SHADOWDARK.item.effect.lightSource.lantern: Lantern
 SHADOWDARK.item.effect.lightSource.lightSpellDouble: Light (Double Range)
 SHADOWDARK.item.effect.lightSource.lightSpellNear: Light
-SHADOWDARK.item.effect.lightSource.torch: Torch
-SHADOWDARK.item.effect.lightSource.purpleGlow: Purple Glow
 SHADOWDARK.item.effect.lightSource.lightSuppression: Light Suppression
+SHADOWDARK.item.effect.lightSource.purpleGlow: Purple Glow
+SHADOWDARK.item.effect.lightSource.torch: Torch
+SHADOWDARK.item.effect.pre-defined.title: 사전 지정된 효과
 SHADOWDARK.item.effect.predefined_effect.abilityImprovement: 능력 점수 향상
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementCha: 능력 점수 향상 (매력)
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementCon: 능력 점수 향상 (건강)
@@ -232,6 +232,7 @@ SHADOWDARK.item.effect.predefined_effect.backstabDie: 추가 배후공격 주사
 SHADOWDARK.item.effect.predefined_effect.criticalFailureThreshold: 극단적인 실패 기준치
 SHADOWDARK.item.effect.predefined_effect.criticalSuccessThreshold: 극단적인 성공 기준치
 SHADOWDARK.item.effect.predefined_effect.critMultiplier: 극단적인 굴림에 곱하는 값
+SHADOWDARK.item.effect.predefined_effect.damageMultiplier: Damage Multiplier
 SHADOWDARK.item.effect.predefined_effect.hpAdvantage: HP 굴림 유리함
 SHADOWDARK.item.effect.predefined_effect.initAdvantage: 우선권 유리함
 SHADOWDARK.item.effect.predefined_effect.lightSource: Light Source
@@ -247,8 +248,9 @@ SHADOWDARK.item.effect.predefined_effect.rangedAttackBonus: 원거리 명중 굴
 SHADOWDARK.item.effect.predefined_effect.rangedDamageBonus: 원거리 피해 보너스
 SHADOWDARK.item.effect.predefined_effect.spellAdvantage: 주문시전에 유리함
 SHADOWDARK.item.effect.predefined_effect.spellCastingBonus: 주문시전 판정 보너스
-SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: 명중 굴림 보너스
-SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: 명중 피해 보너스
+SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: Weapon Attack Roll Bonus
+SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: Weapon Attack Damage Bonus
+SHADOWDARK.item.effect.predefined_effect.weaponDamageMultiplier: Weapon Damage Multiplier
 SHADOWDARK.item.effect.predefined_effect.weaponMastery: 무기 숙련
 SHADOWDARK.item.effect.show-on-panel: 패널에서 보기
 SHADOWDARK.item.effect.show-token-icon: 토큰 아이콘 보기
