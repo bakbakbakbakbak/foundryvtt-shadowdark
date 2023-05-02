@@ -232,7 +232,7 @@ SHADOWDARK.item.effect.predefined_effect.backstabDie: Dado de apuñalamiento adi
 SHADOWDARK.item.effect.predefined_effect.criticalFailureThreshold: Umbral de fallo crítico
 SHADOWDARK.item.effect.predefined_effect.criticalSuccessThreshold: Umbral de éxito crítico
 SHADOWDARK.item.effect.predefined_effect.critMultiplier: Multiplicador crítico
-SHADOWDARK.item.effect.predefined_effect.damageMultiplier: Damage Multiplier
+SHADOWDARK.item.effect.predefined_effect.damageMultiplier: Multiplicador de Daño
 SHADOWDARK.item.effect.predefined_effect.hpAdvantage: Ventaja de tirada de PV
 SHADOWDARK.item.effect.predefined_effect.initAdvantage: Ventaja de iniciativa
 SHADOWDARK.item.effect.predefined_effect.lightSource: Fuente de luz
@@ -248,9 +248,9 @@ SHADOWDARK.item.effect.predefined_effect.rangedAttackBonus: Bonus de ataque a di
 SHADOWDARK.item.effect.predefined_effect.rangedDamageBonus: Bonus de daño a distancia
 SHADOWDARK.item.effect.predefined_effect.spellAdvantage: Ventaja de lanzamiento de hechizo
 SHADOWDARK.item.effect.predefined_effect.spellCastingBonus: Bonus de lanzamiento de hechizo
-SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: Weapon Attack Roll Bonus
-SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: Weapon Attack Damage Bonus
-SHADOWDARK.item.effect.predefined_effect.weaponDamageMultiplier: Weapon Damage Multiplier
+SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: Bonus de Ataque de Arma
+SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: Bonus de daño de arma
+SHADOWDARK.item.effect.predefined_effect.weaponDamageMultiplier: Multiplicador de daño de arma
 SHADOWDARK.item.effect.predefined_effect.weaponMastery: Maestría de armas
 SHADOWDARK.item.effect.show-on-panel: Mostrar en el panel
 SHADOWDARK.item.effect.show-token-icon: Mostrar icono del token
