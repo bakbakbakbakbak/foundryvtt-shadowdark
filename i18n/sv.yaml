@@ -232,7 +232,7 @@ SHADOWDARK.item.effect.predefined_effect.backstabDie: Ytterliggare rygghuggstär
 SHADOWDARK.item.effect.predefined_effect.criticalFailureThreshold: Högre tröskel för kritiskt misslyckande
 SHADOWDARK.item.effect.predefined_effect.criticalSuccessThreshold: Lägre tröskel för kritisk träff
 SHADOWDARK.item.effect.predefined_effect.critMultiplier: Multiplikator vid kritiskt träff
-SHADOWDARK.item.effect.predefined_effect.damageMultiplier: Damage Multiplier
+SHADOWDARK.item.effect.predefined_effect.damageMultiplier: Skadedubblare
 SHADOWDARK.item.effect.predefined_effect.hpAdvantage: Fördel KP Rullning
 SHADOWDARK.item.effect.predefined_effect.initAdvantage: Fördel på initiativ
 SHADOWDARK.item.effect.predefined_effect.lightSource: Ljuskälla
@@ -248,9 +248,9 @@ SHADOWDARK.item.effect.predefined_effect.rangedAttackBonus: Bonus för Avstånds
 SHADOWDARK.item.effect.predefined_effect.rangedDamageBonus: Bonus för Avståndsskada
 SHADOWDARK.item.effect.predefined_effect.spellAdvantage: Fördel vid Besvärjelsekast
 SHADOWDARK.item.effect.predefined_effect.spellCastingBonus: Bonus för Besvärjelsekast
-SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: Weapon Attack Roll Bonus
-SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: Weapon Attack Damage Bonus
-SHADOWDARK.item.effect.predefined_effect.weaponDamageMultiplier: Weapon Damage Multiplier
+SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: Bonus för Vapenattack
+SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: Bonus för vapenskada
+SHADOWDARK.item.effect.predefined_effect.weaponDamageMultiplier: Vapenskadedubblare
 SHADOWDARK.item.effect.predefined_effect.weaponMastery: Vapenmästeri
 SHADOWDARK.item.effect.show-on-panel: Visa på sidopanelen
 SHADOWDARK.item.effect.show-token-icon: Visa token-ikon
