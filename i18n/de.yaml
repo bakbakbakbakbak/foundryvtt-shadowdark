@@ -81,6 +81,8 @@ SHADOWDARK.chat.light_source.expired: "{name}s {lightSource} ist abgelaufen"
 SHADOWDARK.chat.light_source.remaining: Minuten verbleibend
 SHADOWDARK.chat.light_source.seconds_remaining: Less than 1 Minute Remaining
 SHADOWDARK.chat.light_source.source.all: Alle Lichtquellen sind ausgegangen
+SHADOWDARK.chat.light_source.source.dropped: was dropped
+SHADOWDARK.chat.light_source.source.picked_up: was picked up
 SHADOWDARK.chat.light_source.source.toggle.off: wurde gelöscht
 SHADOWDARK.chat.light_source.source.toggle.on: wurde entzündet
 SHADOWDARK.chat.light_source.went_out: "{name}s {lightSource} ging aus"
@@ -340,6 +342,8 @@ SHADOWDARK.light_source.lantern: Laterne
 SHADOWDARK.light_source.light_spell.double_near: Lichtzauber (doppelt Nah)
 SHADOWDARK.light_source.light_spell.near: Lichtzauber (Nah)
 SHADOWDARK.light_source.torch: Fackel
+SHADOWDARK.light-source.dropped: Dropped {name}
+SHADOWDARK.light-source.pick-up-lightsource.tooltip: Pick up Lightsource
 SHADOWDARK.light-tracker.active: Aktiv
 SHADOWDARK.light-tracker.paused: Pausiert
 SHADOWDARK.light-tracker.status.label: Status
