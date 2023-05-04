@@ -81,6 +81,8 @@ SHADOWDARK.chat.light_source.expired: "Hahmon {name} {lightSource} valonlähde p
 SHADOWDARK.chat.light_source.remaining: minuuttia jäljellä
 SHADOWDARK.chat.light_source.seconds_remaining: Less than 1 Minute Remaining
 SHADOWDARK.chat.light_source.source.all: Kaikki valonlähteet sammuivat
+SHADOWDARK.chat.light_source.source.dropped: was dropped
+SHADOWDARK.chat.light_source.source.picked_up: was picked up
 SHADOWDARK.chat.light_source.source.toggle.off: valonlähde sammui
 SHADOWDARK.chat.light_source.source.toggle.on: valonlähde syttyi
 SHADOWDARK.chat.light_source.went_out: "Hahmon {name} {lightSource} valonlähde sammui"
@@ -340,6 +342,8 @@ SHADOWDARK.light_source.lantern: Lyhty
 SHADOWDARK.light_source.light_spell.double_near: Valotaika (Tuplakantama)
 SHADOWDARK.light_source.light_spell.near: Valotaika (Lähellä)
 SHADOWDARK.light_source.torch: Soihtu
+SHADOWDARK.light-source.dropped: Dropped {name}
+SHADOWDARK.light-source.pick-up-lightsource.tooltip: Pick up Lightsource
 SHADOWDARK.light-tracker.active: Aktiivinen
 SHADOWDARK.light-tracker.paused: Pausetettu
 SHADOWDARK.light-tracker.status.label: Statut
