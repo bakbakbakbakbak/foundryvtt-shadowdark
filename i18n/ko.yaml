@@ -134,11 +134,11 @@ SHADOWDARK.dialog.item_roll.talent_bonus: 재능 보너스
 SHADOWDARK.dialog.item_roll.title: 명중 굴림
 SHADOWDARK.dialog.item.confirm_delete: 삭제 요청 확인
 SHADOWDARK.dialog.item.confirm_sale: 판매 요청 확인
-SHADOWDARK.dialog.item.create_from_spell: Create Item from {spellName}
+SHADOWDARK.dialog.item.create_from_spell: '{spellName} 로 아이템을 만듭니다'
 SHADOWDARK.dialog.item.delete: 삭제
 SHADOWDARK.dialog.item.sell_all: 모두 팔기
 SHADOWDARK.dialog.item.sell: 팔기
-SHADOWDARK.dialog.item.use: Use
+SHADOWDARK.dialog.item.use: 사용
 SHADOWDARK.dialog.roll_mode_label: 굴림 모드
 SHADOWDARK.dialog.roll: 굴림
 SHADOWDARK.dialog.spell_roll.title: 주문시전 굴림
@@ -177,10 +177,10 @@ SHADOWDARK.inventory.label.quantity: 수량
 SHADOWDARK.inventory.label.slots: 슬롯
 SHADOWDARK.inventory.section.armor: 방어구
 SHADOWDARK.inventory.section.basic: 기본 장비
-SHADOWDARK.inventory.section.potions: Potions
+SHADOWDARK.inventory.section.potions: 물약
 SHADOWDARK.inventory.section.scrolls: 두루마리
 SHADOWDARK.inventory.section.treasure: 보물
-SHADOWDARK.inventory.section.wands: Wands
+SHADOWDARK.inventory.section.wands: 마법봉
 SHADOWDARK.inventory.section.weapon: 무기
 SHADOWDARK.inventory.slots_max: 최대
 SHADOWDARK.inventory.slots_used: 사용중
@@ -213,12 +213,12 @@ SHADOWDARK.item.description: 설명
 SHADOWDARK.item.effect.category.condition: 상태
 SHADOWDARK.item.effect.category.effect: 효과
 SHADOWDARK.item.effect.category.title: 효과 종류
-SHADOWDARK.item.effect.lightSource.lantern: Lantern
-SHADOWDARK.item.effect.lightSource.lightSpellDouble: Light (Double Range)
-SHADOWDARK.item.effect.lightSource.lightSpellNear: Light
-SHADOWDARK.item.effect.lightSource.lightSuppression: Light Suppression
-SHADOWDARK.item.effect.lightSource.purpleGlow: Purple Glow
-SHADOWDARK.item.effect.lightSource.torch: Torch
+SHADOWDARK.item.effect.lightSource.lantern: 등불
+SHADOWDARK.item.effect.lightSource.lightSpellDouble: 빛 (범위 2배)
+SHADOWDARK.item.effect.lightSource.lightSpellNear: 빛
+SHADOWDARK.item.effect.lightSource.lightSuppression: 빛 제거
+SHADOWDARK.item.effect.lightSource.purpleGlow: 보라색 형광
+SHADOWDARK.item.effect.lightSource.torch: 횃불
 SHADOWDARK.item.effect.pre-defined.title: 사전 지정된 효과
 SHADOWDARK.item.effect.predefined_effect.abilityImprovement: 능력 점수 향상
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementCha: 능력 점수 향상 (매력)
@@ -233,11 +233,11 @@ SHADOWDARK.item.effect.predefined_effect.armorMastery: 방어구 숙련
 SHADOWDARK.item.effect.predefined_effect.backstabDie: 추가 배후공격 주사위
 SHADOWDARK.item.effect.predefined_effect.criticalFailureThreshold: 극단적인 실패 기준치
 SHADOWDARK.item.effect.predefined_effect.criticalSuccessThreshold: 극단적인 성공 기준치
-SHADOWDARK.item.effect.predefined_effect.critMultiplier: 극단적인 굴림에 곱하는 값
-SHADOWDARK.item.effect.predefined_effect.damageMultiplier: Damage Multiplier
+SHADOWDARK.item.effect.predefined_effect.critMultiplier: 극단적인 굴림 배수
+SHADOWDARK.item.effect.predefined_effect.damageMultiplier: 피해 배수
 SHADOWDARK.item.effect.predefined_effect.hpAdvantage: HP 굴림 유리함
 SHADOWDARK.item.effect.predefined_effect.initAdvantage: 우선권 유리함
-SHADOWDARK.item.effect.predefined_effect.lightSource: Light Source
+SHADOWDARK.item.effect.predefined_effect.lightSource: 광원
 SHADOWDARK.item.effect.predefined_effect.meleeAttackBonus: 근접 명중 굴림 보너스
 SHADOWDARK.item.effect.predefined_effect.meleeDamageBonus: 근접 피해 보너스
 SHADOWDARK.item.effect.predefined_effect.permanentAbilityCha: 영구 능력 (매력)
@@ -250,9 +250,9 @@ SHADOWDARK.item.effect.predefined_effect.rangedAttackBonus: 원거리 명중 굴
 SHADOWDARK.item.effect.predefined_effect.rangedDamageBonus: 원거리 피해 보너스
 SHADOWDARK.item.effect.predefined_effect.spellAdvantage: 주문시전에 유리함
 SHADOWDARK.item.effect.predefined_effect.spellCastingBonus: 주문시전 판정 보너스
-SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: Weapon Attack Roll Bonus
-SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: Weapon Attack Damage Bonus
-SHADOWDARK.item.effect.predefined_effect.weaponDamageMultiplier: Weapon Damage Multiplier
+SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: 무기 명중 굴림 보너스
+SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: 무기 명중 피해 보너스
+SHADOWDARK.item.effect.predefined_effect.weaponDamageMultiplier: 무기 피해 배수
 SHADOWDARK.item.effect.predefined_effect.weaponMastery: 무기 숙련
 SHADOWDARK.item.effect.show-on-panel: 패널에서 보기
 SHADOWDARK.item.effect.show-token-icon: 토큰 아이콘 보기
@@ -274,13 +274,13 @@ SHADOWDARK.item.magic_item.title: 마법 물건 효과
 SHADOWDARK.item.magic_item.type.attackBonus: 명중 보너스
 SHADOWDARK.item.magic_item.type.criticalFailureThreshold: 더 높은 극단적인 실패 기준치
 SHADOWDARK.item.magic_item.type.criticalSuccessThreshold: 더 낮은 극단적인 성공 기준치
-SHADOWDARK.item.magic_item.type.critMultiplier: 극단적인 굴림에 곱하는 값
+SHADOWDARK.item.magic_item.type.critMultiplier: 극단적인 굴림 배수
 SHADOWDARK.item.magic_item.type.custom: 사용자지정 효과
 SHADOWDARK.item.magic_item.type.damageBonus: 피해 보너스
 SHADOWDARK.item.magic_item.type.permanentAbility: 영구적인 능력 변화
-SHADOWDARK.item.name_from_spell.Potion: Potion of {spellName}
+SHADOWDARK.item.name_from_spell.Potion: '{spellName} 물약'
 SHADOWDARK.item.name_from_spell.Scroll: '{spellName} 두루마리'
-SHADOWDARK.item.name_from_spell.Wand: Wand of {spellName}
+SHADOWDARK.item.name_from_spell.Wand: '{spellName} 마법봉'
 SHADOWDARK.item.npc_attack_bonus: 명중 보너스
 SHADOWDARK.item.npc_attack_count: 공격 숫자
 SHADOWDARK.item.npc_attack_damage_bonus: 피해 보너스
@@ -288,19 +288,19 @@ SHADOWDARK.item.npc_attack_damage: 피해 주사위
 SHADOWDARK.item.npc_attack_special: 특수
 SHADOWDARK.item.npc_attack_type: 유형
 SHADOWDARK.item.npc_attack.num_damage_dice: 피해 주사위
-SHADOWDARK.item.potion.label: Potion
+SHADOWDARK.item.potion.label: 물약
 SHADOWDARK.item.properties: 속성
 SHADOWDARK.item.scroll.label: 두루마리
 SHADOWDARK.item.spell_caster_classes: 주문시전 클래스
 SHADOWDARK.item.spell_class: 주문 클래스
 SHADOWDARK.item.spell_duration: 지속시간
-SHADOWDARK.item.spell_name: Spell Name
+SHADOWDARK.item.spell_name: 주문 이름
 SHADOWDARK.item.spell_range: 범위
 SHADOWDARK.item.spell_tier: 등급
-SHADOWDARK.item.spell.label: Spell
+SHADOWDARK.item.spell.label: 주문
 SHADOWDARK.item.talent_class: 재능 클래스
 SHADOWDARK.item.treasure: 보물
-SHADOWDARK.item.wand.label: Wand
+SHADOWDARK.item.wand.label: 마법봉
 SHADOWDARK.item.weapon_damage.oneHanded_short: 한손
 SHADOWDARK.item.weapon_damage.oneHanded: 한손 피해
 SHADOWDARK.item.weapon_damage.twoHanded_short: 두손
@@ -342,14 +342,14 @@ SHADOWDARK.light_source.lantern: 등불
 SHADOWDARK.light_source.light_spell.double_near: 빛 주문 (단거리 2배)
 SHADOWDARK.light_source.light_spell.near: 빛 주문 (단거리)
 SHADOWDARK.light_source.torch: 횃불
-SHADOWDARK.light-source.dropped: Dropped {name}
-SHADOWDARK.light-source.pick-up-lightsource.tooltip: Pick up Lightsource
+SHADOWDARK.light-source.dropped: '{name} 를 떨어트렸습니다'
+SHADOWDARK.light-source.pick-up-lightsource.tooltip: 광원 줍기
 SHADOWDARK.light-tracker.active: 활성화
 SHADOWDARK.light-tracker.paused: 멈춤
 SHADOWDARK.light-tracker.status.label: 상태
 SHADOWDARK.light-tracker.title.prefix: 빛
 SHADOWDARK.light-tracker.title.suffix: 트래커
-SHADOWDARK.light-tracker.user_warning: One or more users have not selected a character
+SHADOWDARK.light-tracker.user_warning: 한 명 이상의 유저가 캐릭터를 선택하지 않았습니다
 SHADOWDARK.migration.begin_migration: 섀도우다크 RPG 데이터를 업그레이드하고 있습니다.
 SHADOWDARK.migration.begin_schema: 섀도우다크 RPG v{version} 를 업데이트하고 있습니다.
 SHADOWDARK.migration.completed_migration: 섀도우다크 RPG 데이터 업그레이드가 완료되었습니다.
@@ -461,9 +461,9 @@ SHADOWDARK.sheet.player.title: 칭호
 SHADOWDARK.sheet.player.toggle_spell_lost: 주문 불능 표시
 SHADOWDARK.sheet.player.tooltip.cast_spell: 주문 시전
 SHADOWDARK.sheet.player.tooltip.learn_spell: 주문 배우기
-SHADOWDARK.sheet.player.tooltip.use_potion: Use Potion
+SHADOWDARK.sheet.player.tooltip.use_potion: 포션 사용
 SHADOWDARK.sheet.player.tooltip.use_scroll: 두루마리 사용
-SHADOWDARK.sheet.player.tooltip.use_wand: Use Wand
+SHADOWDARK.sheet.player.tooltip.use_wand: 마법봉 사용
 SHADOWDARK.sheet.player.xp: XP
 SHADOWDARK.spell_caster.priest: 성직자
 SHADOWDARK.spell_caster.wizard: 마법사
