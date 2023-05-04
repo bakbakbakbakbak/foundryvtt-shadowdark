@@ -68,28 +68,28 @@ SHADOWDARK.armor.properties.one_handed: 한 손 사용
 SHADOWDARK.armor.properties.shield: 방패
 SHADOWDARK.chat_card.button.attack: 명중 굴림
 SHADOWDARK.chat_card.button.cast_spell: 주문 시전
-SHADOWDARK.chat_card.button.learn_spell: Learn Spell
-SHADOWDARK.chat_card.button.use_potion: Use Potion
-SHADOWDARK.chat_card.button.use_scroll: Use Scroll
-SHADOWDARK.chat_card.button.use_wand: Use Wand
+SHADOWDARK.chat_card.button.learn_spell: 주문 배우기
+SHADOWDARK.chat_card.button.use_potion: 물약 사용
+SHADOWDARK.chat_card.button.use_scroll: 두루마리 사용
+SHADOWDARK.chat_card.button.use_wand: 마법봉 사용
 SHADOWDARK.chat.hp_roll.apply_to_max: 최대 HP에 추가
 SHADOWDARK.chat.item_roll.double_numerical: 숫자로 된 값 하나에 2를 곱하세요!
 SHADOWDARK.chat.item_roll.mishap: 적절한 사고 표를 보고 주사위를 굴리세요!
 SHADOWDARK.chat.item_roll.title: '{name} 에게 명중 굴림'
-SHADOWDARK.chat.item_roll.wand_mishap: The wand breaks and permanently ceases to work
+SHADOWDARK.chat.item_roll.wand_mishap: 마법봉이 부서졌으며 영구적으로 효과를 잃었습니다
 SHADOWDARK.chat.light_source.expired: "{name} 의 {lightSource} 가 다 됐습니다"
 SHADOWDARK.chat.light_source.remaining: 분 남았습니다
 SHADOWDARK.chat.light_source.seconds_remaining: 1분 미만 남았습니다
 SHADOWDARK.chat.light_source.source.all: 모든 광원이 사라졌습니다
-SHADOWDARK.chat.light_source.source.dropped: was dropped
-SHADOWDARK.chat.light_source.source.picked_up: was picked up
+SHADOWDARK.chat.light_source.source.dropped: 떨어트렸습니다
+SHADOWDARK.chat.light_source.source.picked_up: 주웠습니다
 SHADOWDARK.chat.light_source.source.toggle.off: 꺼졌습니다.
 SHADOWDARK.chat.light_source.source.toggle.on: 켜졌습니다
 SHADOWDARK.chat.light_source.went_out: "{name} 의 {lightSource} 가 꺼졌습니다"
-SHADOWDARK.chat.potion_used: "{name} used a Potion"
-SHADOWDARK.chat.spell_learn.failure: "{name} failed to learn anything from the scroll"
-SHADOWDARK.chat.spell_learn.success: "{name} successfully learnt the {spellName} spell"
-SHADOWDARK.chat.spell_learn.title: Learning Spell
+SHADOWDARK.chat.potion_used: "{name} 포션을 사용했습니다"
+SHADOWDARK.chat.spell_learn.failure: "{name} 두루마리로 주문 배우기를 실패했습니다"
+SHADOWDARK.chat.spell_learn.success: "{name} 성공적으로 {spellName} 주문을 배웠습니다"
+SHADOWDARK.chat.spell_learn.title: 주문 배우기
 SHADOWDARK.chat.spell_roll.title: "{tier} 등급 {name} 을 주문 DC {spellDC} 로 시전합니다."
 SHADOWDARK.chat.welcome_message.intro: "본 시스템에서 제공하는 길잡이 투어를 따라 버튼을 누르다 보면, 빠르게 적응할 수 있습니다:"
 SHADOWDARK.chat.welcome_message.issue_tracker_button: 문제 트래커
@@ -114,7 +114,7 @@ SHADOWDARK.dialog.ability_check.str: 근력 판정
 SHADOWDARK.dialog.ability_check.title: 능력 판정
 SHADOWDARK.dialog.ability_check.wis: 지혜 판정
 SHADOWDARK.dialog.effect.choice.armor: 방어구 유형 선택
-SHADOWDARK.dialog.effect.choice.lightSource: Choose Light Source
+SHADOWDARK.dialog.effect.choice.lightSource: 광원 선택
 SHADOWDARK.dialog.effect.choice.spell: 주문 선택
 SHADOWDARK.dialog.effect.choice.weapon: 무기 유형 선택
 SHADOWDARK.dialog.general.are_you_sure: 정말 진행하실 건가요?
@@ -178,7 +178,7 @@ SHADOWDARK.inventory.label.slots: 슬롯
 SHADOWDARK.inventory.section.armor: 방어구
 SHADOWDARK.inventory.section.basic: 기본 장비
 SHADOWDARK.inventory.section.potions: Potions
-SHADOWDARK.inventory.section.scrolls: Scrolls
+SHADOWDARK.inventory.section.scrolls: 두루마리
 SHADOWDARK.inventory.section.treasure: 보물
 SHADOWDARK.inventory.section.wands: Wands
 SHADOWDARK.inventory.section.weapon: 무기
@@ -279,7 +279,7 @@ SHADOWDARK.item.magic_item.type.custom: 사용자지정 효과
 SHADOWDARK.item.magic_item.type.damageBonus: 피해 보너스
 SHADOWDARK.item.magic_item.type.permanentAbility: 영구적인 능력 변화
 SHADOWDARK.item.name_from_spell.Potion: Potion of {spellName}
-SHADOWDARK.item.name_from_spell.Scroll: Scroll of {spellName}
+SHADOWDARK.item.name_from_spell.Scroll: '{spellName} 두루마리'
 SHADOWDARK.item.name_from_spell.Wand: Wand of {spellName}
 SHADOWDARK.item.npc_attack_bonus: 명중 보너스
 SHADOWDARK.item.npc_attack_count: 공격 숫자
@@ -290,7 +290,7 @@ SHADOWDARK.item.npc_attack_type: 유형
 SHADOWDARK.item.npc_attack.num_damage_dice: 피해 주사위
 SHADOWDARK.item.potion.label: Potion
 SHADOWDARK.item.properties: 속성
-SHADOWDARK.item.scroll.label: Scroll
+SHADOWDARK.item.scroll.label: 두루마리
 SHADOWDARK.item.spell_caster_classes: 주문시전 클래스
 SHADOWDARK.item.spell_class: 주문 클래스
 SHADOWDARK.item.spell_duration: 지속시간
@@ -460,9 +460,9 @@ SHADOWDARK.sheet.player.talents: 재능
 SHADOWDARK.sheet.player.title: 칭호
 SHADOWDARK.sheet.player.toggle_spell_lost: 주문 불능 표시
 SHADOWDARK.sheet.player.tooltip.cast_spell: 주문 시전
-SHADOWDARK.sheet.player.tooltip.learn_spell: Learn Spell
+SHADOWDARK.sheet.player.tooltip.learn_spell: 주문 배우기
 SHADOWDARK.sheet.player.tooltip.use_potion: Use Potion
-SHADOWDARK.sheet.player.tooltip.use_scroll: Use Scroll
+SHADOWDARK.sheet.player.tooltip.use_scroll: 두루마리 사용
 SHADOWDARK.sheet.player.tooltip.use_wand: Use Wand
 SHADOWDARK.sheet.player.xp: XP
 SHADOWDARK.spell_caster.priest: 성직자
