@@ -81,6 +81,8 @@ SHADOWDARK.chat.light_source.expired: "{name}s {lightSource} slocknade"
 SHADOWDARK.chat.light_source.remaining: minuter kvar
 SHADOWDARK.chat.light_source.seconds_remaining: Mindre än en minut återstår
 SHADOWDARK.chat.light_source.source.all: Alla ljuskällor slocknade
+SHADOWDARK.chat.light_source.source.dropped: was dropped
+SHADOWDARK.chat.light_source.source.picked_up: was picked up
 SHADOWDARK.chat.light_source.source.toggle.off: släcktes
 SHADOWDARK.chat.light_source.source.toggle.on: tändes
 SHADOWDARK.chat.light_source.went_out: "{name}s {lightSource} slocknade"
@@ -340,6 +342,8 @@ SHADOWDARK.light_source.lantern: Lykta
 SHADOWDARK.light_source.light_spell.double_near: Ljusmagi (Dubbelnära)
 SHADOWDARK.light_source.light_spell.near: Ljusmagi (Nära)
 SHADOWDARK.light_source.torch: Fackla
+SHADOWDARK.light-source.dropped: Dropped {name}
+SHADOWDARK.light-source.pick-up-lightsource.tooltip: Pick up Lightsource
 SHADOWDARK.light-tracker.active: Aktiv
 SHADOWDARK.light-tracker.paused: Pausad
 SHADOWDARK.light-tracker.status.label: Status
