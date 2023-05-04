@@ -25,7 +25,7 @@ SHADOWDARK.app.item_properties.armor.title: 방어구 속성
 SHADOWDARK.app.item_properties.caster_classes.title: 주문시전 클래스
 SHADOWDARK.app.item_properties.languages.title: 언어
 SHADOWDARK.app.item_properties.magic_item.effects.title: 마법 아이템 효과
-SHADOWDARK.app.item_properties.save: 내성
+SHADOWDARK.app.item_properties.save: 저장
 SHADOWDARK.app.item_properties.talent.effects.title: 재능 효과 유형
 SHADOWDARK.app.item_properties.title: 속성
 SHADOWDARK.app.item_properties.weapon.title: 무기 속성
@@ -75,7 +75,7 @@ SHADOWDARK.chat_card.button.use_wand: 마법봉 사용
 SHADOWDARK.chat.hp_roll.apply_to_max: 최대 HP에 추가
 SHADOWDARK.chat.item_roll.double_numerical: 숫자로 된 값 하나에 2를 곱하세요!
 SHADOWDARK.chat.item_roll.mishap: 적절한 사고 표를 보고 주사위를 굴리세요!
-SHADOWDARK.chat.item_roll.title: '{name} 에게 명중 굴림'
+SHADOWDARK.chat.item_roll.title: '{name} 로 명중 굴림'
 SHADOWDARK.chat.item_roll.wand_mishap: 마법봉이 부서졌으며 영구적으로 효과를 잃었습니다
 SHADOWDARK.chat.light_source.expired: "{name} 의 {lightSource} 가 다 됐습니다"
 SHADOWDARK.chat.light_source.remaining: 분 남았습니다
@@ -94,8 +94,8 @@ SHADOWDARK.chat.spell_roll.title: "{tier} 등급 {name} 을 주문 DC {spellDC} 
 SHADOWDARK.chat.welcome_message.intro: "본 시스템에서 제공하는 길잡이 투어를 따라 버튼을 누르다 보면, 빠르게 적응할 수 있습니다:"
 SHADOWDARK.chat.welcome_message.issue_tracker_button: 문제 트래커
 SHADOWDARK.chat.welcome_message.issues: "시스템에 문제가 발생하거나 제안하고 싶은 새 기능이 있다면, 문제 트래커를 활용해주세요:"
-SHADOWDARK.chat.welcome_message.title: 섀도우다크 RPG 파운드리 시스템
-SHADOWDARK.chat.welcome_message.tour_button: 섀도우다크 RPG 투어
+SHADOWDARK.chat.welcome_message.title: 섀도다크 RPG 파운드리 시스템
+SHADOWDARK.chat.welcome_message.tour_button: 섀도다크 RPG 투어
 SHADOWDARK.chatcard.default: 굴림
 SHADOWDARK.class.fighter: 전사
 SHADOWDARK.class.priest: 성직자
@@ -129,7 +129,7 @@ SHADOWDARK.dialog.hp_roll.sum_total: '{total} 만큼 최대 HP 증가'
 SHADOWDARK.dialog.hp_roll.summary: HP 굴림 요약
 SHADOWDARK.dialog.hp_roll.title: HP 굴림
 SHADOWDARK.dialog.item_roll.ability_bonus: 능력 보너스
-SHADOWDARK.dialog.item_roll.item_bonus: 물건 보너스
+SHADOWDARK.dialog.item_roll.item_bonus: 아이템 보너스
 SHADOWDARK.dialog.item_roll.talent_bonus: 재능 보너스
 SHADOWDARK.dialog.item_roll.title: 명중 굴림
 SHADOWDARK.dialog.item.confirm_delete: 삭제 요청 확인
@@ -158,14 +158,14 @@ SHADOWDARK.effect.header.inactive: 비활성화
 SHADOWDARK.effect.header.name: 이름
 SHADOWDARK.effect.header.options: 옵션
 SHADOWDARK.effect.header.transfer: 효과 부여
-SHADOWDARK.effect.item: 물건 효과
+SHADOWDARK.effect.item: 아이템 효과
 SHADOWDARK.effect.new: 새 효과
 SHADOWDARK.effect.spell: 주문 효과
 SHADOWDARK.effect.talent: 재능 효과
 SHADOWDARK.effect.temporary: 임시 효과
 SHADOWDARK.effect.tooltip.transfer.do_not: 부여 안 함
 SHADOWDARK.effect.tooltip.transfer.do: 부여함
-SHADOWDARK.effect.tooltip.transfer.header: 물건이 추가됐을 때 액터에게 효과를 부여합니다
+SHADOWDARK.effect.tooltip.transfer.header: 아이템이 추가됐을 때 액터에게 효과를 부여합니다
 SHADOWDARK.effect.unavailable: 비활성화된 효과
 SHADOWDARK.error.general.gm_required: 게임 마스터만 할 수 있습니다.
 SHADOWDARK.error.general.no_character_class: 캐릭터 클래스가 지정되지 않았습니다
@@ -256,21 +256,21 @@ SHADOWDARK.item.effect.predefined_effect.weaponDamageMultiplier: 무기 피해 �
 SHADOWDARK.item.effect.predefined_effect.weaponMastery: 무기 숙련
 SHADOWDARK.item.effect.show-on-panel: 패널에서 보기
 SHADOWDARK.item.effect.show-token-icon: 토큰 아이콘 보기
-SHADOWDARK.item.effect.source.title: 물건 출처
+SHADOWDARK.item.effect.source.title: 아이템 출처
 SHADOWDARK.item.effect.warning.add_effect_without_value: 값을 지정하지 않은 효과를 추가할 수 없습니다
 SHADOWDARK.item.effect.warning.add_round_item_outside_combat: 전투가 아닐 때 라운드 단위로 지속시간을 세는 효과를 추가할 수 없습니다
 SHADOWDARK.item.equipped: 장착 중
 SHADOWDARK.item.inventory_free_carry: 슬롯 소모 안 함
 SHADOWDARK.item.inventory_per_slot: 슬롯 당 최대값
 SHADOWDARK.item.inventory_quantity: 수량
-SHADOWDARK.item.inventory_slots: 물건별 슬롯
+SHADOWDARK.item.inventory_slots: 아이템별 슬롯
 SHADOWDARK.item.level: 레벨
 SHADOWDARK.item.light.is_source: 광원
 SHADOWDARK.item.light.longevity: 유지시간 (분)
 SHADOWDARK.item.light.remaining: 남은 시간 (분)
 SHADOWDARK.item.light.template: 빛 템플릿
-SHADOWDARK.item.magic_item.is_magic: 마법 물건
-SHADOWDARK.item.magic_item.title: 마법 물건 효과
+SHADOWDARK.item.magic_item.is_magic: 마법 아이템
+SHADOWDARK.item.magic_item.title: 마법 아이템 효과
 SHADOWDARK.item.magic_item.type.attackBonus: 명중 보너스
 SHADOWDARK.item.magic_item.type.criticalFailureThreshold: 더 높은 극단적인 실패 기준치
 SHADOWDARK.item.magic_item.type.criticalSuccessThreshold: 더 낮은 극단적인 성공 기준치
@@ -350,10 +350,10 @@ SHADOWDARK.light-tracker.status.label: 상태
 SHADOWDARK.light-tracker.title.prefix: 빛
 SHADOWDARK.light-tracker.title.suffix: 트래커
 SHADOWDARK.light-tracker.user_warning: 한 명 이상의 유저가 캐릭터를 선택하지 않았습니다
-SHADOWDARK.migration.begin_migration: 섀도우다크 RPG 데이터를 업그레이드하고 있습니다.
-SHADOWDARK.migration.begin_schema: 섀도우다크 RPG v{version} 를 업데이트하고 있습니다.
-SHADOWDARK.migration.completed_migration: 섀도우다크 RPG 데이터 업그레이드가 완료되었습니다.
-SHADOWDARK.migration.completed_schema: 섀도우다크 RPG v{version} 업데이트가 완료되었습니다.
+SHADOWDARK.migration.begin_migration: 섀도다크 RPG 데이터를 업그레이드하고 있습니다.
+SHADOWDARK.migration.begin_schema: 섀도다크 RPG v{version} 를 업데이트하고 있습니다.
+SHADOWDARK.migration.completed_migration: 섀도다크 RPG 데이터 업그레이드가 완료되었습니다.
+SHADOWDARK.migration.completed_schema: 섀도다크 RPG v{version} 업데이트가 완료되었습니다.
 SHADOWDARK.module_art_config.portraits: 포트레이트
 SHADOWDARK.module_art_config.tokens: 토큰
 SHADOWDARK.npc_attack.type.physical: 물리
@@ -416,12 +416,12 @@ SHADOWDARK.sheet.actor.hp_max: 최대
 SHADOWDARK.sheet.actor.hp: HP
 SHADOWDARK.sheet.actor.level: 레벨
 SHADOWDARK.sheet.actor.placeholder.name: 새 액터 이름
-SHADOWDARK.sheet.class.item: 섀도우다크 물건 시트
-SHADOWDARK.sheet.class.npc: 섀도우다크 NPC 시트
-SHADOWDARK.sheet.class.player: 섀도우다크 플레이어 시트
-SHADOWDARK.sheet.general.item_create.tooltip: '{type} 물건 만들기'
-SHADOWDARK.sheet.general.item_delete.title: 물건 삭제
-SHADOWDARK.sheet.general.item_edit.title: 물건 편집
+SHADOWDARK.sheet.class.item: 섀도다크 아이템 시트
+SHADOWDARK.sheet.class.npc: 섀도다크 NPC 시트
+SHADOWDARK.sheet.class.player: 섀도다크 플레이어 시트
+SHADOWDARK.sheet.general.item_create.tooltip: '{type} 아이템 만들기'
+SHADOWDARK.sheet.general.item_delete.title: 아이템 삭제
+SHADOWDARK.sheet.general.item_edit.title: 아이템 편집
 SHADOWDARK.sheet.general.roll_hp: HP 굴리기
 SHADOWDARK.sheet.item.tab.description: 설명
 SHADOWDARK.sheet.item.tab.details: 세부 사항
@@ -498,7 +498,7 @@ SHADOWDARK.talent.type.spell_bonus: 주문시전 보너스
 SHADOWDARK.talent.type.title: 재능 유형
 SHADOWDARK.talent.type.weapon_mastery: 무기 숙련
 SHADOWDARK.tours.lightsource.notification.not_enabled: 길잡이 투어를 실행하려면 빛 트래커를 활성화해야 합니다
-SHADOWDARK.weapon.properties.finesse: 교묘
+SHADOWDARK.weapon.properties.finesse: 기교
 SHADOWDARK.weapon.properties.loading: 장전
 SHADOWDARK.weapon.properties.thrown: 투척
 SHADOWDARK.weapon.properties.two_handed: 양손
