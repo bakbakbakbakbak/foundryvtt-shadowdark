@@ -96,6 +96,21 @@
     "mode": "CONST.ACTIVE_EFFECT_MODES.OVERRIDE",
     "transfer": false
   },
+	"damageMultiplier": {
+		"defaultValue": 2,
+		"effectKey": "system.bonuses.damageMultiplier",
+		"icon": "icons/skills/melee/strike-hammer-destructive-orange.webp",
+		"lang": "SHADOWDARK.item.effect.predefined_effect.damageMultiplier",
+		"mode": "CONST.ACTIVE_EFFECT_MODES.OVERRIDE"
+	},
+	"weaponDamageMultiplier": {
+		"defaultValue": 2,
+		"effectKey": "system.bonuses.damageMultiplier",
+		"icon": "icons/skills/melee/strike-hammer-destructive-orange.webp",
+		"lang": "SHADOWDARK.item.effect.predefined_effect.damageMultiplier",
+		"mode": "CONST.ACTIVE_EFFECT_MODES.OVERRIDE",
+		"transfer": false
+	},
   "hpAdvantage": {
     "defaultValue": "hp",
     "effectKey": "system.bonuses.advantage",
@@ -111,8 +126,8 @@
     "mode": "CONST.ACTIVE_EFFECT_MODES.ADD"
   },
   "lightSource": {
-    "defaultValue": "torch",
-    "effectKey": "system.bonuses.lightSource",
+    "defaultValue": "REPLACEME",
+    "effectKey": "system.light.template",
     "icon": "icons/magic/light/torch-fire-orange.webp",
     "lang": "SHADOWDARK.item.effect.predefined_effect.lightSource",
     "mode": "CONST.ACTIVE_EFFECT_MODES.OVERRIDE"

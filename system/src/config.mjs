@@ -70,7 +70,22 @@ SHADOWDARK.DEFAULTS = {
 	BASE_ARMOR_CLASS: 10,
 	GEAR_SLOTS: 10,
 	FREE_COIN_CARRY: 100,
+	LEARN_SPELL_DC: 15,
 	LIGHT_TRACKER_UPDATE_INTERVAL_SECS: 30,
+	ITEM_IMAGES: {
+		Armor: "icons/equipment/chest/breastplate-banded-steel-gold.webp",
+		Basic: "icons/containers/bags/pouch-simple-brown.webp",
+		Effect: "icons/commodities/tech/cog-brass.webp",
+		Gem: "icons/commodities/gems/gem-faceted-navette-red.webp",
+		"NPC Attack": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+		"NPC Feature": "icons/creatures/abilities/dragon-breath-purple.webp",
+		Potion: "icons/consumables/potions/bottle-corked-red.webp",
+		Scroll: "icons/sundries/scrolls/scroll-runed-brown-purple.webp",
+		Spell: "icons/magic/symbols/runes-star-blue.webp",
+		Talent: "icons/sundries/books/book-worn-brown-grey.webp",
+		Wand: "icons/weapons/wands/wand-gem-violet.webp",
+		Weapon: "icons/weapons/swords/swords-short.webp",
+	},
 };
 
 SHADOWDARK.INVENTORY = {
@@ -101,100 +116,11 @@ SHADOWDARK.LIGHT_SETTING_NAMES = {
 	torch: "SHADOWDARK.light_source.torch",
 };
 
-SHADOWDARK.LIGHT_SETTINGS = {
-	lantern: {
-		alpha: 0.2,
-		angle: 360,
-		animation: {
-			speed: 1,
-			intensity: 1,
-			reverse: false,
-			type: "torch",
-		},
-		attentuation: 0.5,
-		bright: 15,
-		color: "#d1c846",
-		coloration: 1,
-		contrast: 0,
-		darkness: {
-			min: 0,
-			max: 1,
-		},
-		dim: 60,
-		luminosity: 0.5,
-		saturation: 0,
-		shadows: 0,
-	},
-	lightSpellDouble: {
-		alpha: 0.2,
-		angle: 360,
-		animation: {
-			speed: 1,
-			intensity: 1,
-			reverse: false,
-			type: null,
-		},
-		attentuation: 0.5,
-		bright: 60,
-		color: null,
-		coloration: 1,
-		contrast: 0,
-		darkness: {
-			min: 0,
-			max: 1,
-		},
-		dim: 0,
-		luminosity: 0.5,
-		saturation: 0,
-		shadows: 0,
-	},
-	lightSpellNear: {
-		alpha: 0.2,
-		angle: 360,
-		animation: {
-			speed: 1,
-			intensity: 1,
-			reverse: false,
-			type: null,
-		},
-		attentuation: 0.5,
-		bright: 30,
-		color: null,
-		coloration: 1,
-		contrast: 0,
-		darkness: {
-			min: 0,
-			max: 1,
-		},
-		dim: 0,
-		luminosity: 0.5,
-		saturation: 0,
-		shadows: 0,
-	},
-	torch: {
-		alpha: 0.2,
-		angle: 360,
-		animation: {
-			speed: 1,
-			intensity: 1,
-			reverse: false,
-			type: "torch",
-		},
-		attentuation: 0.5,
-		bright: 5,
-		color: "#d1c846",
-		coloration: 1,
-		contrast: 0,
-		darkness: {
-			min: 0,
-			max: 1,
-		},
-		dim: 30,
-		luminosity: 0.5,
-		saturation: 0,
-		shadows: 0,
-	},
-};
+SHADOWDARK.LIGHT_SOURCE_ITEM_IDS = [
+	"PkQXG3AaHNMVwGTc", // Light Spell
+	"rjNBToTJCYLLdVcT", // Light Spell (Double Time)
+	"BBDG7QpHOFXG6sKe", // Light Spell (Double Range)
+];
 
 SHADOWDARK.NPC_ATTACK_TYPES = {
 	physical: "SHADOWDARK.npc_attack.type.physical",

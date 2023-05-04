@@ -86,6 +86,7 @@ export default class RollSD extends Roll {
 				}
 			}
 
+			// TODO This should really be set in the ItemSD rollSpell method...
 			// Spell? -> Set a target
 			if (data.item?.isSpell()) {
 				options.target = data.item.system.tier + 10;
@@ -314,14 +315,25 @@ export default class RollSD extends Roll {
 			if ( data.rolls.main.critical === "success") numDice
 				*= parseInt(data.item.system.bonuses.critical.multiplier, 10);
 
-			primaryParts = [`${numDice}${damageDie}`, ...data.damageParts];
+			// Check if a damage multiplier is active for either Weapon or Actor
+			const damageMultiplier = Math.max(
+				parseInt(data.item.system.bonuses.damageMultiplier ?? 0, 10),
+				parseInt(data.actor.system.bonuses.damageMultiplier ?? 0, 10),
+				1);
+
+			const primaryDmgRoll = (damageMultiplier > 1)
+				? `${numDice}${damageDie} * ${damageMultiplier}`
+				: `${numDice}${damageDie}`;
+
+			primaryParts = [primaryDmgRoll, ...data.damageParts];
 
 			data.rolls.primaryDamage = await this._roll(primaryParts, data);
 
 			if ( data.item.isVersatile() ) {
-				const secondaryParts = [
-					`${numDice}${data.item.system.damage.twoHanded}`,
-					...data.damageParts];
+				const secondaryDmgRoll = (damageMultiplier > 1)
+					? `${numDice}${data.item.system.damage.twoHanded} * ${damageMultiplier}`
+					: `${numDice}${data.item.system.damage.twoHanded}`;
+				const secondaryParts = [secondaryDmgRoll, ...data.damageParts];
 				data.rolls.secondaryDamage = await this._roll(secondaryParts, data);
 			}
 		}
@@ -525,7 +537,7 @@ export default class RollSD extends Roll {
 	) {
 		const chatCardTemplate = options.chatCardTemplate
 			? options.chatCardTemplate
-			: "systems/shadowdark/templates/chat/roll-d20-card.hbs";
+			: "systems/shadowdark/templates/chat/roll-card.hbs";
 
 		const chatCardData = this._getChatCardTemplateData(data, options);
 
@@ -553,9 +565,10 @@ export default class RollSD extends Roll {
 			? chatData.flags.success
 			: null;
 
+		if ( options.rollMode === "blindroll" ) data.rolls.main.blind = true;
+
 		const content = await this._getChatCardContent(data, options);
 
-		if ( options.rollMode === "blindroll" ) chatData.blind = true;
 		chatData.content = content;
 
 		// Modify the flavor of the chat card
