@@ -81,6 +81,8 @@ SHADOWDARK.chat.light_source.expired: "{name} 의 {lightSource} 가 다 됐습�
 SHADOWDARK.chat.light_source.remaining: 분 남았습니다
 SHADOWDARK.chat.light_source.seconds_remaining: 1분 미만 남았습니다
 SHADOWDARK.chat.light_source.source.all: 모든 광원이 사라졌습니다
+SHADOWDARK.chat.light_source.source.dropped: was dropped
+SHADOWDARK.chat.light_source.source.picked_up: was picked up
 SHADOWDARK.chat.light_source.source.toggle.off: 꺼졌습니다.
 SHADOWDARK.chat.light_source.source.toggle.on: 켜졌습니다
 SHADOWDARK.chat.light_source.went_out: "{name} 의 {lightSource} 가 꺼졌습니다"
@@ -340,6 +342,8 @@ SHADOWDARK.light_source.lantern: 등불
 SHADOWDARK.light_source.light_spell.double_near: 빛 주문 (단거리 2배)
 SHADOWDARK.light_source.light_spell.near: 빛 주문 (단거리)
 SHADOWDARK.light_source.torch: 횃불
+SHADOWDARK.light-source.dropped: Dropped {name}
+SHADOWDARK.light-source.pick-up-lightsource.tooltip: Pick up Lightsource
 SHADOWDARK.light-tracker.active: 활성화
 SHADOWDARK.light-tracker.paused: 멈춤
 SHADOWDARK.light-tracker.status.label: 상태
