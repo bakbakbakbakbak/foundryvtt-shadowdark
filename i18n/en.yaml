@@ -123,7 +123,6 @@ SHADOWDARK.dialog.general.are_you_sure: Are you sure?
 SHADOWDARK.dialog.general.cancel: Cancel
 SHADOWDARK.dialog.general.no: "No"
 SHADOWDARK.dialog.general.yes: "Yes"
-SHADOWDARK.dialog.general.select: Select
 SHADOWDARK.dialog.hp_roll.per_level: Roll HP for level {level}
 SHADOWDARK.dialog.hp_roll.previous_hp: "HP before rolling: {hp}"
 SHADOWDARK.dialog.hp_roll.roll_level_1: Rolled {hp} hp for level 1 (incl. con mod)
@@ -142,7 +141,6 @@ SHADOWDARK.dialog.item.delete: Delete
 SHADOWDARK.dialog.item.sell_all: Sell All
 SHADOWDARK.dialog.item.sell: Sell
 SHADOWDARK.dialog.item.use: Use
-SHADOWDARK.dialog.light_source.pick_up.title: Select actor to give lightsource
 SHADOWDARK.dialog.roll_mode_label: Rolling mode
 SHADOWDARK.dialog.roll: Roll
 SHADOWDARK.dialog.spell_roll.title: Cast Spell with
@@ -509,5 +507,3 @@ SHADOWDARK.weapon.properties.two_handed: Two-Handed
 SHADOWDARK.weapon.properties.versatile: Versatile
 SHADOWDARK.weapon.type.melee: Melee
 SHADOWDARK.weapon.type.ranged: Ranged
-SHADOWDARK.app.light-tracker.show-all-actors: Show All Actors
-SHADOWDARK.app.light-tracker.hide-inactive: Hide Actors With No Lights
