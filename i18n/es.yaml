@@ -122,6 +122,7 @@ SHADOWDARK.dialog.general.are_you_sure: '¿Estás seguro?'
 SHADOWDARK.dialog.general.cancel: Cancelar
 SHADOWDARK.dialog.general.no: "No"
 SHADOWDARK.dialog.general.yes: "Sí"
+SHADOWDARK.dialog.general.select: Select
 SHADOWDARK.dialog.hp_roll.per_level: Tirar PV por nivel {level}
 SHADOWDARK.dialog.hp_roll.previous_hp: "PV antes de tirar: {hp}"
 SHADOWDARK.dialog.hp_roll.roll_level_1: Obtienes {hp} PV por nivel 1 (incluido modificador)
@@ -140,6 +141,7 @@ SHADOWDARK.dialog.item.delete: Eliminar
 SHADOWDARK.dialog.item.sell_all: Vender todo
 SHADOWDARK.dialog.item.sell: Vender
 SHADOWDARK.dialog.item.use: Usar
+SHADOWDARK.dialog.light_source.pick_up.title: Select actor to give lightsource
 SHADOWDARK.dialog.roll_mode_label: Modo de tirada
 SHADOWDARK.dialog.roll: Tirada
 SHADOWDARK.dialog.spell_roll.title: Lanzar hechizo con
@@ -506,3 +508,5 @@ SHADOWDARK.weapon.properties.two_handed: A dos manos
 SHADOWDARK.weapon.properties.versatile: Versátil
 SHADOWDARK.weapon.type.melee: Cuerpo a Cuerpo
 SHADOWDARK.weapon.type.ranged: A distancia
+SHADOWDARK.app.light-tracker.show-all-actors: Show All Actors
+SHADOWDARK.app.light-tracker.hide-inactive: Hide Actors With No Lights
