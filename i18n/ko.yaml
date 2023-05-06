@@ -229,7 +229,7 @@ SHADOWDARK.item.effect.predefined_effect.abilityImprovementStr: 능력 점수 �
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementWis: 능력 점수 향상 (지혜)
 SHADOWDARK.item.effect.predefined_effect.acBonus: AC 보너스
 SHADOWDARK.item.effect.predefined_effect.additionalGearSlots: 추가 장비 슬롯
-SHADOWDARK.item.effect.predefined_effect.armorMastery: 방어구 숙련
+SHADOWDARK.item.effect.predefined_effect.armorMastery: 방어구 숙달
 SHADOWDARK.item.effect.predefined_effect.backstabDie: 추가 배후공격 주사위
 SHADOWDARK.item.effect.predefined_effect.criticalFailureThreshold: 극단적인 실패 기준치
 SHADOWDARK.item.effect.predefined_effect.criticalSuccessThreshold: 극단적인 성공 기준치
@@ -253,7 +253,7 @@ SHADOWDARK.item.effect.predefined_effect.spellCastingBonus: 주문시전 판정 
 SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: 무기 명중 굴림 보너스
 SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: 무기 명중 피해 보너스
 SHADOWDARK.item.effect.predefined_effect.weaponDamageMultiplier: 무기 피해 배수
-SHADOWDARK.item.effect.predefined_effect.weaponMastery: 무기 숙련
+SHADOWDARK.item.effect.predefined_effect.weaponMastery: 무기 숙달
 SHADOWDARK.item.effect.show-on-panel: 패널에서 보기
 SHADOWDARK.item.effect.show-token-icon: 토큰 아이콘 보기
 SHADOWDARK.item.effect.source.title: 아이템 출처
@@ -487,7 +487,7 @@ SHADOWDARK.talent.type.advantage.initiative: 우선권 유리함
 SHADOWDARK.talent.type.advantage.spell: 주문시전 유리함
 SHADOWDARK.talent.type.advantage.title: 유리함 보너스
 SHADOWDARK.talent.type.armor_bonus: 방어구 AC 보너스
-SHADOWDARK.talent.type.armor_mastery: 방어구 숙련
+SHADOWDARK.talent.type.armor_mastery: 방어구 숙달
 SHADOWDARK.talent.type.backstab_die: 추가 배후공격 주사위
 SHADOWDARK.talent.type.custom: 사용자지정 재능
 SHADOWDARK.talent.type.melee_attack_bonus: 근접 명중 굴림 보너스
@@ -496,7 +496,7 @@ SHADOWDARK.talent.type.ranged_attack_bonus: 원거리 명중 굴림 보너스
 SHADOWDARK.talent.type.ranged_damage_bonus: 원거리 피해 굴림 보너스
 SHADOWDARK.talent.type.spell_bonus: 주문시전 보너스
 SHADOWDARK.talent.type.title: 재능 유형
-SHADOWDARK.talent.type.weapon_mastery: 무기 숙련
+SHADOWDARK.talent.type.weapon_mastery: 무기 숙달
 SHADOWDARK.tours.lightsource.notification.not_enabled: 길잡이 투어를 실행하려면 빛 트래커를 활성화해야 합니다
 SHADOWDARK.weapon.properties.finesse: 기교
 SHADOWDARK.weapon.properties.loading: 장전
