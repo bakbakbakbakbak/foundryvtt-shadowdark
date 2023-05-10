@@ -56,52 +56,52 @@ SHADOWDARK.apps.effect_panel.duration_label.x_seconds: "{seconds} Sekunden verbl
 SHADOWDARK.apps.effect_panel.duration_label.x_weeks: "{weeks} Wochen verbleibend"
 SHADOWDARK.apps.effect_panel.duration_label.x_years: "{years} Jahre verbleibend"
 SHADOWDARK.apps.effect_panel.right_click_to_remove: "[Rechtsklick] Effekt entfernen"
-SHADOWDARK.apps.shadowdarkling-importer.import_button: Import Shadowdarkling
+SHADOWDARK.apps.shadowdarkling-importer.import_button: Shadowdarkling importieren
 SHADOWDARK.apps.shadowdarkling-importer.instruction1: 1. Besuchen Sie Shadowdarklings.net.
 SHADOWDARK.apps.shadowdarkling-importer.instruction2: 2. Generiere deinen Charakter und speichere als JSON.
 SHADOWDARK.apps.shadowdarkling-importer.instruction3: 3. Kopieren Sie den Inhalt der Datei in dieses Feld.
 SHADOWDARK.apps.shadowdarkling-importer.instruction4: 4. Klicken Sie auf Importieren.
 SHADOWDARK.apps.shadowdarkling-importer.open-generator: Öffne Generator
-SHADOWDARK.apps.shadowdarkling-importer.title: Import Shadowdarkling
+SHADOWDARK.apps.shadowdarkling-importer.title: Shadowdarkling importieren
 SHADOWDARK.armor.properties.disadvantage_stealth: Nachteil/Heimlicheit
 SHADOWDARK.armor.properties.disadvantage_swimming: Nachteil/Schwimmen
 SHADOWDARK.armor.properties.no_swimming: Kein Schwimmen
 SHADOWDARK.armor.properties.one_handed: Benötigt eine Hand
 SHADOWDARK.armor.properties.shield: Schild
-SHADOWDARK.chat_card.button.attack: Roll Attack
-SHADOWDARK.chat_card.button.cast_spell: Cast Spell
-SHADOWDARK.chat_card.button.learn_spell: Learn Spell
-SHADOWDARK.chat_card.button.use_potion: Use Potion
+SHADOWDARK.chat_card.button.attack: Angriff würfeln
+SHADOWDARK.chat_card.button.cast_spell: Zauber wirken
+SHADOWDARK.chat_card.button.learn_spell: Zauber erlernen
+SHADOWDARK.chat_card.button.use_potion: Trank verwenden
 SHADOWDARK.chat_card.button.use_scroll: Schriftrolle verwenden
 SHADOWDARK.chat_card.button.use_wand: Zauberstab benutzen
-SHADOWDARK.chat.hp_roll.apply_to_max: Add to Max HP
+SHADOWDARK.chat.hp_roll.apply_to_max: Zu Max HP hinzufügen
 SHADOWDARK.chat.item_roll.double_numerical: Verdoppele einen beliebigen numerischen Wert!
 SHADOWDARK.chat.item_roll.mishap: Würfle auf die entsprechenden Ungeschickstabelle!
 SHADOWDARK.chat.item_roll.title: Angirffswurf mit {name}
-SHADOWDARK.chat.item_roll.wand_mishap: The wand breaks and permanently ceases to work
+SHADOWDARK.chat.item_roll.wand_mishap: Der Zauberstab bricht und stoppt dauerhaft zu funktionieren
 SHADOWDARK.chat.light_source.expired: "{name}s {lightSource} ist abgelaufen"
 SHADOWDARK.chat.light_source.remaining: Minuten verbleibend
-SHADOWDARK.chat.light_source.seconds_remaining: Less than 1 Minute Remaining
+SHADOWDARK.chat.light_source.seconds_remaining: Weniger als eine Minute verbleibend
 SHADOWDARK.chat.light_source.source.all: Alle Lichtquellen sind ausgegangen
-SHADOWDARK.chat.light_source.source.dropped: was dropped
-SHADOWDARK.chat.light_source.source.picked_up: was picked up
+SHADOWDARK.chat.light_source.source.dropped: wurde fallen gelassen
+SHADOWDARK.chat.light_source.source.picked_up: wurde aufgehoben
 SHADOWDARK.chat.light_source.source.toggle.off: wurde gelöscht
 SHADOWDARK.chat.light_source.source.toggle.on: wurde entzündet
 SHADOWDARK.chat.light_source.went_out: "{name}s {lightSource} ging aus"
-SHADOWDARK.chat.potion_used: "{name} used a Potion"
-SHADOWDARK.chat.spell_learn.failure: "{name} failed to learn anything from the scroll"
-SHADOWDARK.chat.spell_learn.success: "{name} successfully learnt the {spellName} spell"
-SHADOWDARK.chat.spell_learn.title: Learning Spell
+SHADOWDARK.chat.potion_used: "{name} hat einen Trank benutzt"
+SHADOWDARK.chat.spell_learn.failure: "{name} konnte nichts von der Schriftrolle lernen"
+SHADOWDARK.chat.spell_learn.success: "{name} hat den {spellName} Zauber erfolgreich gelernt"
+SHADOWDARK.chat.spell_learn.title: Lerne Zauber
 SHADOWDARK.chat.spell_roll.title: "Zaubere {name} auf Stufe {tier} mit Zauber-SK {spellDC}"
-SHADOWDARK.chat.welcome_message.intro: "To quickly get familiar with the system, check out the provided guided tours by clicking on the following button:"
+SHADOWDARK.chat.welcome_message.intro: "Um sich schnell mit dem System vertraut zu machen, schauen Sie sich die angebotenen Führungen an, indem Sie auf den folgenden Button klicken:"
 SHADOWDARK.chat.welcome_message.issue_tracker_button: Issue Tracker
-SHADOWDARK.chat.welcome_message.issues: "If you find any issues or have ideas for new features for the system. Check out our issue tracker:"
-SHADOWDARK.chat.welcome_message.title: Shadowdark RPG for Foundry
-SHADOWDARK.chat.welcome_message.tour_button: Shadowdark RPG Tours
+SHADOWDARK.chat.welcome_message.issues: "Wenn du irgendwelche Probleme findest oder Ideen für neue Funktionen für das System hast, schaue dir unseren Fehlerverfolger an:"
+SHADOWDARK.chat.welcome_message.title: Shadowdark RPG für Foundry
+SHADOWDARK.chat.welcome_message.tour_button: Shadowdark RPG Touren
 SHADOWDARK.chatcard.default: Wurf
 SHADOWDARK.class.fighter: Kämpfer
 SHADOWDARK.class.priest: Priester
-SHADOWDARK.class.ranger: Ranger
+SHADOWDARK.class.ranger: Waldläufer
 SHADOWDARK.class.thief: Dieb
 SHADOWDARK.class.wizard: Zauberer
 SHADOWDARK.coins.cp: KM
