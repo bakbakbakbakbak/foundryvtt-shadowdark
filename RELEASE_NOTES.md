@@ -1,8 +1,16 @@
 ## v.1.3.x
 
 ### Bugfixes
+* [#427] Tour for the lightsource tracker now works again
+* [#432] Tour for the Dice rolling mechanics now works again
+
+## v.1.3.2
+
+### Bugfixes
 * [#419] Shadowdarklings.net uses https instead of http
 * [#420] NPC attacks now rolls with the damage bonus as well
+* [#422] Characters with ability stat bonuses now import correctly
+* [#428] Verified with Foundry v11
 
 ## v.1.3.1
 
