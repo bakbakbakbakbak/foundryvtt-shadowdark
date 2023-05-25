@@ -1,5 +1,5 @@
 SHADOWDARK.ability_cha: Kar
-SHADOWDARK.ability_charisma: Charisma
+SHADOWDARK.ability_charisma: Karisma
 SHADOWDARK.ability_con: Sit
 SHADOWDARK.ability_constitution: Sitkeys
 SHADOWDARK.ability_dex: Ket
@@ -33,31 +33,31 @@ SHADOWDARK.app.light_tracker.minute_short: min
 SHADOWDARK.app.light_tracker.minutes_short: min
 SHADOWDARK.app.light_tracker.title: Valonlähteen seuranta
 SHADOWDARK.app.light-tracker.douse-light: Sammuta valonlähde
-SHADOWDARK.app.light-tracker.hide-inactive: Hide Actors Without Lights
-SHADOWDARK.app.light-tracker.show-all-actors: Show All Actors
+SHADOWDARK.app.light-tracker.hide-inactive: Piilota hahmot/esineet joita ei ole valaistu
+SHADOWDARK.app.light-tracker.show-all-actors: Näytä kaikki hahmot/esineet
 SHADOWDARK.app.light-tracker.turn-out-the-lights: Sammuta kaikki valonlähteet
 SHADOWDARK.app.npc_attack_ranges.title: Kantamat
-SHADOWDARK.apps.effect_panel.dialog.delete_effect.content: Do you want to delete the {effectName} effect?
-SHADOWDARK.apps.effect_panel.dialog.delete_effect.title: Delete Effect?
-SHADOWDARK.apps.effect_panel.duration_label.expired: Expired
-SHADOWDARK.apps.effect_panel.duration_label.one_day: 1 Day Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_hour: 1 Hour Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_minute: 1 Minute Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_round: 1 Round Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_second: 1 Second Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_week: 1 Week Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_year: 1 Year Remaining
-SHADOWDARK.apps.effect_panel.duration_label.unlimited: Unlimited Duration
-SHADOWDARK.apps.effect_panel.duration_label.x_days: "{days} Days Remaining"
-SHADOWDARK.apps.effect_panel.duration_label.x_hours: "{hours} Hours Remaining"
-SHADOWDARK.apps.effect_panel.duration_label.x_minutes: "{minutes} Minutes Remaining"
-SHADOWDARK.apps.effect_panel.duration_label.x_rounds: "{rounds} Rounds Remaining"
-SHADOWDARK.apps.effect_panel.duration_label.x_seconds: "{seconds} Seconds Remaining"
-SHADOWDARK.apps.effect_panel.duration_label.x_weeks: "{weeks} Weeks Remaining"
-SHADOWDARK.apps.effect_panel.duration_label.x_years: "{years} Years Remaining"
-SHADOWDARK.apps.effect_panel.right_click_to_remove: "[Right click] Remove effect"
-SHADOWDARK.apps.shadowdarkling-importer.import_button: Import Shadowdarkling
-SHADOWDARK.apps.shadowdarkling-importer.instruction1: 1. Visit Shadowdarklings.net.
+SHADOWDARK.apps.effect_panel.dialog.delete_effect.content: Haluatko poistaa {effectName} efektin?
+SHADOWDARK.apps.effect_panel.dialog.delete_effect.title: Poista efekti?
+SHADOWDARK.apps.effect_panel.duration_label.expired: Vanhentunut
+SHADOWDARK.apps.effect_panel.duration_label.one_day: 1 päivä jäljellä
+SHADOWDARK.apps.effect_panel.duration_label.one_hour: 1 tunti jäljellä
+SHADOWDARK.apps.effect_panel.duration_label.one_minute: 1 minuutti jäljellä
+SHADOWDARK.apps.effect_panel.duration_label.one_round: 1 kierros jäljellä
+SHADOWDARK.apps.effect_panel.duration_label.one_second: 1 sekunti jäljellä
+SHADOWDARK.apps.effect_panel.duration_label.one_week: 1 viikko jäljellä
+SHADOWDARK.apps.effect_panel.duration_label.one_year: 1 vuosi jäljellä
+SHADOWDARK.apps.effect_panel.duration_label.unlimited: Rajoittamaton kesto
+SHADOWDARK.apps.effect_panel.duration_label.x_days: "{days} päivää jäljellä"
+SHADOWDARK.apps.effect_panel.duration_label.x_hours: "{hours} tuntia jäljellä"
+SHADOWDARK.apps.effect_panel.duration_label.x_minutes: "{minutes} minuuttia jäljellä"
+SHADOWDARK.apps.effect_panel.duration_label.x_rounds: "{rounds} kierrosta jäljellä"
+SHADOWDARK.apps.effect_panel.duration_label.x_seconds: "{seconds} sekuntia jäljellä"
+SHADOWDARK.apps.effect_panel.duration_label.x_weeks: "{weeks} viikkoa jäljellä"
+SHADOWDARK.apps.effect_panel.duration_label.x_years: "{years} vuotta jäljellä"
+SHADOWDARK.apps.effect_panel.right_click_to_remove: "[Oikea klikkaus] Poista efekti"
+SHADOWDARK.apps.shadowdarkling-importer.import_button: Tuo Shadowdarkling
+SHADOWDARK.apps.shadowdarkling-importer.instruction1: 1. Navigoi shadowdarklings.net sivustolle.
 SHADOWDARK.apps.shadowdarkling-importer.instruction2: 2. Generate your character and save as JSON.
 SHADOWDARK.apps.shadowdarkling-importer.instruction3: 3. Copy the content of file into this box.
 SHADOWDARK.apps.shadowdarkling-importer.instruction4: 4. Click import.
