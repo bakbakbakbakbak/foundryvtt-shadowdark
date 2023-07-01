@@ -40,14 +40,14 @@ SHADOWDARK.app.npc_attack_ranges.title: Portées d'Attaque
 SHADOWDARK.apps.effect_panel.dialog.delete_effect.content: Do you want to delete the {effectName} effect?
 SHADOWDARK.apps.effect_panel.dialog.delete_effect.title: Delete Effect?
 SHADOWDARK.apps.effect_panel.duration_label.expired: Expired
-SHADOWDARK.apps.effect_panel.duration_label.one_day: 1 Day Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_hour: 1 Hour Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_minute: 1 Minute Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_round: 1 Round Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_second: 1 Second Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_week: 1 Week Remaining
-SHADOWDARK.apps.effect_panel.duration_label.one_year: 1 Year Remaining
-SHADOWDARK.apps.effect_panel.duration_label.unlimited: Unlimited Duration
+SHADOWDARK.apps.effect_panel.duration_label.one_day: 1 jour restant
+SHADOWDARK.apps.effect_panel.duration_label.one_hour: 1 heure restante
+SHADOWDARK.apps.effect_panel.duration_label.one_minute: 1 minute restante
+SHADOWDARK.apps.effect_panel.duration_label.one_round: 1 tour restant
+SHADOWDARK.apps.effect_panel.duration_label.one_second: 1 seconde restante
+SHADOWDARK.apps.effect_panel.duration_label.one_week: 1 semaine restante
+SHADOWDARK.apps.effect_panel.duration_label.one_year: 1 an restant
+SHADOWDARK.apps.effect_panel.duration_label.unlimited: Durée illimitée
 SHADOWDARK.apps.effect_panel.duration_label.x_days: "{days} Days Remaining"
 SHADOWDARK.apps.effect_panel.duration_label.x_hours: "{hours} Hours Remaining"
 SHADOWDARK.apps.effect_panel.duration_label.x_minutes: "{minutes} Minutes Remaining"
@@ -69,7 +69,7 @@ SHADOWDARK.armor.properties.no_swimming: Natation Impossible
 SHADOWDARK.armor.properties.one_handed: Occupies One Hand
 SHADOWDARK.armor.properties.shield: Bouclier
 SHADOWDARK.chat_card.button.attack: Roll Attack
-SHADOWDARK.chat_card.button.cast_spell: Cast Spell
+SHADOWDARK.chat_card.button.cast_spell: Lancement de sort
 SHADOWDARK.chat_card.button.learn_spell: Learn Spell
 SHADOWDARK.chat_card.button.use_potion: Use Potion
 SHADOWDARK.chat_card.button.use_scroll: Use Scroll
@@ -88,7 +88,7 @@ SHADOWDARK.chat.light_source.source.picked_up: was picked up
 SHADOWDARK.chat.light_source.source.toggle.off: was doused
 SHADOWDARK.chat.light_source.source.toggle.on: a été allumé
 SHADOWDARK.chat.light_source.went_out: "Les {name} de{lightSource} s'éteint"
-SHADOWDARK.chat.potion_used: "{name} used a Potion"
+SHADOWDARK.chat.potion_used: "{name} a utilisé une potion"
 SHADOWDARK.chat.spell_learn.failure: "{name} failed to learn anything from the scroll"
 SHADOWDARK.chat.spell_learn.success: "{name} successfully learnt the {spellName} spell"
 SHADOWDARK.chat.spell_learn.title: Learning Spell
