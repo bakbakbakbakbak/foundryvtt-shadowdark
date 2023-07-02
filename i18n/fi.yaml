@@ -74,6 +74,10 @@ SHADOWDARK.chat_card.button.learn_spell: Opettele loitsu
 SHADOWDARK.chat_card.button.use_potion: Käytä rohto
 SHADOWDARK.chat_card.button.use_scroll: Käytä loitsukäärö
 SHADOWDARK.chat_card.button.use_wand: Käytä taikasauvaa
+SHADOWDARK.chat_card.context.apply_damage: Apply Damage
+SHADOWDARK.chat_card.context.apply_healing: Apply Healing
+SHADOWDARK.chat_card.context.apply_damage_secondary: Apply Secondary Damage
+SHADOWDARK.chat_card.context.apply_healing_secondary: Apply Secondary Healing
 SHADOWDARK.chat.hp_roll.apply_to_max: Lisää osumapisteidesi maksimimäärään
 SHADOWDARK.chat.item_roll.double_numerical: Tuplaa yksi numeerinen arvo!
 SHADOWDARK.chat.item_roll.mishap: Heitä noppaa sopivaa loihtimisen tapahturmataulua vasten!
@@ -452,6 +456,7 @@ SHADOWDARK.sheet.player.luck: Tuuripiste
 SHADOWDARK.sheet.player.melee_attacks: Lähihyökkäys
 SHADOWDARK.sheet.player.notes: Muistiinpanot
 SHADOWDARK.sheet.player.ranged_attacks: Kantamahyökkäykset
+SHADOWDARK.sheet.player.roll_initiative: Roll Initiative
 SHADOWDARK.sheet.player.spells_tier: Loitsutaso
 SHADOWDARK.sheet.player.spells: Loitsut
 SHADOWDARK.sheet.player.tab.abilities: Kyvyt
