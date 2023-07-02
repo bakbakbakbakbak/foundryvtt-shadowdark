@@ -74,6 +74,10 @@ SHADOWDARK.chat_card.button.learn_spell: Zauber erlernen
 SHADOWDARK.chat_card.button.use_potion: Trank verwenden
 SHADOWDARK.chat_card.button.use_scroll: Schriftrolle verwenden
 SHADOWDARK.chat_card.button.use_wand: Zauberstab benutzen
+SHADOWDARK.chat_card.context.apply_damage: Apply Damage
+SHADOWDARK.chat_card.context.apply_healing: Apply Healing
+SHADOWDARK.chat_card.context.apply_damage_secondary: Apply Secondary Damage
+SHADOWDARK.chat_card.context.apply_healing_secondary: Apply Secondary Healing
 SHADOWDARK.chat.hp_roll.apply_to_max: Zu Max HP hinzufügen
 SHADOWDARK.chat.item_roll.double_numerical: Verdoppele einen beliebigen numerischen Wert!
 SHADOWDARK.chat.item_roll.mishap: Würfle auf die entsprechenden Ungeschickstabelle!
@@ -452,6 +456,7 @@ SHADOWDARK.sheet.player.luck: Glück
 SHADOWDARK.sheet.player.melee_attacks: Nahkampfattacken
 SHADOWDARK.sheet.player.notes: Charakternotizen
 SHADOWDARK.sheet.player.ranged_attacks: Fernkampfattacken
+SHADOWDARK.sheet.player.roll_initiative: Roll Initiative
 SHADOWDARK.sheet.player.spells_tier: Stufe
 SHADOWDARK.sheet.player.spells: zauber
 SHADOWDARK.sheet.player.tab.abilities: Fähigkeiten
