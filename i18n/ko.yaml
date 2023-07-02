@@ -74,6 +74,10 @@ SHADOWDARK.chat_card.button.learn_spell: 주문 배우기
 SHADOWDARK.chat_card.button.use_potion: 물약 사용
 SHADOWDARK.chat_card.button.use_scroll: 두루마리 사용
 SHADOWDARK.chat_card.button.use_wand: 마법봉 사용
+SHADOWDARK.chat_card.context.apply_damage: Apply Damage
+SHADOWDARK.chat_card.context.apply_healing: Apply Healing
+SHADOWDARK.chat_card.context.apply_damage_secondary: Apply Secondary Damage
+SHADOWDARK.chat_card.context.apply_healing_secondary: Apply Secondary Healing
 SHADOWDARK.chat.hp_roll.apply_to_max: 최대 HP에 추가
 SHADOWDARK.chat.item_roll.double_numerical: 숫자로 된 값 하나에 2를 곱하세요!
 SHADOWDARK.chat.item_roll.mishap: 적절한 사고 표를 보고 주사위를 굴리세요!
@@ -452,6 +456,7 @@ SHADOWDARK.sheet.player.luck: 운
 SHADOWDARK.sheet.player.melee_attacks: 근접 공격
 SHADOWDARK.sheet.player.notes: 캐릭터 메모
 SHADOWDARK.sheet.player.ranged_attacks: 원거리 공격
+SHADOWDARK.sheet.player.roll_initiative: Roll Initiative
 SHADOWDARK.sheet.player.spells_tier: 등급
 SHADOWDARK.sheet.player.spells: 주문
 SHADOWDARK.sheet.player.tab.abilities: 능력
