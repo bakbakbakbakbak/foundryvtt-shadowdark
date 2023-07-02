@@ -74,6 +74,10 @@ SHADOWDARK.chat_card.button.learn_spell: Lär dig besvärjelse
 SHADOWDARK.chat_card.button.use_potion: Använd brygd
 SHADOWDARK.chat_card.button.use_scroll: Använd scroll
 SHADOWDARK.chat_card.button.use_wand: Använd trollspö
+SHADOWDARK.chat_card.context.apply_damage: Apply Damage
+SHADOWDARK.chat_card.context.apply_healing: Apply Healing
+SHADOWDARK.chat_card.context.apply_damage_secondary: Apply Secondary Damage
+SHADOWDARK.chat_card.context.apply_healing_secondary: Apply Secondary Healing
 SHADOWDARK.chat.hp_roll.apply_to_max: Lägg till på max KP
 SHADOWDARK.chat.item_roll.double_numerical: Dubbla valfritt numeriskt värde!
 SHADOWDARK.chat.item_roll.mishap: Rulla på lämplig felkast-tabell!
@@ -452,6 +456,7 @@ SHADOWDARK.sheet.player.luck: Tur
 SHADOWDARK.sheet.player.melee_attacks: Närstridsattacker
 SHADOWDARK.sheet.player.notes: Karaktärsanteckningar
 SHADOWDARK.sheet.player.ranged_attacks: Avståndsattacker
+SHADOWDARK.sheet.player.roll_initiative: Roll Initiative
 SHADOWDARK.sheet.player.spells_tier: Grad
 SHADOWDARK.sheet.player.spells: Besvärjelser
 SHADOWDARK.sheet.player.tab.abilities: Förmågor
