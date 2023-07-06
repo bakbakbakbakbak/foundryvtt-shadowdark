@@ -22,7 +22,7 @@ SHADOWDARK.app.gem_bag.title: Sac de gemmes
 SHADOWDARK.app.gem_bag.tooltip.sell_gem: Vendre des Gemmes
 SHADOWDARK.app.gem_bag.total_value: Valeur Totale
 SHADOWDARK.app.item_properties.armor.title: Propriétés de l'armure
-SHADOWDARK.app.item_properties.caster_classes.title: Caster Classes
+SHADOWDARK.app.item_properties.caster_classes.title: Classes de lanceur de sort
 SHADOWDARK.app.item_properties.languages.title: Langues
 SHADOWDARK.app.item_properties.magic_item.effects.title: Effets d'objet magique
 SHADOWDARK.app.item_properties.save: Sauvegarde
