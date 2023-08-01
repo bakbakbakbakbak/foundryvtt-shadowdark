@@ -149,40 +149,40 @@ SHADOWDARK.dialog.item.sell: Vendre
 SHADOWDARK.dialog.item.use: Use
 SHADOWDARK.dialog.light_source.pick_up.title: Select actor to give lightsource
 SHADOWDARK.dialog.roll_mode_label: Rolling mode
-SHADOWDARK.dialog.roll: Roll
+SHADOWDARK.dialog.roll: Jet de dés
 SHADOWDARK.dialog.spell_roll.title: Roll Spell with
-SHADOWDARK.dialog.submit: Submit
+SHADOWDARK.dialog.submit: Valider
 SHADOWDARK.dialog.tooltip.talent_advantage: Un talent vous donne l'avantage de ce jet
-SHADOWDARK.effect_duration.hours: Hours
+SHADOWDARK.effect_duration.hours: Heures
 SHADOWDARK.effect_duration.minutes: Minutes
-SHADOWDARK.effect_duration.seconds: Seconds
-SHADOWDARK.effect_duration.unlimited: Unlimited
+SHADOWDARK.effect_duration.seconds: Secondes
+SHADOWDARK.effect_duration.unlimited: Illimité
 SHADOWDARK.effect.custom: Effets Personnalisés
 SHADOWDARK.effect.footer.add_custom: Ajoutez un Effet Personnalisé
 SHADOWDARK.effect.header.active: Actif
-SHADOWDARK.effect.header.changes: Changes
+SHADOWDARK.effect.header.changes: Changements
 SHADOWDARK.effect.header.delete: Supprimer
 SHADOWDARK.effect.header.edit: Éditer
-SHADOWDARK.effect.header.inactive: Inactive
+SHADOWDARK.effect.header.inactive: Inactif
 SHADOWDARK.effect.header.name: Effet
 SHADOWDARK.effect.header.options: Options
-SHADOWDARK.effect.header.transfer: Transfer
-SHADOWDARK.effect.item: Item Effects
-SHADOWDARK.effect.new: New Effect
-SHADOWDARK.effect.spell: Spell Effects
-SHADOWDARK.effect.talent: Talent Effects
+SHADOWDARK.effect.header.transfer: Transférer
+SHADOWDARK.effect.item: Effets de l'Objet
+SHADOWDARK.effect.new: Nouvel Effet
+SHADOWDARK.effect.spell: Effets de Sort
+SHADOWDARK.effect.talent: Effets de Talent
 SHADOWDARK.effect.temporary: Effets Temporaires
-SHADOWDARK.effect.tooltip.transfer.do_not: Does not transfer
-SHADOWDARK.effect.tooltip.transfer.do: Does transfer
-SHADOWDARK.effect.tooltip.transfer.header: Transfer effect to actor when item is added
-SHADOWDARK.effect.unavailable: Disabled Effects
-SHADOWDARK.error.general.gm_required: You must have the Game Master role to do that.
-SHADOWDARK.error.general.no_character_class: No character class has been selected
-SHADOWDARK.error.spells.no_spellcasting_ability_set: No character spellcasting ability has been configured
-SHADOWDARK.inventory.coins: Coins
-SHADOWDARK.inventory.item.light_remaining: "{timeRemaining} Minutes Remaining"
-SHADOWDARK.inventory.item.light_seconds_remaining: Less than 1 Minute Remaining
-SHADOWDARK.inventory.item.light_used: (partially used)
+SHADOWDARK.effect.tooltip.transfer.do_not: Ne se transfère pas
+SHADOWDARK.effect.tooltip.transfer.do: Se transfère
+SHADOWDARK.effect.tooltip.transfer.header: Transférer l'effet à l'acteur lorsque l'objet est ajouté
+SHADOWDARK.effect.unavailable: Effets Désactivés
+SHADOWDARK.error.general.gm_required: Vous devez avoir le rôle "Maître de jeu" pour faire cela.
+SHADOWDARK.error.general.no_character_class: Aucune classe de personnage n’a été sélectionnée
+SHADOWDARK.error.spells.no_spellcasting_ability_set: Aucune capacité de lancement de sorts n'a été configurée
+SHADOWDARK.inventory.coins: Pièces
+SHADOWDARK.inventory.item.light_remaining: "{timeRemaining} Minutes Restantes"
+SHADOWDARK.inventory.item.light_seconds_remaining: Moins de 1 Minute Restante
+SHADOWDARK.inventory.item.light_used: (partiellement utilisé)
 SHADOWDARK.inventory.label.quantity: Qté
 SHADOWDARK.inventory.label.slots: Emplacements
 SHADOWDARK.inventory.section.armor: Armure
@@ -221,7 +221,7 @@ SHADOWDARK.item.armor.base_armor.title: Armure de Base
 SHADOWDARK.item.cost: Coût
 SHADOWDARK.item.description: Description
 SHADOWDARK.item.effect.category.condition: Condition
-SHADOWDARK.item.effect.category.effect: Effect
+SHADOWDARK.item.effect.category.effect: Effet
 SHADOWDARK.item.effect.category.title: Effect Category
 SHADOWDARK.item.effect.lightSource.lantern: Lantern
 SHADOWDARK.item.effect.lightSource.lightSpellDouble: Light (Double Range)
@@ -235,35 +235,35 @@ SHADOWDARK.item.effect.predefined_effect.abilityImprovementCha: Ability Score Im
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementCon: Ability Score Improvement (Con)
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementDex: Amélioration du score de caractéristique (Dex)
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementInt: Amélioration du score de caractéristique (Int)
-SHADOWDARK.item.effect.predefined_effect.abilityImprovementStr: Ability Score Improvement (Str)
-SHADOWDARK.item.effect.predefined_effect.abilityImprovementWis: Ability Score Improvement (Wis)
-SHADOWDARK.item.effect.predefined_effect.acBonus: AC Bonus
-SHADOWDARK.item.effect.predefined_effect.additionalGearSlots: Additional Gear Slots
-SHADOWDARK.item.effect.predefined_effect.armorMastery: Armor Mastery
-SHADOWDARK.item.effect.predefined_effect.backstabDie: Additional Backstab Die
-SHADOWDARK.item.effect.predefined_effect.criticalFailureThreshold: Critical Failure Threshold
-SHADOWDARK.item.effect.predefined_effect.criticalSuccessThreshold: Critical Success Threshold
-SHADOWDARK.item.effect.predefined_effect.critMultiplier: Critical Multiplier
-SHADOWDARK.item.effect.predefined_effect.damageMultiplier: Damage Multiplier
+SHADOWDARK.item.effect.predefined_effect.abilityImprovementStr: Amélioration du score de caractéristique (For)
+SHADOWDARK.item.effect.predefined_effect.abilityImprovementWis: Amélioration du score de caractéristique (Sag)
+SHADOWDARK.item.effect.predefined_effect.acBonus: Bonus de caractéristique
+SHADOWDARK.item.effect.predefined_effect.additionalGearSlots: Emplacements d'équipement supplémentaires
+SHADOWDARK.item.effect.predefined_effect.armorMastery: Maîtrise des Armures
+SHADOWDARK.item.effect.predefined_effect.backstabDie: Dé supplémentaire (Poignarder)
+SHADOWDARK.item.effect.predefined_effect.criticalFailureThreshold: Seuil d'Échec Critique
+SHADOWDARK.item.effect.predefined_effect.criticalSuccessThreshold: Seuil de Succès Critique
+SHADOWDARK.item.effect.predefined_effect.critMultiplier: Multiplicateur Critique
+SHADOWDARK.item.effect.predefined_effect.damageMultiplier: Multiplicateur de Dégâts
 SHADOWDARK.item.effect.predefined_effect.hpAdvantage: HP Roll Advantage
-SHADOWDARK.item.effect.predefined_effect.initAdvantage: Initiative Advantage
-SHADOWDARK.item.effect.predefined_effect.lightSource: Light Source
-SHADOWDARK.item.effect.predefined_effect.meleeAttackBonus: Melee Attack Roll Bonus
-SHADOWDARK.item.effect.predefined_effect.meleeDamageBonus: Melee Damage Bonus
-SHADOWDARK.item.effect.predefined_effect.permanentAbilityCha: Permanent Ability (Cha)
-SHADOWDARK.item.effect.predefined_effect.permanentAbilityCon: Permanent Ability (Con)
-SHADOWDARK.item.effect.predefined_effect.permanentAbilityDex: Permanent Ability (Dex)
-SHADOWDARK.item.effect.predefined_effect.permanentAbilityInt: Permanent Ability (Int)
-SHADOWDARK.item.effect.predefined_effect.permanentAbilityStr: Permanent Ability (Str)
-SHADOWDARK.item.effect.predefined_effect.permanentAbilityWis: Permanent Ability (Wis)
-SHADOWDARK.item.effect.predefined_effect.rangedAttackBonus: Ranged Attack Roll Bonus
-SHADOWDARK.item.effect.predefined_effect.rangedDamageBonus: Ranged Damage Bonus
-SHADOWDARK.item.effect.predefined_effect.spellAdvantage: Spellcasting Advantage on Spell
-SHADOWDARK.item.effect.predefined_effect.spellCastingBonus: Spellcasting Check Bonus
-SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: Weapon Attack Roll Bonus
-SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: Weapon Attack Damage Bonus
-SHADOWDARK.item.effect.predefined_effect.weaponDamageMultiplier: Weapon Damage Multiplier
-SHADOWDARK.item.effect.predefined_effect.weaponMastery: Weapon Mastery
+SHADOWDARK.item.effect.predefined_effect.initAdvantage: Avantage d'Initiative
+SHADOWDARK.item.effect.predefined_effect.lightSource: Source de Lumière
+SHADOWDARK.item.effect.predefined_effect.meleeAttackBonus: Bonus au jet d'Attaque de Mêlée
+SHADOWDARK.item.effect.predefined_effect.meleeDamageBonus: Bonus aux Dégâts de Mêlée
+SHADOWDARK.item.effect.predefined_effect.permanentAbilityCha: Caractéristique Permanente (Char)
+SHADOWDARK.item.effect.predefined_effect.permanentAbilityCon: Caractéristique Permanente (Con)
+SHADOWDARK.item.effect.predefined_effect.permanentAbilityDex: Caractéristique Permanente (Dex)
+SHADOWDARK.item.effect.predefined_effect.permanentAbilityInt: Caractéristique Permanente (Int)
+SHADOWDARK.item.effect.predefined_effect.permanentAbilityStr: Caractéristique Permanente (For)
+SHADOWDARK.item.effect.predefined_effect.permanentAbilityWis: Caractéristique Permanente (Sag)
+SHADOWDARK.item.effect.predefined_effect.rangedAttackBonus: Bonus au jet d'Attaque à Distance
+SHADOWDARK.item.effect.predefined_effect.rangedDamageBonus: Bonus aux Dégâts à Distance
+SHADOWDARK.item.effect.predefined_effect.spellAdvantage: Avantage d'Incantation sur le Sort
+SHADOWDARK.item.effect.predefined_effect.spellCastingBonus: Bonus pour jet d'Incantation
+SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: Bonus au jet d'Attaque d'Arme
+SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: Bonus aux Dégâts d'Attaque d'Arme
+SHADOWDARK.item.effect.predefined_effect.weaponDamageMultiplier: Multiplicateur de Dégâts d'Arme
+SHADOWDARK.item.effect.predefined_effect.weaponMastery: Maîtrise des Armes
 SHADOWDARK.item.effect.show-on-panel: Show on panel
 SHADOWDARK.item.effect.show-token-icon: Show token icon
 SHADOWDARK.item.effect.source.title: Item Source
@@ -502,7 +502,7 @@ SHADOWDARK.talent.type.advantage.initiative: Initiative Advantage
 SHADOWDARK.talent.type.advantage.spell: Spellcasting Advantage
 SHADOWDARK.talent.type.advantage.title: Advantage Bonus
 SHADOWDARK.talent.type.armor_bonus: Armor AC Bonus
-SHADOWDARK.talent.type.armor_mastery: Armor Mastery
+SHADOWDARK.talent.type.armor_mastery: Maîtrise des Armures
 SHADOWDARK.talent.type.backstab_die: Extra Backstab Die
 SHADOWDARK.talent.type.custom: Custom Talent
 SHADOWDARK.talent.type.melee_attack_bonus: Melee Attack Roll Bonus
@@ -511,7 +511,7 @@ SHADOWDARK.talent.type.ranged_attack_bonus: Ranged Attack Roll Bonus
 SHADOWDARK.talent.type.ranged_damage_bonus: Bonus aux Dégâts à Distance
 SHADOWDARK.talent.type.spell_bonus: Spellcasting Bonus
 SHADOWDARK.talent.type.title: Talent Type(s)
-SHADOWDARK.talent.type.weapon_mastery: Weapon Mastery
+SHADOWDARK.talent.type.weapon_mastery: Maîtrise des Armes
 SHADOWDARK.tours.lightsource.notification.not_enabled: You need to enable the Lightsource Tracker in settings to be able to run the Tour
 SHADOWDARK.weapon.properties.finesse: Finesse
 SHADOWDARK.weapon.properties.loading: Loading
