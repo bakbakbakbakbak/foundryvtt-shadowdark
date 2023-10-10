@@ -10,19 +10,20 @@ SHADOWDARK.ability_str: Voi
 SHADOWDARK.ability_strength: Voimakkuus
 SHADOWDARK.ability_wis: Vii
 SHADOWDARK.ability_wisdom: Viisaus
-SHADOWDARK.alignment.chaotic_short: K
 SHADOWDARK.alignment.chaotic: Kaoottinen
-SHADOWDARK.alignment.lawful_short: L
 SHADOWDARK.alignment.lawful: Lainkuuliainen
-SHADOWDARK.alignment.neutral_short: "N"
 SHADOWDARK.alignment.neutral: Neutraali
+SHADOWDARK.ancestry.languages.label: Ancestry Languages
+SHADOWDARK.ancestry.languages.prompt: Select Language...
+SHADOWDARK.ancestry.talents.count.label: Choice Count
+SHADOWDARK.ancestry.talents.label: Ancestry Talents
+SHADOWDARK.ancestry.talents.prompt: Select Talent...
 SHADOWDARK.app.active_effects.title: Aktiiviset Efektit
 SHADOWDARK.app.gem_bag.sell_all: Myy kaikki jalokivet
 SHADOWDARK.app.gem_bag.title: Jalokivipussi
 SHADOWDARK.app.gem_bag.tooltip.sell_gem: Myy jalokivi
 SHADOWDARK.app.gem_bag.total_value: Yhteisarvo
 SHADOWDARK.app.item_properties.armor.title: Panssarin ominaisuudet
-SHADOWDARK.app.item_properties.caster_classes.title: Loihtimisluokat
 SHADOWDARK.app.item_properties.languages.title: Kielet
 SHADOWDARK.app.item_properties.magic_item.effects.title: Taikaesineiden efektit
 SHADOWDARK.app.item_properties.save: Tallenna
@@ -97,16 +98,49 @@ SHADOWDARK.chat.spell_learn.failure: "{name} ei oppinut taikakääröstä mitä�
 SHADOWDARK.chat.spell_learn.success: "{name} onnistuneesti oppi {spellName} loitsun"
 SHADOWDARK.chat.spell_learn.title: Opettelee loitsua
 SHADOWDARK.chat.spell_roll.title: "Loihditaan {name} tasolla {tier} jolloin vaikeusaste on {spellDC}"
+SHADOWDARK.chat.use_ability.failure: "{name} failed to used the {ability} ability"
+SHADOWDARK.chat.use_ability.success: "{name} successfully used the {ability} ability"
+SHADOWDARK.chat.use_ability.title: "Using Ability"
 SHADOWDARK.chat.welcome_message.intro: "Järjestelmän nopeaa oppimista varten, voit ottaa opastuskierrosen painamalla tätä nappia:"
 SHADOWDARK.chat.welcome_message.issue_tracker_button: Tikettijärjestelmä
 SHADOWDARK.chat.welcome_message.issues: "Jos löydät ongelmia tai sinulla on ideoita uusiin ominaisuuksiin järjestelmässä. Tutustu virheiden seurantaamme:"
 SHADOWDARK.chat.welcome_message.title: Shadowdark RPG foundrylle
 SHADOWDARK.chat.welcome_message.tour_button: Shadowdark RPG opastukset
 SHADOWDARK.chatcard.default: Heitä noppaa
+SHADOWDARK.class-ability.ability.label: Ability
+SHADOWDARK.class-ability.available.label: Available
+SHADOWDARK.class-ability.dc.label: DC
+SHADOWDARK.class-ability.group.label: Ability Group
+SHADOWDARK.class-ability.limited-uses.label: Limited Uses?
+SHADOWDARK.class-ability.lose_on_failure.label: Lose on Failure?
+SHADOWDARK.class-ability.lost.label: Lost
+SHADOWDARK.class-ability.maximum.label: Maximum
+SHADOWDARK.class.armor.all.label: All Armor
+SHADOWDARK.class.armor.label: Armor
+SHADOWDARK.class.armor.prompt: Select Armor...
 SHADOWDARK.class.fighter: Taistelija
+SHADOWDARK.class.hit_points.label: Hit Points
+SHADOWDARK.class.language_choices.count.label: Choice Count
+SHADOWDARK.class.language_choices.label: Language Choices
+SHADOWDARK.class.language_choices.prompt: Select Language...
+SHADOWDARK.class.languages.label: Class Languages
 SHADOWDARK.class.priest: Pappi
 SHADOWDARK.class.ranger: Samooja
+SHADOWDARK.class.spellcasting_ability.label: Loihtimiskyky
+SHADOWDARK.class.spellcasting_class.label: Spell Class
+SHADOWDARK.class.talent_choices.count.label: Choice Count
+SHADOWDARK.class.talent_choices.label: Talent Choices
+SHADOWDARK.class.talent_choices.prompt: Select Talent...
+SHADOWDARK.class.talents_table.label: Class Talents Table
+SHADOWDARK.class.talents.label: Talents
+SHADOWDARK.class.talents.prompt: Select Talent...
 SHADOWDARK.class.thief: Varas
+SHADOWDARK.class.titles.levels.from.label: From
+SHADOWDARK.class.titles.levels.label: Levels
+SHADOWDARK.class.titles.levels.to.label: To
+SHADOWDARK.class.weapons.all.label: All Weapons
+SHADOWDARK.class.weapons.label: Weapons
+SHADOWDARK.class.weapons.prompt: Select Weapon...
 SHADOWDARK.class.wizard: Velho
 SHADOWDARK.coins.cp: Kupari
 SHADOWDARK.coins.gp: Kulta
@@ -140,6 +174,9 @@ SHADOWDARK.dialog.item_roll.ability_bonus: Kykybonus
 SHADOWDARK.dialog.item_roll.item_bonus: Esinebonus
 SHADOWDARK.dialog.item_roll.talent_bonus: Lahjakkuusbonus
 SHADOWDARK.dialog.item_roll.title: Heitä hyökkäysheitto käyttäen
+SHADOWDARK.dialog.item_selector.default_title: Choose Items
+SHADOWDARK.dialog.item_selector.error.max_choices_exceeded: You can only select a maximum of {maxChoices} of this Item type.
+SHADOWDARK.dialog.item_selector.select_item.prompt: Select Item...
 SHADOWDARK.dialog.item.confirm_delete: Varmista poisto
 SHADOWDARK.dialog.item.confirm_sale: Varmista myyminen
 SHADOWDARK.dialog.item.create_from_spell: Luo uusi esine loitsulla {spellName}
@@ -150,6 +187,20 @@ SHADOWDARK.dialog.item.use: Käytä
 SHADOWDARK.dialog.light_source.pick_up.title: Valitse kenelle annetaan valonlähde
 SHADOWDARK.dialog.roll_mode_label: Valitse heittotapa
 SHADOWDARK.dialog.roll: Heitä noppaa
+SHADOWDARK.dialog.select_ancestry.prompt: Select Ancestry...
+SHADOWDARK.dialog.select_ancestry.title: Choose Ancestry
+SHADOWDARK.dialog.select_armor_property.prompt: Select Armor Property...
+SHADOWDARK.dialog.select_armor_property.title: Choose Armor Properties
+SHADOWDARK.dialog.select_background.prompt: Select Background...
+SHADOWDARK.dialog.select_background.title: Choose Background
+SHADOWDARK.dialog.select_class.prompt: Select Class...
+SHADOWDARK.dialog.select_class.title: Choose Class
+SHADOWDARK.dialog.select_deity.prompt: Select Deity...
+SHADOWDARK.dialog.select_deity.title: Choose Deity
+SHADOWDARK.dialog.select_languages.prompt: Select Language...
+SHADOWDARK.dialog.select_languages.title: Choose Languages
+SHADOWDARK.dialog.select_weapon_property.prompt: Select Weapon Property...
+SHADOWDARK.dialog.select_weapon_property.title: Choose Weapon Properties
 SHADOWDARK.dialog.spell_roll.title: Heitä loihtimisheitto käyttäen
 SHADOWDARK.dialog.submit: Tallenna
 SHADOWDARK.dialog.tooltip.talent_advantage: Jokin lahjakkuuksistasi antaa sinulle edun tähän heittoon
@@ -176,9 +227,14 @@ SHADOWDARK.effect.tooltip.transfer.do_not: Ei voi siirtää
 SHADOWDARK.effect.tooltip.transfer.do: Siirrettävissä
 SHADOWDARK.effect.tooltip.transfer.header: Siirrä efekti hahmolle kun esine lisätään
 SHADOWDARK.effect.unavailable: Poissaolevat efektit
+SHADOWDARK.error.class_ability.no-uses-remaining: No uses remaining
 SHADOWDARK.error.general.gm_required: Tarvitset pelinjohtajan roolin tehdäksesi noin.
 SHADOWDARK.error.general.no_character_class: Hahmoluokka ei ole valittu
 SHADOWDARK.error.spells.no_spellcasting_ability_set: No character spellcasting ability has been configured
+SHADOWDARK.form.section_header.equipment.label: Equipment
+SHADOWDARK.form.section_header.languages.label: Languages
+SHADOWDARK.form.section_header.spellcasting.label: Spellcasting
+SHADOWDARK.form.section_header.talents.label: Talents
 SHADOWDARK.inventory.coins: Kolikot
 SHADOWDARK.inventory.item.light_remaining: "{timeRemaining} minuuttia jäljellä"
 SHADOWDARK.inventory.item.light_seconds_remaining: Alle minuutti jäljellä
@@ -262,6 +318,7 @@ SHADOWDARK.item.effect.predefined_effect.spellAdvantage: Tietyn loitsun loihtimi
 SHADOWDARK.item.effect.predefined_effect.spellCastingBonus: Loihtimisbonus
 SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: Aseellisen hyökkäysheiton bonus
 SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: Aseellisen vahinkoheiton bonus
+SHADOWDARK.item.effect.predefined_effect.weaponDamageDieD12: Weapon Damage Die D12
 SHADOWDARK.item.effect.predefined_effect.weaponDamageMultiplier: Aseen vahinkokerroin
 SHADOWDARK.item.effect.predefined_effect.weaponMastery: Asetaituruus
 SHADOWDARK.item.effect.show-on-panel: Näytä paneelissa
@@ -334,6 +391,8 @@ SHADOWDARK.item.weapon.base_weapon.staff: Sauva
 SHADOWDARK.item.weapon.base_weapon.title: Asetyyppi
 SHADOWDARK.item.weapon.base_weapon.wand: Taikasauva
 SHADOWDARK.item.weapon.base_weapon.warhammer: Sotavasara
+SHADOWDARK.language_choices.common.label: Additional Common
+SHADOWDARK.language_choices.rare.label: Additional Rare
 SHADOWDARK.language.celestial: Valonkieli
 SHADOWDARK.language.common: Yleiskieli
 SHADOWDARK.language.diabolic: Pimeydenpuhe
@@ -345,9 +404,13 @@ SHADOWDARK.language.goblin: Peikkolaiskieli
 SHADOWDARK.language.merran: Meripuhe
 SHADOWDARK.language.orcish: Örkki
 SHADOWDARK.language.primordial: Alkukieli
+SHADOWDARK.language.rarity.common: Common
+SHADOWDARK.language.rarity.label: Rarity
+SHADOWDARK.language.rarity.rare: Rare
 SHADOWDARK.language.reptilian: Reptiliaani
 SHADOWDARK.language.sylvan: Salokieli
 SHADOWDARK.language.thanian: Petopuhe
+SHADOWDARK.language.who_speaks_it: Who Speaks It
 SHADOWDARK.light_source.lantern: Lyhty
 SHADOWDARK.light_source.light_spell.double_near: Valotaika (Tuplakantama)
 SHADOWDARK.light_source.light_spell.near: Valotaika (Lähellä)
@@ -375,6 +438,9 @@ SHADOWDARK.npc_move.near: Lähellä
 SHADOWDARK.npc_move.none: None
 SHADOWDARK.npc_move.special: Special
 SHADOWDARK.npc_move.triple_near: '"Lähellä" etäisyys triplana'
+SHADOWDARK.property.type.option.armor: Armor
+SHADOWDARK.property.type.option.weapon: Weapon
+SHADOWDARK.property.type.title: Property Type
 SHADOWDARK.range.close_short: V
 SHADOWDARK.range.close: Vieressä
 SHADOWDARK.range.far_short: K
@@ -403,6 +469,8 @@ SHADOWDARK.roll.failure: Epäonnistui! ({value})
 SHADOWDARK.roll.normal: Normaali
 SHADOWDARK.roll.spell_casting_check: Loihtimisheitto
 SHADOWDARK.roll.success: Onnistui! ({value})
+SHADOWDARK.settings.debugEnabled.hint: Enable or Disable additional debug logging
+SHADOWDARK.settings.debugEnabled.name: Enable/Disable Debug
 SHADOWDARK.settings.effect_panel.show_passive.hint: Jos valittuna, efektipaneeli näyttää kykyjä ja muita passiivisia efektejä
 SHADOWDARK.settings.effect_panel.show_passive.name: Näytä passiiviset efektit paneelissa
 SHADOWDARK.settings.module_art.hint: Määritä minkä moduulin tuottamaa taidetta käytetään
@@ -423,8 +491,11 @@ SHADOWDARK.settings.track_light_sources.pause_with_game.hint: Jos valitset täm�
 SHADOWDARK.settings.track_light_sources.pause_with_game.name: Pauseta valonlähteiden seuranta
 SHADOWDARK.settings.track_light_sources.realtime_tracking.hint: Jos valitset tämän, valonlähteet seuraa oikeaa aikaa. Poista tämä valinta jos käytät aika- tai kalenteri-moduuleja.
 SHADOWDARK.settings.track_light_sources.realtime_tracking.name: Reaaliaikainen valolähteiden aika
+SHADOWDARK.sheet.abilities.label: Abilities
+SHADOWDARK.sheet.abilities.ungrouped.label: Miscellaneous
+SHADOWDARK.sheet.abilities.uses.decrement.tooltip: Decrease Available Uses
+SHADOWDARK.sheet.abilities.uses.increment.tooltip: Increase Available Uses
 SHADOWDARK.sheet.actor.ac: Puolustuspisteet
-SHADOWDARK.sheet.actor.alignment_short: Vakaus
 SHADOWDARK.sheet.actor.alignment: Vakaumus
 SHADOWDARK.sheet.actor.hp_max: Max
 SHADOWDARK.sheet.actor.hp: Osumapisteet
@@ -442,6 +513,7 @@ SHADOWDARK.sheet.item.tab.details: Yksityiskohdat
 SHADOWDARK.sheet.item.tab.effects: Efektit
 SHADOWDARK.sheet.item.tab.light: Valonlähde
 SHADOWDARK.sheet.item.tab.magic: Taikuus
+SHADOWDARK.sheet.item.tab.titles: Titles
 SHADOWDARK.sheet.npc.attacks_label: Hyökkäykset
 SHADOWDARK.sheet.npc.dark_adapted: Sopeutunut pimeään
 SHADOWDARK.sheet.npc.description_label: Kuvaus
@@ -451,15 +523,18 @@ SHADOWDARK.sheet.npc.movement: Liikkumisnopeus
 SHADOWDARK.sheet.npc.tab.abilities: Kyvyt
 SHADOWDARK.sheet.npc.tab.description: Kuvaus
 SHADOWDARK.sheet.player.active_effect_override: Tähän arvoon vaikuttaa aktiivinen efekti, eikä sitä pystytä juuri nyt muokkamaan. Disabloi kyseinen efekti muokataksesi arvoa.
-SHADOWDARK.sheet.player.ancestry: Laji
+SHADOWDARK.sheet.player.ancestry.label: Laji
+SHADOWDARK.sheet.player.ancestry.tooltip: Your character's cultural and ancestral heritage
 SHADOWDARK.sheet.player.available_spells: Saatavilla olevat loitsut
-SHADOWDARK.sheet.player.background: Tausta
-SHADOWDARK.sheet.player.class: Hahmoluokka
-SHADOWDARK.sheet.player.deity: Jumala
+SHADOWDARK.sheet.player.background.label: Tausta
+SHADOWDARK.sheet.player.background.tooltip: Your history and past experience. You are adept at tasks related to your background.
+SHADOWDARK.sheet.player.class.label: Class
+SHADOWDARK.sheet.player.class.tooltip: Your character's job
+SHADOWDARK.sheet.player.deity.label: Deity
+SHADOWDARK.sheet.player.deity.tooltip: Your character’s cosmic link to the opposing forces of Law and Chaos, or balanced Neutrality.
 SHADOWDARK.sheet.player.languages: Kielet
 SHADOWDARK.sheet.player.luck: Tuuripiste
 SHADOWDARK.sheet.player.melee_attacks: Lähihyökkäys
-SHADOWDARK.sheet.player.notes: Muistiinpanot
 SHADOWDARK.sheet.player.ranged_attacks: Kantamahyökkäykset
 SHADOWDARK.sheet.player.roll_initiative: Roll Initiative
 SHADOWDARK.sheet.player.spells_tier: Loitsutaso
@@ -467,15 +542,18 @@ SHADOWDARK.sheet.player.spells: Loitsut
 SHADOWDARK.sheet.player.tab.abilities: Kyvyt
 SHADOWDARK.sheet.player.tab.background: Tausta
 SHADOWDARK.sheet.player.tab.inventory: Kantamukset
+SHADOWDARK.sheet.player.tab.notes: Notes
 SHADOWDARK.sheet.player.tab.spells: Loitsut
 SHADOWDARK.sheet.player.tab.talents: Lahjakkuudet
 SHADOWDARK.sheet.player.talents_level: Taso
 SHADOWDARK.sheet.player.talents_name: Nimi
 SHADOWDARK.sheet.player.talents: Lahjakkuudet
 SHADOWDARK.sheet.player.title: Arvonimi
+SHADOWDARK.sheet.player.toggle_ability_lost: Toggle Ability Lost
 SHADOWDARK.sheet.player.toggle_spell_lost: Merkkaa menetetty loitsu
 SHADOWDARK.sheet.player.tooltip.cast_spell: Loihdi loitsu
 SHADOWDARK.sheet.player.tooltip.learn_spell: Opettele loitsu
+SHADOWDARK.sheet.player.tooltip.use_class_ability: Use Class Ability
 SHADOWDARK.sheet.player.tooltip.use_potion: Käytä rohto
 SHADOWDARK.sheet.player.tooltip.use_scroll: Käytä loitsukäärö
 SHADOWDARK.sheet.player.tooltip.use_wand: Käytä taikasauvaa
@@ -491,7 +569,8 @@ SHADOWDARK.spell_duration.rounds: Kierrosta
 SHADOWDARK.spell_range.close: Vieressä
 SHADOWDARK.spell_range.far: Kaukana
 SHADOWDARK.spell_range.near: Lähellä
-SHADOWDARK.spellcasting_ability: Loihtimiskyky
+SHADOWDARK.spell.classes.label: Loihtimisluokat
+SHADOWDARK.spell.classes.prompt: Select Class...
 SHADOWDARK.talent.backstab: Yllätyshyökkäys
 SHADOWDARK.talent.class.ancestry: Laji
 SHADOWDARK.talent.class.class: Hahmoluokka
