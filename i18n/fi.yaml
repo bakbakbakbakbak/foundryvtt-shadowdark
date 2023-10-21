@@ -69,6 +69,10 @@ SHADOWDARK.armor.properties.disadvantage_swimming: Haitta/Uiminen
 SHADOWDARK.armor.properties.no_swimming: Ei voi uida
 SHADOWDARK.armor.properties.one_handed: Varaa yhden käden
 SHADOWDARK.armor.properties.shield: Kilpi
+SHADOWDARK.boon.type.label: Boon Type
+SHADOWDARK.boons.blessing: Blessing
+SHADOWDARK.boons.oath: Oath
+SHADOWDARK.boons.secret: Secret
 SHADOWDARK.chat_card.button.attack: Heitä hyökkäysheitto
 SHADOWDARK.chat_card.button.cast_spell: Loihdi loitsu
 SHADOWDARK.chat_card.button.learn_spell: Opettele loitsu
@@ -119,7 +123,7 @@ SHADOWDARK.class.armor.all.label: All Armor
 SHADOWDARK.class.armor.label: Armor
 SHADOWDARK.class.armor.prompt: Select Armor...
 SHADOWDARK.class.fighter: Taistelija
-SHADOWDARK.class.hit_points.label: Hit Points
+SHADOWDARK.class.hit_points.label: HP Die Roll
 SHADOWDARK.class.language_choices.count.label: Choice Count
 SHADOWDARK.class.language_choices.label: Language Choices
 SHADOWDARK.class.language_choices.prompt: Select Language...
@@ -138,6 +142,8 @@ SHADOWDARK.class.thief: Varas
 SHADOWDARK.class.titles.levels.from.label: From
 SHADOWDARK.class.titles.levels.label: Levels
 SHADOWDARK.class.titles.levels.to.label: To
+SHADOWDARK.class.weapons.all_melee.label: All Melee Weapons
+SHADOWDARK.class.weapons.all_ranged.label: All Ranged Weapons
 SHADOWDARK.class.weapons.all.label: All Weapons
 SHADOWDARK.class.weapons.label: Weapons
 SHADOWDARK.class.weapons.prompt: Select Weapon...
@@ -155,8 +161,10 @@ SHADOWDARK.dialog.ability_check.str: Voimakkuusheitto
 SHADOWDARK.dialog.ability_check.title: Kyvykkyysheitto
 SHADOWDARK.dialog.ability_check.wis: Viisausheitto
 SHADOWDARK.dialog.effect.choice.armor: Valitse panssarin tyyppi
+SHADOWDARK.dialog.effect.choice.attribute: Choose Attribute
 SHADOWDARK.dialog.effect.choice.lightSource: Valitse valonlähde
 SHADOWDARK.dialog.effect.choice.spell: Valitse loitsu
+SHADOWDARK.dialog.effect.choice.weapon_property: Choose Weapon Property
 SHADOWDARK.dialog.effect.choice.weapon: Valitse aseen tyyppi
 SHADOWDARK.dialog.general.are_you_sure: Oletko varma?
 SHADOWDARK.dialog.general.cancel: Peruuta
@@ -257,6 +265,7 @@ SHADOWDARK.inventory.tooltip.item_increment: Lisää määrää
 SHADOWDARK.inventory.tooltip.sell_treasure: Myy aarre
 SHADOWDARK.inventory.tooltip.toggle_equipped: Ota käyttöön
 SHADOWDARK.inventory.tooltip.toggle_light_source: Sammuta/Sytytä valonlähde
+SHADOWDARK.inventory.tooltip.toggle_stashed: Toggle Stashed
 SHADOWDARK.inventory.total_coins: Kolikoita yhteensä
 SHADOWDARK.inventory.total_gems: Jalokiviä yhteensä
 SHADOWDARK.item_type.armor: Panssari
@@ -294,6 +303,7 @@ SHADOWDARK.item.effect.predefined_effect.abilityImprovementInt: Kyvyn parantamin
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementStr: Kyvyn parantaminen (Voi)
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementWis: Kyvyn parantaminen (Vii)
 SHADOWDARK.item.effect.predefined_effect.acBonus: Puolustusbonus
+SHADOWDARK.item.effect.predefined_effect.acBonusFromAttribute: AC Bonus from Attribute
 SHADOWDARK.item.effect.predefined_effect.additionalGearSlots: Ylimääräistä tarviketilaa
 SHADOWDARK.item.effect.predefined_effect.armorMastery: Taituruus panssarin kanssa
 SHADOWDARK.item.effect.predefined_effect.backstabDie: Ylimääräinen noppa yllätyshyökkäykseen
@@ -316,9 +326,12 @@ SHADOWDARK.item.effect.predefined_effect.rangedAttackBonus: Kantama-aseiden hyö
 SHADOWDARK.item.effect.predefined_effect.rangedDamageBonus: Kantama-aseiden vahinkoheittoihin bonus
 SHADOWDARK.item.effect.predefined_effect.spellAdvantage: Tietyn loitsun loihtiminen edun kanssa
 SHADOWDARK.item.effect.predefined_effect.spellCastingBonus: Loihtimisbonus
+SHADOWDARK.item.effect.predefined_effect.unarmoredAcBonus: Unarmored AC Bonus
 SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: Aseellisen hyökkäysheiton bonus
 SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: Aseellisen vahinkoheiton bonus
 SHADOWDARK.item.effect.predefined_effect.weaponDamageDieD12: Weapon Damage Die D12
+SHADOWDARK.item.effect.predefined_effect.weaponDamageDieImprovementByProperty: Weapon Damage Die Improvement By Property
+SHADOWDARK.item.effect.predefined_effect.weaponDamageExtraDieByProperty: Extra Damage Die By Property
 SHADOWDARK.item.effect.predefined_effect.weaponDamageMultiplier: Aseen vahinkokerroin
 SHADOWDARK.item.effect.predefined_effect.weaponMastery: Asetaituruus
 SHADOWDARK.item.effect.show-on-panel: Näytä paneelissa
@@ -365,6 +378,7 @@ SHADOWDARK.item.spell_name: Loitsun nimi
 SHADOWDARK.item.spell_range: Kantama
 SHADOWDARK.item.spell_tier: Loihtimistaso
 SHADOWDARK.item.spell.label: Loitsu
+SHADOWDARK.item.stashed.label: Stashed
 SHADOWDARK.item.talent_class: Lahjakkuusluokka
 SHADOWDARK.item.treasure: Aarre
 SHADOWDARK.item.wand.label: Taikasauva
@@ -423,6 +437,9 @@ SHADOWDARK.light-tracker.status.label: Statut
 SHADOWDARK.light-tracker.title.prefix: Valonlähteiden
 SHADOWDARK.light-tracker.title.suffix: seuranta
 SHADOWDARK.light-tracker.user_warning: Yksi tai useampi käyttäjä ei ole valinnut hahmoa
+SHADOWDARK.macro.error.caught_error: "The '{macro}' macro failed with the following error: {error}"
+SHADOWDARK.macro.error.gm_role_required: The '{macro}' macro requires you to have the 'Game Master' user role
+SHADOWDARK.macro.success: The '{macro}' macro completed successfully
 SHADOWDARK.migration.begin_migration: Suoritetaan datan päivityksiä Shadowdark RPG
 SHADOWDARK.migration.begin_schema: Haetaan päivityksiä Shadowdark RPG skeemaan v{version}
 SHADOWDARK.migration.completed_migration: Suoritettu datan päivitys Shadowdark RPG
@@ -491,6 +508,8 @@ SHADOWDARK.settings.track_light_sources.pause_with_game.hint: Jos valitset täm�
 SHADOWDARK.settings.track_light_sources.pause_with_game.name: Pauseta valonlähteiden seuranta
 SHADOWDARK.settings.track_light_sources.realtime_tracking.hint: Jos valitset tämän, valonlähteet seuraa oikeaa aikaa. Poista tämä valinta jos käytät aika- tai kalenteri-moduuleja.
 SHADOWDARK.settings.track_light_sources.realtime_tracking.name: Reaaliaikainen valolähteiden aika
+SHADOWDARK.settings.use_pulp_mode.hint: Shows Luck tokens as a numeric value rather than a checkbox
+SHADOWDARK.settings.use_pulp_mode.name: Enable Pulp Mode
 SHADOWDARK.sheet.abilities.label: Abilities
 SHADOWDARK.sheet.abilities.ungrouped.label: Miscellaneous
 SHADOWDARK.sheet.abilities.uses.decrement.tooltip: Decrease Available Uses
@@ -528,6 +547,10 @@ SHADOWDARK.sheet.player.ancestry.tooltip: Your character's cultural and ancestra
 SHADOWDARK.sheet.player.available_spells: Saatavilla olevat loitsut
 SHADOWDARK.sheet.player.background.label: Tausta
 SHADOWDARK.sheet.player.background.tooltip: Your history and past experience. You are adept at tasks related to your background.
+SHADOWDARK.sheet.player.boons.blessings.label: Blessings
+SHADOWDARK.sheet.player.boons.label: Boons
+SHADOWDARK.sheet.player.boons.oaths.label: Oaths
+SHADOWDARK.sheet.player.boons.secrets.label: Secrets
 SHADOWDARK.sheet.player.class.label: Class
 SHADOWDARK.sheet.player.class.tooltip: Your character's job
 SHADOWDARK.sheet.player.deity.label: Deity
