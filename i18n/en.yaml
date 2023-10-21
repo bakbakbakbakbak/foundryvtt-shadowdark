@@ -70,6 +70,10 @@ SHADOWDARK.armor.properties.disadvantage_swimming: Disadvantage/Swim
 SHADOWDARK.armor.properties.no_swimming: No Swim
 SHADOWDARK.armor.properties.one_handed: Occupies One Hand
 SHADOWDARK.armor.properties.shield: Shield
+SHADOWDARK.boon.type.label: Boon Type
+SHADOWDARK.boons.blessing: Blessing
+SHADOWDARK.boons.oath: Oath
+SHADOWDARK.boons.secret: Secret
 SHADOWDARK.chat_card.button.attack: Roll Attack
 SHADOWDARK.chat_card.button.cast_spell: Cast Spell
 SHADOWDARK.chat_card.button.learn_spell: Learn Spell
@@ -120,7 +124,7 @@ SHADOWDARK.class.armor.all.label: All Armor
 SHADOWDARK.class.armor.label: Armor
 SHADOWDARK.class.armor.prompt: Select Armor...
 SHADOWDARK.class.fighter: Fighter
-SHADOWDARK.class.hit_points.label: Hit Points
+SHADOWDARK.class.hit_points.label: HP Die Roll
 SHADOWDARK.class.language_choices.count.label: Choice Count
 SHADOWDARK.class.language_choices.label: Language Choices
 SHADOWDARK.class.language_choices.prompt: Select Language...
@@ -139,6 +143,8 @@ SHADOWDARK.class.thief: Thief
 SHADOWDARK.class.titles.levels.from.label: From
 SHADOWDARK.class.titles.levels.label: Levels
 SHADOWDARK.class.titles.levels.to.label: To
+SHADOWDARK.class.weapons.all_melee.label: All Melee Weapons
+SHADOWDARK.class.weapons.all_ranged.label: All Ranged Weapons
 SHADOWDARK.class.weapons.all.label: All Weapons
 SHADOWDARK.class.weapons.label: Weapons
 SHADOWDARK.class.weapons.prompt: Select Weapon...
@@ -156,8 +162,10 @@ SHADOWDARK.dialog.ability_check.str: Strength Check
 SHADOWDARK.dialog.ability_check.title: Ability Check
 SHADOWDARK.dialog.ability_check.wis: Wisdom Check
 SHADOWDARK.dialog.effect.choice.armor: Choose Armor Type
+SHADOWDARK.dialog.effect.choice.attribute: Choose Attribute
 SHADOWDARK.dialog.effect.choice.lightSource: Choose Light Source
 SHADOWDARK.dialog.effect.choice.spell: Choose Spell
+SHADOWDARK.dialog.effect.choice.weapon_property: Choose Weapon Property
 SHADOWDARK.dialog.effect.choice.weapon: Choose Weapon Type
 SHADOWDARK.dialog.general.are_you_sure: Are you sure?
 SHADOWDARK.dialog.general.cancel: Cancel
@@ -258,6 +266,7 @@ SHADOWDARK.inventory.tooltip.item_increment: Increase Quantity
 SHADOWDARK.inventory.tooltip.sell_treasure: Sell Treasure
 SHADOWDARK.inventory.tooltip.toggle_equipped: Toggle Equipped
 SHADOWDARK.inventory.tooltip.toggle_light_source: Toggle Light Source
+SHADOWDARK.inventory.tooltip.toggle_stashed: Toggle Stashed
 SHADOWDARK.inventory.total_coins: Total Coins
 SHADOWDARK.inventory.total_gems: Total Gems
 SHADOWDARK.item_type.armor: Armor
@@ -295,6 +304,7 @@ SHADOWDARK.item.effect.predefined_effect.abilityImprovementInt: Ability Score Im
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementStr: Ability Score Improvement (Str)
 SHADOWDARK.item.effect.predefined_effect.abilityImprovementWis: Ability Score Improvement (Wis)
 SHADOWDARK.item.effect.predefined_effect.acBonus: AC Bonus
+SHADOWDARK.item.effect.predefined_effect.acBonusFromAttribute: AC Bonus from Attribute
 SHADOWDARK.item.effect.predefined_effect.additionalGearSlots: Additional Gear Slots
 SHADOWDARK.item.effect.predefined_effect.armorMastery: Armor Mastery
 SHADOWDARK.item.effect.predefined_effect.backstabDie: Additional Backstab Die
@@ -317,9 +327,12 @@ SHADOWDARK.item.effect.predefined_effect.rangedAttackBonus: Ranged Attack Roll B
 SHADOWDARK.item.effect.predefined_effect.rangedDamageBonus: Ranged Damage Bonus
 SHADOWDARK.item.effect.predefined_effect.spellAdvantage: Spellcasting Advantage on Spell
 SHADOWDARK.item.effect.predefined_effect.spellCastingBonus: Spellcasting Check Bonus
+SHADOWDARK.item.effect.predefined_effect.unarmoredAcBonus: Unarmored AC Bonus
 SHADOWDARK.item.effect.predefined_effect.weaponAttackBonus: Weapon Attack Roll Bonus
 SHADOWDARK.item.effect.predefined_effect.weaponDamageBonus: Weapon Attack Damage Bonus
 SHADOWDARK.item.effect.predefined_effect.weaponDamageDieD12: Weapon Damage Die D12
+SHADOWDARK.item.effect.predefined_effect.weaponDamageDieImprovementByProperty: Weapon Damage Die Improvement By Property
+SHADOWDARK.item.effect.predefined_effect.weaponDamageExtraDieByProperty: Extra Damage Die By Property
 SHADOWDARK.item.effect.predefined_effect.weaponDamageMultiplier: Weapon Damage Multiplier
 SHADOWDARK.item.effect.predefined_effect.weaponMastery: Weapon Mastery
 SHADOWDARK.item.effect.show-on-panel: Show on panel
@@ -366,6 +379,7 @@ SHADOWDARK.item.spell_name: Spell Name
 SHADOWDARK.item.spell_range: Range
 SHADOWDARK.item.spell_tier: Tier
 SHADOWDARK.item.spell.label: Spell
+SHADOWDARK.item.stashed.label: Stashed
 SHADOWDARK.item.talent_class: Talent Class
 SHADOWDARK.item.treasure: Treasure
 SHADOWDARK.item.wand.label: Wand
@@ -424,6 +438,9 @@ SHADOWDARK.light-tracker.status.label: Status
 SHADOWDARK.light-tracker.title.prefix: Light
 SHADOWDARK.light-tracker.title.suffix: Tracker
 SHADOWDARK.light-tracker.user_warning: One or more users have not selected a character
+SHADOWDARK.macro.error.caught_error: "The '{macro}' macro failed with the following error: {error}"
+SHADOWDARK.macro.error.gm_role_required: The '{macro}' macro requires you to have the 'Game Master' user role
+SHADOWDARK.macro.success: The '{macro}' macro completed successfully
 SHADOWDARK.migration.begin_migration: Performing data upgrades for Shadowdark RPG
 SHADOWDARK.migration.begin_schema: Applying updates for Shadowdark RPG schema v{version}
 SHADOWDARK.migration.completed_migration: Completed data updgrades for Shadowdark RPG
@@ -492,6 +509,8 @@ SHADOWDARK.settings.track_light_sources.pause_with_game.hint: If checked the Rea
 SHADOWDARK.settings.track_light_sources.pause_with_game.name: Pause Light Tracking
 SHADOWDARK.settings.track_light_sources.realtime_tracking.hint: If checked the Light Tracking will follow real time. Disable if an external time/calendar module is used.
 SHADOWDARK.settings.track_light_sources.realtime_tracking.name: Realtime Light Tracking
+SHADOWDARK.settings.use_pulp_mode.hint: Shows Luck tokens as a numeric value rather than a checkbox
+SHADOWDARK.settings.use_pulp_mode.name: Enable Pulp Mode
 SHADOWDARK.sheet.abilities.label: Abilities
 SHADOWDARK.sheet.abilities.ungrouped.label: Miscellaneous
 SHADOWDARK.sheet.abilities.uses.decrement.tooltip: Decrease Available Uses
@@ -529,6 +548,10 @@ SHADOWDARK.sheet.player.ancestry.tooltip: Your character's cultural and ancestra
 SHADOWDARK.sheet.player.available_spells: Available Spells
 SHADOWDARK.sheet.player.background.label: Background
 SHADOWDARK.sheet.player.background.tooltip: Your history and past experience. You are adept at tasks related to your background.
+SHADOWDARK.sheet.player.boons.blessings.label: Blessings
+SHADOWDARK.sheet.player.boons.label: Boons
+SHADOWDARK.sheet.player.boons.oaths.label: Oaths
+SHADOWDARK.sheet.player.boons.secrets.label: Secrets
 SHADOWDARK.sheet.player.class.label: Class
 SHADOWDARK.sheet.player.class.tooltip: Your character's job
 SHADOWDARK.sheet.player.deity.label: Deity
