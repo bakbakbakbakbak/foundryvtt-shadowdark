@@ -16,7 +16,7 @@ SHADOWDARK.alignment.neutral: Neutral
 SHADOWDARK.ancestry.languages.label: Ancestry Languages
 SHADOWDARK.ancestry.languages.prompt: Select Language...
 SHADOWDARK.ancestry.talents.count.label: Choice Count
-SHADOWDARK.ancestry.talents.label: Ancestry Talents
+SHADOWDARK.ancestry.talents.label: Talentos de ancestro
 SHADOWDARK.ancestry.talents.prompt: Select Talent...
 SHADOWDARK.app.active_effects.title: Efectos activos
 SHADOWDARK.app.gem_bag.sell_all: Vender todas las gemas
@@ -70,9 +70,9 @@ SHADOWDARK.armor.properties.no_swimming: Sin nadar
 SHADOWDARK.armor.properties.one_handed: Ocupa una mano
 SHADOWDARK.armor.properties.shield: Escudo
 SHADOWDARK.boon.type.label: Boon Type
-SHADOWDARK.boons.blessing: Blessing
-SHADOWDARK.boons.oath: Oath
-SHADOWDARK.boons.secret: Secret
+SHADOWDARK.boons.blessing: Bendición
+SHADOWDARK.boons.oath: Juramentos
+SHADOWDARK.boons.secret: Secreto
 SHADOWDARK.chat_card.button.attack: Tirada de ataque
 SHADOWDARK.chat_card.button.cast_spell: Lanzar hechizo
 SHADOWDARK.chat_card.button.learn_spell: Aprender hechizo
@@ -120,8 +120,8 @@ SHADOWDARK.class-ability.lose_on_failure.label: Lose on Failure?
 SHADOWDARK.class-ability.lost.label: Lost
 SHADOWDARK.class-ability.maximum.label: Maximum
 SHADOWDARK.class.armor.all.label: All Armor
-SHADOWDARK.class.armor.label: Armor
-SHADOWDARK.class.armor.prompt: Select Armor...
+SHADOWDARK.class.armor.label: Armadura
+SHADOWDARK.class.armor.prompt: Seleccionar armadura...
 SHADOWDARK.class.fighter: Luchador
 SHADOWDARK.class.hit_points.label: HP Die Roll
 SHADOWDARK.class.language_choices.count.label: Choice Count
@@ -134,19 +134,19 @@ SHADOWDARK.class.spellcasting_ability.label: Aptitud Mágica
 SHADOWDARK.class.spellcasting_class.label: Spell Class
 SHADOWDARK.class.talent_choices.count.label: Choice Count
 SHADOWDARK.class.talent_choices.label: Talent Choices
-SHADOWDARK.class.talent_choices.prompt: Select Talent...
+SHADOWDARK.class.talent_choices.prompt: Seleccionar talento...
 SHADOWDARK.class.talents_table.label: Class Talents Table
-SHADOWDARK.class.talents.label: Talents
-SHADOWDARK.class.talents.prompt: Select Talent...
+SHADOWDARK.class.talents.label: Talentos
+SHADOWDARK.class.talents.prompt: Seleccionar talento...
 SHADOWDARK.class.thief: Ladrón
 SHADOWDARK.class.titles.levels.from.label: From
-SHADOWDARK.class.titles.levels.label: Levels
-SHADOWDARK.class.titles.levels.to.label: To
-SHADOWDARK.class.weapons.all_melee.label: All Melee Weapons
-SHADOWDARK.class.weapons.all_ranged.label: All Ranged Weapons
-SHADOWDARK.class.weapons.all.label: All Weapons
-SHADOWDARK.class.weapons.label: Weapons
-SHADOWDARK.class.weapons.prompt: Select Weapon...
+SHADOWDARK.class.titles.levels.label: Niveles
+SHADOWDARK.class.titles.levels.to.label: A
+SHADOWDARK.class.weapons.all_melee.label: Todas las armas cuerpo a cuerpo
+SHADOWDARK.class.weapons.all_ranged.label: Todas las armas a distancia
+SHADOWDARK.class.weapons.all.label: Todas las armas
+SHADOWDARK.class.weapons.label: Armas
+SHADOWDARK.class.weapons.prompt: Seleccionar arma...
 SHADOWDARK.class.wizard: Mago
 SHADOWDARK.coins.cp: PC
 SHADOWDARK.coins.gp: PO
@@ -195,16 +195,16 @@ SHADOWDARK.dialog.item.use: Usar
 SHADOWDARK.dialog.light_source.pick_up.title: Seleccionar actor para dar fuente de luz
 SHADOWDARK.dialog.roll_mode_label: Modo de tirada
 SHADOWDARK.dialog.roll: Tirada
-SHADOWDARK.dialog.select_ancestry.prompt: Select Ancestry...
-SHADOWDARK.dialog.select_ancestry.title: Choose Ancestry
+SHADOWDARK.dialog.select_ancestry.prompt: Seleccionar ancestro...
+SHADOWDARK.dialog.select_ancestry.title: Elige ancestro
 SHADOWDARK.dialog.select_armor_property.prompt: Select Armor Property...
 SHADOWDARK.dialog.select_armor_property.title: Choose Armor Properties
 SHADOWDARK.dialog.select_background.prompt: Select Background...
 SHADOWDARK.dialog.select_background.title: Choose Background
 SHADOWDARK.dialog.select_class.prompt: Select Class...
-SHADOWDARK.dialog.select_class.title: Choose Class
-SHADOWDARK.dialog.select_deity.prompt: Select Deity...
-SHADOWDARK.dialog.select_deity.title: Choose Deity
+SHADOWDARK.dialog.select_class.title: Elige clase
+SHADOWDARK.dialog.select_deity.prompt: Seleccionar deidad...
+SHADOWDARK.dialog.select_deity.title: Elegir deidad
 SHADOWDARK.dialog.select_languages.prompt: Select Language...
 SHADOWDARK.dialog.select_languages.title: Choose Languages
 SHADOWDARK.dialog.select_weapon_property.prompt: Select Weapon Property...
@@ -550,10 +550,10 @@ SHADOWDARK.sheet.player.background.tooltip: Your history and past experience. Yo
 SHADOWDARK.sheet.player.boons.blessings.label: Blessings
 SHADOWDARK.sheet.player.boons.label: Boons
 SHADOWDARK.sheet.player.boons.oaths.label: Oaths
-SHADOWDARK.sheet.player.boons.secrets.label: Secrets
-SHADOWDARK.sheet.player.class.label: Class
+SHADOWDARK.sheet.player.boons.secrets.label: Secretos
+SHADOWDARK.sheet.player.class.label: Clase
 SHADOWDARK.sheet.player.class.tooltip: Your character's job
-SHADOWDARK.sheet.player.deity.label: Deity
+SHADOWDARK.sheet.player.deity.label: Deidad
 SHADOWDARK.sheet.player.deity.tooltip: Your character’s cosmic link to the opposing forces of Law and Chaos, or balanced Neutrality.
 SHADOWDARK.sheet.player.languages: Idiomas
 SHADOWDARK.sheet.player.luck: Suerte
@@ -593,7 +593,7 @@ SHADOWDARK.spell_range.close: Cerca
 SHADOWDARK.spell_range.far: Lejos
 SHADOWDARK.spell_range.near: Próximo
 SHADOWDARK.spell.classes.label: Clases de hechicero
-SHADOWDARK.spell.classes.prompt: Select Class...
+SHADOWDARK.spell.classes.prompt: Seleccionar clase...
 SHADOWDARK.talent.backstab: Puñalada
 SHADOWDARK.talent.class.ancestry: Ancestro
 SHADOWDARK.talent.class.class: Clase
